@@ -1,0 +1,119 @@
+Ray直播，茶客 节点源测试,#genre#
+CCTV1-1,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
+
+
+CCTV1-2,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+
+
+CCTV1-3,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+
+
+CCTV1-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+
+
+CCTV1-5,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+
+
+CCTV1-6,http://125.74.6.39/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+
+
+CCTV1-7,https://live.metshop.top/bestv.php?id=cctv1hd8m/8000000
+
+
+CCTV1-8,http://119.62.212.164:8014/ch/custom80/mqlive.m3u8 
+
+
+CCTV1-9,http://mqiptv.com:8014/ch/custom80/mqlive.m3u8
+
+
+CCTV1-10,http://111.40.196.27:443/PLTV/88888888/224/3221225548/1.m3u8
+
+
+
+CCTV1-11,http://cyz31.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
+
+
+
+CCTV1-12,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
+
+
+CCTV1-13,http://ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
+
+
+
+不可时移源,#genre#
+CCTV1-1,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
+
+CCTV1-2,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+CCTV1-7,https://live.metshop.top/bestv.php?id=cctv1hd8m/8000000
+CCTV1-8,http://119.62.212.164:8014/ch/custom80/mqlive.m3u8 
+CCTV1-9,http://mqiptv.com:8014/ch/custom80/mqlive.m3u8
+CCTV1-11,http://cyz31.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
+CCTV-1 综合,https://cntv.sbs/tv?auth=2310201855&id=cctv1
+
+
+
+可时移源,#genre#
+CCTV1-3,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV1-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV1-5,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV1-6,http://125.74.6.39/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV1-10,http://111.40.196.27:443/PLTV/88888888/224/3221225548/1.m3u8
+CCTV1-12,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
+CCTV1-13,http://ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
+CCTV-1 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+
+
+
+#可时移源描述
+参考：https://help.aliyun.com/zh/live/developer-reference/about-time-shifting
+一个m3u8源是否支持时移功能，主要取决于该源的服务器是否支持时移。通常，这需要服务器能够存储过去的流数据，并且在请求时能够提供特定的历史时间点的数据。然而，从m3u8文件本身并不能直接判断出其是否支持时移。
+
+如果你有一个具体的m3u8源，并且想要测试其是否支持时移，你可以尝试在请求该源时添加一个指向过去某个时间点的参数。具体的参数格式可能会因服务器的不同而不同，所以你可能需要查阅相关的服务器文档或者联系服务器的提供商来获取更准确的信息。
+
+时移测试：请求追加：?start=1698413579 (时间戳)
+
+可时移测试
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?start=1698413579
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8?start=1698413579
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8?start=1698413579
+http://125.74.6.39/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8?start=1698413579
+http://111.40.196.27:443/PLTV/88888888/224/3221225548/1.m3u8?start=1698413579
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?start=1698413579
+http://ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8?start=1698413579
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?start=1698413579
+
+不可时移测试
+https://live.goodiptv.club/api/cqyx.php?id=cctv1HD&start=1698413579
+https://live.metshop.top/bestv.php?id=cctv1hd8m/8000000&start=1698413579
+http://119.62.212.164:8014/ch/custom80/mqlive.m3u8?start=1698413579
+http://mqiptv.com:8014/ch/custom80/mqlive.m3u8?start=1698413579
+http://cyz31.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5&start=1698413579
+https://cntv.sbs/tv?auth=2310201855&id=cctv1&start=1698413579
+
+总结：经测试通过：请求追加：?start=1698413579 (时间戳) 的方式无法判断源是否为一个可时移源
+
+
+#可时移判断
+1. m3u8中包含：#EXT-X-PROGRAM-DATE-TIME 标签可判断当前源为可时移源；但是不包含该标签并不代表不是一个可时移源
+2. m3u8的原始响应数据中值与 Server: MCP_VCLOUD_LIVE 匹配表示该源为一个可时移源（不确定）
+
+
+
+不是可时移源:
+Server: HMS Download Service + V3
+Server: "不存在" + V4
+Server: “cloudflare” + V3
+Server: httpd + V3
+Server: Vercel + V3
+
+支持可时移源:
+Server: HMS Download Service + V4 + #EXT-X-PROGRAM-DATE-TIME
+Server: HMS Download Service + V3 + #EXT-X-PROGRAM-DATE-TIME
+Server: MCP_VCLOUD_LIVE + V3
+
+
+总结：检查m3u8是否是一个可时移源(从现有的源中分析)：
+1. Server: MCP_VCLOUD_LIVE 表示该源是一个可时移源
+2. Server: HMS Download Service 并且包含#EXT-X-PROGRAM-DATE-TIME 标签表示该源是一个可时移源
+或者直接判断m3u8中包含 #EXT-X-PROGRAM-DATE-TIME 标签就表示该源是一个可时移源

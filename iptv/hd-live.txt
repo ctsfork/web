@@ -1,0 +1,730 @@
+央视高清,#genre#
+CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv1
+CCTV-2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8#http://125.74.6.39/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv2
+CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv3
+CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv4
+CCTV-4K 超高清,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8#https://live.metshop.top/bestv.php?id=cctv4k/15000000#https://live.goodiptv.club/api/cqyx.php?id=CCTV4K#https://cntv.sbs/tv?auth=231013&id=cctv4k
+CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv5
+CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv5p
+CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv6
+CCTV-7 国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv7
+CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv8
+CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv9
+CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv10
+CCTV-11 戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8#http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8#http://125.74.6.39/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv11
+CCTV-12 社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv12
+CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv13
+CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv14
+CCTV-15 音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8#http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8#http://125.74.6.39/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv15
+CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv16#https://cntv.sbs/tv?auth=231013&id=cctv164k
+CCTV-16K 奥林匹克4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8#https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000#https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cctv17
+
+卫视高清,#genre#
+三沙卫视,https://cntv.sbs/tv?auth=231013&id=ssws
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8#https://cntv.sbs/tv?auth=231013&id=dnws
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8#https://cntv.sbs/tv?auth=231013&id=dfws
+云南卫视,https://cntv.sbs/tv?auth=231013&id=ynws
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+兵团卫视,https://cntv.sbs/tv?auth=231013&id=btws
+内蒙古卫视,https://cntv.sbs/tv?auth=231013&id=nmws
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8#https://cntv.sbs/tv?auth=231013&id=bjws
+厦门卫视,https://cntv.sbs/tv?auth=231013&id=xmws
+吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8#https://cntv.sbs/tv?auth=231013&id=jlws
+四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8#https://cntv.sbs/tv?auth=231013&id=scws
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8#https://cntv.sbs/tv?auth=231013&id=tjws
+宁夏卫视,https://cntv.sbs/tv?auth=231013&id=nxws
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8#https://cntv.sbs/tv?auth=231013&id=ahws
+山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8#https://cntv.sbs/tv?auth=231013&id=sdws
+山西卫视,https://cntv.sbs/tv?auth=231013&id=sxiws
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8#https://cntv.sbs/tv?auth=231013&id=gdws
+广西卫视,https://cntv.sbs/tv?auth=231013&id=gxws
+康巴卫视,https://cntv.sbs/tv?auth=231013&id=kbws
+新疆卫视,https://cntv.sbs/tv?auth=231013&id=xjws
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8#https://cntv.sbs/tv?auth=231013&id=jsws
+江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8#https://cntv.sbs/tv?auth=231013&id=jxws
+河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8#https://cntv.sbs/tv?auth=231013&id=hbws
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8#https://cntv.sbs/tv?auth=231013&id=hnws
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8#https://cntv.sbs/tv?auth=231013&id=zjws
+海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8#https://cntv.sbs/tv?auth=231013&id=hinws
+海峡卫视,https://cntv.sbs/tv?auth=231013&id=hxws
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8#https://cntv.sbs/tv?auth=231013&id=szws
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8#https://cntv.sbs/tv?auth=231013&id=hubws
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8#https://cntv.sbs/tv?auth=231013&id=hunws
+澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=231013
+甘肃卫视,https://cntv.sbs/tv?auth=231013&id=gsws
+莲花卫视,https://cntv.sbs/tv/lhws.php
+西藏卫视,https://cntv.sbs/tv?auth=231013&id=xzws
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8#https://cntv.sbs/tv?auth=231013&id=gzws
+辽宁卫视,https://cntv.sbs/tv?auth=231013&id=lnws
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8#https://cntv.sbs/tv?auth=231013&id=cqws
+陕西卫视,https://cntv.sbs/tv?auth=231013&id=sxws
+青海卫视,https://cntv.sbs/tv?auth=231013&id=qhws
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8#https://cntv.sbs/tv?auth=231013&id=hljws
+
+NewTV,#genre#
+NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+NewTV军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+NewTV军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+NewTV农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+NewTV明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+NewTV欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+NewTV武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+NewTV海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+NewTV潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+NewTV精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+NewTV精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+NewTV精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+NewTV超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+
+经典影视,#genre#
+CHC动作电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
+CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+CHC高清电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+全球大片,https://cntv.sbs/tv?auth=231013&id=qqdp
+华语影院,https://cntv.sbs/tv?auth=231013&id=hyyy
+咪咕全民热练,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+咪咕视频1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+咪咕视频2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+咪咕视频3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+新视觉,https://cntv.sbs/tv?auth=231013&id=xsj
+星光影院,https://cntv.sbs/tv?auth=231013&id=xgyy
+欢笑剧场,https://cntv.sbs/tv?auth=231013&id=hxjc
+热门剧场,https://cntv.sbs/tv?auth=231013&id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=231013&id=rmzy
+电竞天堂,https://cntv.sbs/tv?auth=231013&id=djtt
+谍战剧场,https://cntv.sbs/tv?auth=231013&id=dzjc
+都市剧场,https://cntv.sbs/tv?auth=231013&id=dsjc
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+
+卡通动漫,#genre#
+CCTV少儿,https://cntv.sbs/tv?auth=231005&id=cctv14
+内蒙古少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+动漫秀场,https://cntv.sbs/tv?auth=231013&id=dmxc
+哈哈炫动,https://cntv.sbs/tv?auth=231013&id=hhxd
+嘉佳卡通,https://cntv.sbs/tv?auth=231013&id=jjkt
+宝宝动画,https://cntv.sbs/tv?auth=231013&id=bbdh
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+福建少儿,https://cntv.sbs/tv?auth=231013&id=fjse
+金鹰卡通,https://cntv.sbs/tv?auth=231013&id=jykt
+青春动漫,https://cntv.sbs/tv?auth=231013&id=qcdm
+韩·EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+
+韩国女团,#genre#
+韩国歌团★001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
+韩国歌团★002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
+韩国歌团★003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
+韩国歌团★004,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
+韩国歌团★005,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
+韩国歌团★006,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
+韩国歌团★007,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
+韩国歌团★008,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+韩国歌团★009,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
+韩国歌团★010,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
+韩国歌团★011,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
+韩国歌团★012,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
+韩国歌团★013,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
+韩国歌团★014,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
+韩国歌团★015,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
+韩国歌团★016,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
+韩国歌团★017,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
+韩国歌团★018,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+韩国歌团★019,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
+韩国歌团★020,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
+韩国歌团★021,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
+韩国歌团★022,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
+韩国歌团★023,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
+韩国歌团★024,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239809100782.mp4
+韩国歌团★025,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167718.mp4
+韩国歌团★026,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
+韩国歌团★027,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167938.mp4
+韩国歌团★028,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240035466345.mp4
+韩国歌团★029,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239811800375.mp4
+韩国歌团★030,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
+韩国歌团★031,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239927589941.mp4
+韩国歌团★032,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239931661209.mp4
+韩国歌团★033,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240171579858.mp4
+韩国歌团★034,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239831144046.mp4
+韩国歌团★035,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
+韩国歌团★036,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239832040344.mp4
+韩国歌团★037,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240173879894.mp4
+韩国歌团★038,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
+韩国歌团★039,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239936685999.mp4
+韩国歌团★040,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
+韩国歌团★041,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834324813.mp4
+韩国歌团★042,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834716201.mp4
+韩国歌团★043,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239837532125.mp4
+韩国歌团★044,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240179867562.mp4
+韩国歌团★045,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240063650207.mp4
+韩国歌团★046,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181243061.mp4
+韩国歌团★047,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
+韩国歌团★048,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239944465251.mp4
+韩国歌团★049,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
+韩国歌团★050,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
+韩国歌团★051,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065838644.mp4
+韩国歌团★052,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239945877111.mp4
+韩国歌团★053,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240184339138.mp4
+韩国歌团★054,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239842640589.mp4
+韩国歌团★055,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240186067562.mp4
+韩国歌团★056,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187071401.mp4
+韩国歌团★057,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240069974546.mp4
+韩国歌团★058,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070346911.mp4
+韩国歌团★059,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070818783.mp4
+韩国歌团★060,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
+韩国歌团★061,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239951329234.mp4
+韩国歌团★062,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240191295627.mp4
+韩国歌团★063,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240026585459.mp4
+韩国歌团★064,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
+韩国歌团★065,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239911732892.mp4
+韩国歌团★066,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240196491782.mp4
+韩国歌团★067,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239960909980.mp4
+韩国歌团★068,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240017737344.mp4
+韩国歌团★069,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240202339353.mp4
+韩国歌团★070,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240203243765.mp4
+韩国歌团★071,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240205555546.mp4
+韩国歌团★072,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239983417489.mp4
+韩国歌团★073,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239924412457.mp4
+韩国歌团★074,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221687198.mp4
+韩国歌团★075,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240222023079.mp4
+韩国歌团★076,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107150280.mp4
+韩国歌团★077,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240224523227.mp4
+韩国歌团★078,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987569147.mp4
+韩国歌团★079,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225803033.mp4
+韩国歌团★080,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239989445779.mp4
+韩国歌团★081,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240229579224.mp4
+韩国歌团★082,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993533054.mp4
+韩国歌团★083,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994225085.mp4
+韩国歌团★084,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994741288.mp4
+韩国歌团★085,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995197198.mp4
+韩国歌团★086,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240232939168.mp4
+韩国歌团★087,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890536417.mp4
+韩国歌团★088,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890568711.mp4
+韩国歌团★089,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240233783820.mp4
+韩国歌团★090,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
+韩国歌团★091,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239999177791.mp4
+韩国歌团★092,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239895496483.mp4
+韩国歌团★093,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240119938989.mp4
+韩国歌团★094,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002397273.mp4
+韩国歌团★095,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240241527208.mp4
+韩国歌团★096,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239899840062.mp4
+韩国歌团★097,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240243499351.mp4
+韩国歌团★098,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240127638122.mp4
+韩国歌团★099,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240030505796.mp4
+韩国歌团★100,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
+韩国歌团★101,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240247623420.mp4
+韩国歌团★102,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240043672242.mp4
+韩国歌团★103,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240339124000.mp4
+韩国歌团★104,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221702622.mp4
+韩国歌团★105,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993732827.mp4
+韩国歌团★106,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994460907.mp4
+韩国歌团★107,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240340899550.mp4
+韩国歌团★108,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995692215.mp4
+韩国歌团★109,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240341971789.mp4
+韩国歌团★110,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239996664565.mp4
+韩国歌团★111,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240342839842.mp4
+韩国歌团★112,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225254466.mp4
+韩国歌团★113,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225226897.mp4
+韩国歌团★114,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998000351.mp4
+韩国歌团★115,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240105989528.mp4
+韩国歌团★116,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998340711.mp4
+韩国歌团★117,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240106477140.mp4
+韩国歌团★118,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107389699.mp4
+韩国歌团★119,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240345787129.mp4
+韩国歌团★120,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240227966801.mp4
+韩国歌团★121,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240228462625.mp4
+韩国歌团★122,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240108721427.mp4
+韩国歌团★123,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001176191.mp4
+韩国歌团★125,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001228776.mp4
+韩国歌团★126,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240109533631.mp4
+韩国歌团★127,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240347663598.mp4
+韩国歌团★128,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001932458.mp4
+韩国歌团★129,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002044738.mp4
+韩国歌团★130,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240111085001.mp4
+韩国歌团★131,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350575186.mp4
+韩国歌团★132,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350771160.mp4
+韩国歌团★133,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240113261859.mp4
+韩国歌团★134,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240352039996.mp4
+韩国歌团★135,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240236014123.mp4
+韩国歌团★136,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008036293.mp4
+韩国歌团★137,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240354863286.mp4
+韩国歌团★138,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008780109.mp4
+韩国歌团★139,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240009608741.mp4
+韩国歌团★140,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240379515679.mp4
+韩国歌团★141,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240262842385.mp4
+韩国歌团★142,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
+韩国歌团★143,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240384227055.mp4
+韩国歌团★144,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240038428237.mp4
+韩国歌团★145,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240267170778.mp4
+韩国歌团★146,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240386743317.mp4
+韩国歌团★147,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240268654616.mp4
+韩国歌团★148,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240387107547.mp4
+韩国歌团★149,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150573492.mp4
+韩国歌团★150,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240388683474.mp4
+韩国歌团★151,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240270774376.mp4
+韩国歌团★152,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
+韩国歌团★153,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
+
+观察天下,#genre#
+CETV1,https://cntv.sbs/tv?auth=231013&id=cetv1
+CETV2,https://cntv.sbs/tv?auth=231013&id=cetv2
+CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
+七彩戏剧,https://cntv.sbs/tv?auth=231013&id=qcxj
+东方财经,https://cntv.sbs/tv?auth=231013&id=dfcj
+中国天气,https://cntv.sbs/tv?auth=231013&id=zgtq
+乐游,https://cntv.sbs/tv?auth=231013&id=qjs
+五星体育,https://cntv.sbs/tv?auth=231013&id=wxty
+健康养生,https://cntv.sbs/tv?auth=231013&id=jkys
+劲爆体育,https://cntv.sbs/tv?auth=231013&id=jbty
+北京纪实科教,https://cntv.sbs/tv?auth=231013&id=bjjskj
+快乐垂钓,https://cntv.sbs/tv?auth=231013&id=klcd
+戏曲精选,https://cntv.sbs/tv?auth=231013&id=xqjx
+梨园频道,https://pi.0472.org/tv/ly.php?auth=231013
+法治天地,https://cntv.sbs/tv?auth=231013&id=fztd
+游戏风云,https://cntv.sbs/tv?auth=231013&id=yxfy
+生活时尚,https://cntv.sbs/tv?auth=231013&id=shss
+百变课堂,https://cntv.sbs/tv?auth=231013&id=bbkt
+看天下精选,https://cntv.sbs/tv?auth=231013&id=ktxjx
+第一财经,https://cntv.sbs/tv?auth=231013&id=dycj
+纪实人文,https://cntv.sbs/tv?auth=231013&id=shjsrw
+茶频道,https://cntv.sbs/tv?auth=231013&id=cpd
+财富天下,https://cntv.sbs/tv?auth=231013&id=cftx
+金色学堂,https://cntv.sbs/tv?auth=231013&id=jspd
+金鹰纪实,https://cntv.sbs/tv?auth=231013&id=jyjs
+魅力足球,https://cntv.sbs/tv?auth=231013&id=mlzq
+
+综合影视,#genre#
+上海ICS外语,https://cntv.sbs/tv?auth=231013&id=shics
+上海教育,https://cntv.sbs/tv?auth=231013&id=shjy
+上海新闻综合,https://cntv.sbs/tv?auth=231013&id=shxwzh
+上海纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+上海都市,https://cntv.sbs/tv?auth=231013&id=shds
+佳木斯新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+北京纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+哈尔滨新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
+明珠台,https://pi.0472.org/tv/mzt.php?auth=231013
+浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浦东电视台,https://cntv.sbs/tv?auth=231013&id=pdtv
+漠河综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226097/index.m3u8
+澳视澳门,https://pi.0472.org/tv/asam.php?auth=231013
+福建公共,https://cntv.sbs/tv?auth=231013&id=fjgg
+福建教育,https://cntv.sbs/tv?auth=231013&id=fjjy
+福建文体,https://cntv.sbs/tv?auth=231013&id=fjwt
+福建新闻,https://cntv.sbs/tv?auth=231013&id=fjxw
+福建旅游,https://cntv.sbs/tv?auth=231013&id=fjly
+福建电视剧,https://cntv.sbs/tv?auth=231013&id=fjdsj
+福建经济,https://cntv.sbs/tv?auth=231013&id=fjjj
+福建综合,https://cntv.sbs/tv?auth=231013&id=fjzh
+翡翠台,https://pi.0472.org/tv/fct.php?auth=231013
+鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+黑龙江农业科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+黑龙江新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+
+海外影视,#genre#
+ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+Astrakhan24(Opt-2),http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+CA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+CGTN,https://cntv.sbs/tv?auth=231013&id=cgtn
+CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+Comedy,http://51.210.199.27/hls/stream.m3u8
+Documentary,http://51.210.199.23/hls/stream.m3u8
+EdgeSport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+Family,http://51.210.199.19/hls/stream.m3u8
+FASHIONTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+Iranian,http://51.210.199.22/hls/stream.m3u8
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+moviesphere,https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+Music,http://51.210.199.24/hls/stream.m3u8
+NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+Nostalgia,http://51.210.199.20/hls/stream.m3u8
+PBSAmerica,https://pbs-samsunguk.amagi.tv/playlist.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+Thai,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+乌·M2音乐,http://live.m2.tv/hls3/stream.m3u8
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+亚洲新闻720P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+亚洲新闻1080P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+俄·IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+俄·RBC(Opt-1)[996*560],http://92.50.128.180/utv/1358/index.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+希·FoxTV,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+日·QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+美·NASA,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+西·加利西亚欧洲体育电视台,http://europa-crtvg.flumotion.com/playlist.m3u8
+越·HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+金砖电视,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+韩·BBS佛教,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+韩·EBS-1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩·EBS-2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩·HotPlusTV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+韩·KBC,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩·阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩·阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+韩国-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国-EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩国-EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩国-EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩国-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+韩国-MBC综合频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩国-NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+香港佛陀1,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+香港佛陀2,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+
+购物频道,#genre#
+央广购物,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226068/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+安徽家家购物,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226065/index.m3u8
+山东居家购物,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
+山西优购物,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226123/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226091/index.m3u8
+日本Shop,https://stream3.shopch.jp/HLS/master.m3u8
+日本购物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+江苏好享购物,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225757/index.m3u8
+江西风尚购物,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8
+湖南快乐购,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226094/index.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+
+
+网络广播,#genre#
+Big B Radio - 中文流行,http://cpop.bigbradio.net/s
+Big B Radio - 韩语流行,http://kpop.bigbradio.net/s
+Big B Radio - 日语流行,http://jpop.bigbradio.net/s
+Big B Radio - 亚洲流行,http://apop.bigbradio.net/s
+河南新闻广播,https://stream.hndt.com/live/xinwen/playlist.m3u8
+河南经济广播,https://stream.hndt.com/live/jingji/playlist.m3u8
+河南交通广播,https://stream.hndt.com/live/jiaotong/playlist.m3u8
+河南戏曲广播,https://stream.hndt.com/live/yule/playlist.m3u8
+河南音乐广播,https://stream.hndt.com/live/yinyue/playlist.m3u8
+大象资讯台,https://stream.hndt.com/live/nongcun/playlist.m3u8
+My Radio,https://stream.hndt.com/live/yingshi/playlist.m3u8
+私家车999,https://stream.hndt.com/live/sijiache/playlist.m3u8
+河南教育广播,https://stream.hndt.com/live/jiaoyu/playlist.m3u8
+河南信息广播,https://stream.hndt.com/live/leling/playlist.m3u8
+Big Radio,https://stream.hndt.com/live/gudian/playlist.m3u8
+CRI环球资讯广播,https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+CRI华语环球广播,http://sk.cri.cn/hyhq.m3u8
+CRI英语环球广播 China Plus Radio ,http://sk.cri.cn/am846.m3u8
+CRI外语教学广播 China Plus Radio ,http://sk.cri.cn/am1008.m3u8
+CRI南海之声,http://sk.cri.cn/nhzs.m3u8
+CRI轻松调频,http://sk.cri.cn/915.m3u8
+CRI粤语国际,http://sk.cri.cn/hxfh.m3u8
+CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR文艺之声,http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
+CNR阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+CNR大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+上海长三角之声,https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+上海第一财经广播,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+天津静海区综合广播·交通广播网,http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008
+湖南旅游广播·PoPoPod播客电台,https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+江苏故事广播,https://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
+江苏新闻综合广播,https://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
+江苏文艺广播,https://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+江苏财经广播,https://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8
+安徽之声,https://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
+安徽生活广播·城市之声,https://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
+安徽经济广播,https://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
+安徽交通广播,https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
+安徽旅游广播·高速之声,https://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
+安徽戏曲广播·动听995,https://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
+安徽故事广播,https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
+湖北之声,https://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
+楚天交通广播,https://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8
+湖北亲子广播,https://satellitepull.cnr.cn/live/wx32hubfnetgb/playlist.m3u8
+湖北生活广播,https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
+湖北城市之声,https://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8
+湖北资讯广播,https://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
+武汉新闻广播,http://stream.appwuhan.com/xwpdzb/sd/live.m3u8
+武汉交通广播,http://stream.appwuhan.com/jtpdzb/sd/live.m3u8
+武汉经济广播,http://stream.appwuhan.com/cjpdzb/sd/live.m3u8
+河北文艺广播,https://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+河北综合广播,https://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
+河北交通广播,https://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8
+河北经济广播,https://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8
+河北生活广播,https://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8
+福建都市广播·私家车987,https://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
+福建东南广播,https://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
+江西都市广播,https://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8
+山东交通广播,https://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
+山东体育休闲广播,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东经济广播,https://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
+山东乡村广播,https://satellitepull.cnr.cn/live/wxsdxcgb/playlist.m3u8
+绍兴之声,http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
+绍兴交通广播,http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
+陕西交通广播,https://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8
+陕西经济广播·896汽车调频,https://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
+陕西都市广播·陕广新闻,https://satellitepull.cnr.cn/live/wxsxxdsgb/playlist.m3u8
+陕西农村广播,https://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
+陕西戏曲广播,https://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
+陕西新闻广播,https://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
+浙江之声,https://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
+浙江经济广播,https://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
+浙江交通之声,https://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
+浙江民生资讯广播,https://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
+浙江城市之声,https://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
+浙江旅游之声,https://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
+宁波新闻综合广播,http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
+宁波老少广播·阳光904,http://ihzlh.linker.cc/ihzlh/zjnb_ts05_904.m3u8
+宁波交通广播,http://ihzlh.linker.cc/ihzlh/zjnb_ts01_939.m3u8
+宁波经济广播,http://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8
+惠州综合广播,http://stream.hztvmg.com/gbtest2/sd/live.m3u8
+四川经济广播,https://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
+四川文艺广播,https://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
+四川旅游生活广播,https://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
+四川交通广播,https://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
+四川综合广播四川之声,https://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
+四川私家车广播,https://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
+贵州经济广播,https://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
+贵州旅游广播,https://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
+贵州故事广播,https://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
+贵州综合广播,https://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
+延边文艺生活广播,https://satellitepull.cnr.cn/live/wxybwyshgb/playlist.m3u8
+辽宁之声,https://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
+辽宁乡村广播,https://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
+辽宁经济广播,https://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
+辽宁交通广播,https://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
+福州左海之声,http://live.zohi.tv/audio/s10001-FM901/index.m3u8
+福州交通之声,http://live.zohi.tv/audio/s10001-FM876/index.m3u8
+福州新闻广播,http://live.zohi.tv/audio/s10001-FM944/index.m3u8
+黑龙江都市女性广播,https://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
+黑龙江高校广播,https://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
+黑龙江老年少儿广播·爱家调频,https://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
+黑龙江朝鲜语广播,https://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
+内蒙古农村牧区广播绿野之声,https://satellitepull.cnr.cn/live/wx32nmglyzs/playlist.m3u8
+内蒙古新闻广播,https://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
+内蒙古经济生活广播,https://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
+内蒙古评书曲艺广播,https://satellitepull.cnr.cn/live/wx32nmgpsqy/playlist.m3u8
+内蒙古蒙语对外广播草原之声,https://satellitepull.cnr.cn/live/wx32nmgdwgb/playlist.m3u8
+内蒙古蒙语新闻综合广播,https://satellitepull.cnr.cn/live/wx32nmgmygb/playlist.m3u8
+锡林郭勒汉语广播,https://satellitepull.cnr.cn/live/wx32nmgxlglhygb/playlist.m3u8
+锡林郭勒蒙语广播,https://satellitepull.cnr.cn/live/wx32nmgxlglmygb/playlist.m3u8
+阿拉善汉语广播,https://satellitepull.cnr.cn/live/wx32nmgalshygb/playlist.m3u8
+阿拉善蒙语广播,https://satellitepull.cnr.cn/live/wx32nmgalsmygb/playlist.m3u8
+呼伦贝尔汉语广播,https://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8
+呼伦贝尔蒙语广播,https://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
+新疆私家车广播,https://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8
+甘肃经济广播,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
+广西教育广播,https://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8
+广西综合广播,https://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
+广西北部湾之声,https://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8
+广西交通广播,https://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8
+云南新闻广播,https://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
+云南经济广播·私家车电台,https://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8
+云南交通之声,https://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8
+云南旅游广播·香格里拉之声,https://satellitepull.cnr.cn/live/wxxgllzs/playlist.m3u8
+云南民族广播,https://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8
+云南国际广播,https://satellitepull.cnr.cn/live/wxynsegb/playlist.m3u8
+云南教育广播·知道分子频道,https://satellitepull.cnr.cn/live/wxynjygb/playlist.m3u8
+宁夏经济广播,https://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8
+宁夏新闻广播,https://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
+宁夏旅游广播,https://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8
+青海新闻综合广播,https://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
+青海经济广播,https://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
+世界华声,http://sk.cri.cn/hxfh.m3u8
+开州之声,http://183.64.174.171:10124/tlgb.m3u8
+山西健康之声广播,rtmp://radiolive.sxrtv.com/live/jiankang
+山西农村广播,rtmp://radiolive.sxrtv.com/live/nongcun
+山西文艺广播·好听1015,rtmp://radiolive.sxrtv.com/live/wenyi
+山西交通广播,rtmp://radiolive.sxrtv.com/live/jiaotong
+山西经济广播,rtmp://radiolive.sxrtv.com/live/jingji
+山西综合广播,rtmp://radiolive.sxrtv.com/live/zonghe
+山西故事广播,rtmp://radiolive.sxrtv.com/live/gushi
+欢乐调频,http://starfish.bj.aliyun.007.qingting.fm:8000/huanletiaopin
+房山电台,http://live.funhillrm.com/3/sd/live.m3u8
+维吾尔语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+哈萨克语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+BBC World Service,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
+CNN,http://tunein.streamguys1.com/cnn-new
+CNN International,http://tunein.ord.streamguys1.com/secure-CNNi
+Al Jazeera,http://tunein.ord.streamguys1.com/secure-aljazeera-english
+CNBC,http://tunein.streamguys1.com/cnbc
+MSNBC,http://tunein.ord.streamguys1.com/secure-msnbc-premium
+Bloomberg TV,http://tunein.streamguys1.com/BloombergTV
+ESPN,http://tunein.streamguys1.com/ESPNTV
+ESPN Radio,http://tunein.streamguys1.com/ESPNRadio
+VOA Global English,https://voaaudio-lh.akamaihd.net/i/PACKVOA161_352R@825053/master.m3u8
+VOA Newscasts,https://voaaudio-lh.akamaihd.net/i/PACKVOA155_233L@824354/master.m3u8
+BBC Radio 1,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
+BBC Radio 1Xtra,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
+BBC Radio 1 Dance,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
+BBC Radio 1 relax,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio=320000.m3u8
+BBC Radio 2,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
+BBC Radio 3,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
+BBC Radio 4,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
+BBC Radio 4 Extra,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
+BBC Radio 5 live,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
+BBC Radio 6,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
+POP Radio 台北流行广播电台,http://149.129.100.78:8000/popradio
+POP Radio 好听广播电台,http://149.129.100.78:8000/pop907
+A-line Radio 网路音乐台,http://radio.apple-line.com:987/radio-data/alinePlayer.php
+HitFM联播网|台北之音,http://149.129.100.78:8000/hitfm
+M-Radio全国广播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+全国治安交通网,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+CityFM|城市广播,http://fm929.cityfm.tw:8080/929.mp3
+CityFM|台北健康,http://fm901.cityfm.tw:8080/901.mp3
+CityFM|台南之音,http://fm971.cityfm.tw:8080/971.mp3
+CityFM|大苗栗广播,http://fm983.cityfm.tw:8080/983.mp3
+hi radio,http://stream.rcs.revma.com/m5vcf26np7zuv
+正义电台,http://211.20.119.103:8081
+太阳电台,http://211.20.119.102:8081
+Ai FM,https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
+台北广播电台FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+台北广播电台AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+飞特电台,https://phate.io/listen.ogg
+中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
+中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+News98新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
+飞碟电台,http://stream.rcs.revma.com/em90w4aeewzuv
+澳门电台,https://live4.tdm.com.mo/live/_definst_/rch2.live/playlist.m3u8
+宝岛联播网|宝岛新声,http://stream.superfm99-1.com.tw:8555
+宝岛联播网|大千电台,http://stream.superfm99-1.com.tw:8554
+RTI国语,https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
+RTI音乐,https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
+国立教育电台,http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+台湾古典音乐台,http://59.120.88.155:8000/live.mp3
+Kiss Radio,http://api.kiss.com.tw/test/hichannel2.php?api=2
+CAPITAL 958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+988友声有色,http://23023.live.streamtheworld.com/988_FMAAC.aac
+MY,https://astro1.rastream.com/myfm
+one FM,https://mediaprima.rastream.com/mediaprima-onefm
+好FM,https://22283.live.streamtheworld.com/HAO_963AAC.aac
+YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
+LOVE 972,https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+UFM 1003,https://22243.live.streamtheworld.com/UFM_1003AAC_SC
+法国国际广播电台,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+俄罗斯卫星通讯社,http://icecast-ruvr.cdnvideo.ru/rian.voicechi
+美国之音,https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+自由亚洲电台,https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
+CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
+Eclectic24,https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
+VOCALO,https://stream.wbez.org/vocalolinear
+n p r | WUNC,http://216.246.39.189/wunc-source
+n p r | KJZZ,http://kjzz.streamguys1.com/kjzz_aac_high
+n p r | WLRN,https://hls.wlrn.mobi/live/WLRNFMAAC/live/WLRNFMAAC256/playlist.m3u8
+n p r | WBEZ,http://stream.wbez.org/wbezlinear
+n p r | HPM News,http://stream.houstonpublicmedia.org/news-aac-256
+n p r | MPR News,http://nis.stream.publicradio.org/nis.mp3
+n p r | KCRW News,http://kcrw.streamguys1.com/kcrw_192k_mp3_news
+n p r | WOSU,http://wosu.streamguys1.com/NPR_256
+n p r | KQED,http://hls.kqed.org/kqed/256/playlist.m3u8
+n p r | WAMU,http://hls-1.wamu.org/itunes/256/playlist.m3u8
+n p r | WBUR,http://wowza-stream.wbur.org/hls/smil:wbur.smil/hls/wbur256/playlist.m3u8
+n p r | KPBS,http://kpbs-wowza.streamguys1.com/live/smil:kpbs.smil/live/kpbs256kaac.stream/playlist.m3u8
+n p r | KUT,http://kut-hls.streamguys1.com/kut1/256/playlist.m3u8
+n p r | CPR,https://stream2.cprnetwork.org/2198_256.aac/playlist.m3u8
+n p r | KWMU,http://kwmu-flash.streamguys1.com/live/smil:kwmu1.smil/live/kwmu1-256k.stream/playlist.m3u8
+n p r | GPB,http://gpb-hls.streamguys1.com/itunes256/playlist.m3u8
+n p r | WUWM,http://wuwm.streamguys1.com/live
+n p r | NHPR,http://205.234.238.46/nhpr-256-source.aac
+阿里郎电台(视频),https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+阿里郎电台(音频),http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlist.m3u8
+CNR音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+CNR经典音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+CRI HIT FM (北京),https://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+CRI HIT FM (广州),https://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+北京经典969,http://live.funhillrm.com/4/sd/live.m3u8
+旅游之声,http://starfish.bj.aliyun.007.qingting.fm:8000/fm98.7lvyouzhisheng
+陕西音乐广播,https://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+陕西青少广播·好听1055,https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
+苏州都市音乐广播,http://audio-live.radio.cn/live/szyy1/playlist.m3u8
+山东音乐广播,https://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
+山东经典音乐广播,https://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
+安徽音乐广播,https://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
+宁波音乐广播,http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
+湖南音乐之声·芒果音乐台,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+湖南文艺广播·摩登音乐台,https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
+惠州音乐广播,http://stream.hztvmg.com/test17/playlist.m3u8
+宜昌音乐生活广播,http://playfmaliyun.3xgd.com/fm/qct.m3u8
+江西旅游广播iFM97.4,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_pyhgb_aac.m3u8
+江西故事广播·潮台969,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969_aac.m3u8
+山西音乐广播,https://radiolive.sxrtv.com/live/yinyue/playlist.m3u8
+内蒙古音乐之声,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+湖北经典音乐广播,https://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
+甘肃青春调频,https://satellitepull.cnr.cn/live/wxgsqcgb/playlist.m3u8
+甘肃都市调频,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+广西音乐广播,https://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
+广西经济广播·女主播电台,https://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
+云南音乐广播,https://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
+四川城市之音,https://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
+四川岷江音乐,https://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
+厦门音乐广播,http://live1.kxm.xmtv.cn/aac_xmyy/playlist.m3u8
+楚天音乐广播,https://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
+江苏音乐广播,https://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
+江苏经典流行音乐广播,https://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
+浙江音乐调频·动听968,https://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
+河北音乐广播,https://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
+广东音乐之声,https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
+深圳飞扬971,https://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
+深圳生活942,https://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
+海南音乐广播,https://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
+贵州音乐广播,https://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
+贵州都市广播,https://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
+宁夏音乐广播,https://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
+重庆音乐广播,https://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+江西音乐广播,https://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
+黑龙江音乐广播,https://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
+福建汽车音乐广播,https://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
+哈尔滨古典音乐广播,http://pull.hrbtv.net/tv/12.m3u8
+福州音乐广播,http://live.zohi.tv/audio/s10001-FM893/index.m3u8
+成都文化休闲广播·radio946,http://149.129.100.78/cdgb.php?id=433-20
+WHIZ Radio 海口音乐广播,http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
+青岛音体广播,http://video11.qtv.com.cn/zhiboytgb-sd/manifest.m3u8
+青岛摩登音乐调频,http://video11.qtv.com.cn/zhibo886/manifest.m3u8
+辽宁经典音乐广播,https://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
+青海交通音乐广播,https://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
+北京音乐广播,http://audiolive2.rbc.cn:1935/live/fm974/96K/tzwj_video.m3u8
+武汉音乐广播,http://stream.appwuhan.com/yypdzb/sd/live.m3u8
+武汉青少广播·M-radio,http://stream.appwuhan.com/sepdzb/sd/live.m3u8
+长沙城市之声,http://115.238.238.218/zhcs_radio/cszs1017__redirect__20573.m3u8
+长沙音乐广播,http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
+长沙交通广播,http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8

@@ -1,0 +1,3 @@
+trojan://IcEc0maRnb3lNWxRDk-vxF-rJeXpSyR0mwsfX58H0XhDom43@trojan.ibgfw.top:25487?type=ws&security=none&flow=xtls-rprx-direct&path=/trojan-panel-websocket-path#Trojan3
+trojan://IcEc0maRnb3lNWxRDk-vxF-rJeXpSyR0mwsfX58H0XhDom43@trojan.ibgfw.top:13578?type=tcp&security=tls&flow=xtls-rprx-direct#Trojan2
+trojan://IcEc0maRnb3lNWxRDk-vxF-rJeXpSyR0mwsfX58H0XhDom43@trojan.ibgfw.top:26851?type=ws&security=tls&flow=&path=/trojan-panel-websocket-path#Trojan4
