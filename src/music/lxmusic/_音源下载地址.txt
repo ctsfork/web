@@ -1,0 +1,94 @@
+音源下载地址整理：
+
+
+
+0. sixyin-music-source-v1.2.0.js
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/sixyin/sixyin-music-source-v1.2.0.js
+
+
+1. sixyin-music-source-v1.1.0.js
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/sixyin/sixyin-music-source-v1.1.0.js
+
+
+
+
+2. sixyin-music-source-v1.0.7-V2.js
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/sixyin/sixyin-music-source-v1.0.7-V2.js
+
+
+
+
+3. sixyin-music-source-v1.0.7-V1.js  -  新版本的落雪音乐不支持
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/sixyin/sixyin-music-source-v1.0.7-V1.js
+
+
+
+
+4. ikun-source.js
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/ikun/ikun-source.js
+
+
+
+
+5. grass-v1.js
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/grass/grass-v1.js
+
+
+
+6. flower-v1.js
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/flower/flower-v1.js
+
+
+
+
+7. 無名-v3.js
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/wuming/v3.js
+
+
+
+8. 無名-v2.js
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/wuming/v2.js
+
+
+
+
+9. lx-music-source-local.js
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/local/lx-music-source-local.js
+
+
+
+10. lx-music-source-nya.js
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/local/lx-music-source-nya.js
+
+
+
+11. 肥猫 v1.js
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/fatcat/v1.js
+
+
+12. 肥猫 v2.js
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/fatcat/v2.js
+
+
+13. 落雪原内置源 v1.1.1.js
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/lxmusic/v1.js
+
+
+14. 小熊猫 
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/panda/v1.js
+
+
+
+15. 梓橙 v1
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/zicheng/v1.js
+
+
+16. 梓橙 v1.0.1
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/zicheng/v1.0.1.js
+
+
+17. 梓橙 v2
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/lxmusic/zicheng/v2.js
+
+
+

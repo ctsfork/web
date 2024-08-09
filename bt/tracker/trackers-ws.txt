@@ -1,0 +1,9 @@
+ws://tracker.files.fm:7072/announce
+ws://tracker.nighthawk.pw:4201/announce # duplicate of ws://tracker.nighthawk.pw:2052/announce
+wss://peertube.cpy.re:443/tracker/socket # registered torrents
+wss://tracker.files.fm:7073/announce
+wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.openwebtorrent.com:443/announce# Error / 错误(故障)
+wss://tracker.openwebtorrent.com:443/announcehttp://1337.abcvg.info:80/announce
+wss://tracker.webtorrent.dev
+wss://ws.peer.ooo:443/announce # deprecated by owner
