@@ -11,3 +11,7 @@ https://github.com/lyswhut/lx-music-desktop/issues/1857
 3. 蓝奏云下载
 https://wwp.lanzouq.com/b02fq9w8d
 密码 lxmusic
+
+
+4. 用户hwxlikemi整理的音源
+https://github.com/hwxlikemi/lxs
