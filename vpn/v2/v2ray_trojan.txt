@@ -1,0 +1,24 @@
+trojan://d6d86a97-2bef-4f89-9527-ce2003377677@naiu-hk.05vr9nyqg5.download:13008?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#10,11|香港3|@ripaojiedian
+trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/?ed=2048#12|US_speednode_0274
+trojan://26a663656e575c0b@5.44.249.42:3306?allowInsecure=1&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#15|SG_speednode_0373
+trojan://b84d16a244460e09@5.44.249.42:3306?allowInsecure=1&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#12|SG_speednode_0167
+trojan://3c4e10af98c30972@5.44.249.42:3306?allowInsecure=1&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#15|SG_speednode_0369
+trojan://c992d4055f0a7383@5.44.249.42:3306?allowInsecure=1&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#15|SG_speednode_0362
+trojan://8a1ab0df6abea549@5.44.249.42:3306?allowInsecure=1&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#15|SG_speednode_0370
+trojan://lNOcIAxy@36.151.195.83:55314?allowInsecure=1#13,14|香港4|@ripaojiedian
+trojan://dc2d9db59868ba6b@5.44.249.42:3306?allowInsecure=1&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#15|SG_speednode_0365
+trojan://lNOcIAxy@36.151.195.83:444?allowInsecure=1#10,11|香港4|@ripaojiedian
+trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http%2F1.1#13|d*********g.com_3 #3
+trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/#12|US_speednode_0194
+trojan://b84d16a244460e09@5.44.249.42:3306?allowInsecure=1&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#15|SG_speednode_0363
+trojan://f653ef08c54e21b3@5.44.249.42:3306?allowInsecure=1&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#15|SG_speednode_0364
+trojan://4bacb8f1a089763b@5.44.249.42:3306?allowInsecure=1&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#15|SG_speednode_0366
+trojan://0cc6b4268dea0ba8@5.44.249.42:3306?allowInsecure=1&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#15|SG_speednode_0371
+trojan://3febb05ea76a940f@5.44.249.42:3306?allowInsecure=1&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#15|SG_speednode_0372
+trojan://36fe28a331638747@5.44.249.42:3306?allowInsecure=1&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#15|SG_speednode_0368
+trojan://182228812d1e0f23@5.44.249.42:3306?allowInsecure=1&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#12|SG_speednode_0374
+trojan://182228812d1e0f23@5.44.249.42:3306?allowInsecure=1&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#15|SG_speednode_0374
+trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/?ed=2048#12|US_speednode_0208
+trojan://lNOcIAxy@36.151.195.83:55314?allowInsecure=1#10,11|香港4|@ripaojiedian
+trojan://CMLiu@59.3.3.161:443?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/?ed=2048#12|KR_speednode_0198
+trojan://7ac49a893e0bd10c@5.44.249.42:3306?allowInsecure=1&sni=TG.WangCai2&type=ws&host=TG.WangCai_1&path=/gateway/connect#15|SG_speednode_0367

@@ -1,0 +1,51 @@
+https://1337.abcvg.info:443/announce
+https://1337.abcvg.info:443/announce # duplicate of http://1337.abcvg.info:80/announce
+https://academic-p2p.appspot.com/announce # malfunction
+https://carbon-bonsai-621.appspot.com/announce # malfunction
+https://ipv6.tracker.m-team.cc:443/announce.php
+https://opentracker.acgnx.se:443/announce # registered torrents
+https://pybittrack.retiolus.net:443/announce
+https://retracker2.x2k.ru:443/announce
+https://t.btcland.xyz:443/announce # detected as suspicious
+https://t1.leech.ie:443/announce
+https://t1.leech.ie:443/announce # deprecated by owner
+https://t2.leech.ie:443/announce
+https://t2.leech.ie:443/announce # deprecated by owner
+https://t3.leech.ie:443/announce
+https://t3.leech.ie:443/announce # deprecated by owner
+https://torrent.ubuntu.com/announce # registered torrents
+https://torrents.linuxmint.com:443/announce.php # registered torrents
+https://tp.m-team.cc:443/announce.php
+https://tr.abir.ga:443/announce
+https://tr.bangumi.moe:9696/announce # registered torrents
+https://tr.burnabyhighstar.com:443/announce
+https://tr.fuckbitcoin.xyz:443/announce # detected by antivirus software
+https://tr.highstar.shop:443/announce # detected by antivirus software
+https://tracker-zhuqiy.dgj055.icu:443/announce
+https://tracker.acgnx.se:443/announce # registered torrents
+https://tracker.cloudit.top:443/announce
+https://tracker.fansub.id:443/announce
+https://tracker.gcrenwp.top:443/announce
+https://tracker.imgoingto.icu:443/announce
+https://tracker.ipfsscan.io:443/announce
+https://tracker.itscraftsoftware.my.id:443/announce
+https://tracker.jiesen.life:8443/announce # detected by antivirus software
+https://tracker.kuroy.me:443/announce
+https://tracker.lilithraws.cf:443/announce # duplicate of https://tracker.lilithraws.org:443/announce
+https://tracker.lilithraws.org:443/announce
+https://tracker.m-team.cc:443/announce.php
+https://tracker.pmman.tech:443/announce
+https://tracker.renfei.net:443/announce
+https://tracker.shittyurl.org:443/announce # registered torrents
+https://tracker.tamersunion.org:443/announce
+https://tracker.torrentsnows.com:443/announce # registered torrents
+https://tracker.yemekyedim.com:443/announce
+https://tracker1.520.jp:443/announce
+https://tracker1.520.jp:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+https://tracker1.ctix.cn:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+https://tracker2.ctix.cn:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+https://trackers.mlsub.net:443/announce
+https://trackers.mlsub.net:443/announce # duplicate of https://tracker.mlsub.net:443/announce
+https://trackers.run:443/announce
+https://www.peckservers.com:9443/announce
+https://www.peckservers.com:9443/announcehttp://1337.abcvg.info:80/announce

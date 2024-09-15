@@ -1,0 +1,497 @@
+vless://e6d01fda-e989-42c6-8831-d92b01f85a3e@public.alpanel.top:1380?mode=gun&security=reality&encryption=none&pbk=u2Xf8Og6H4iPcoYIZC8Cm8ziH2LA4ifvpHxEpp8bfUw&fp=chrome&spx=/&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&sni=www.iranserver.com&sid=4c5aaad0#❔XX | 🔴 | vless | @vpn_go67 | 15
+vmess://eyJ2IjoiMiIsImFkZCI6IjE3Mi42Ny4yMjAuODMiLCJwb3J0IjoiNDQzIiwiaWQiOiIzOWNlYzE4Zi1hNDM5LTQyN2MtOWE0ZS1hZWI2ZmNkZjZmNTMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoibGluamEwNS5od2Nhci5zYnMiLCJwYXRoIjoiXC9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsImFscG4iOiIiLCJmcCI6IiIsInBzIjoiXHVkODNkXHVkZWE5Q0YgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDIifQ==
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.202:2375#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.202:2375
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@speedtest.org:80?encryption=none&security=none&type=ws&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V04.SiMansaNaT.Ir.&path=/#🇺🇸US | 🔴 | vless | @iP_CF | 7
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.116:989#🔒 SS-TCP-NA 🇩🇰 DK-192.36.27.116:989
+vless://45889dac-ca5b-4587-803b-cedb5d787f4f@www.speedtest.net:80?type=httpupgrade&path=/Telegram-ConfigMs?ed=2048&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&security=none#🇺🇸US | 🔴 | vless | @fnet00 | 9
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.5:5003#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.5:5003
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.9:8000#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8000
+vless://1c64e3b6-581d-430a-b487-8fabda42263f@www.speedtest.net:80?type=httpupgrade&path=/Telegram-ConfigMs?ed=2048&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&security=none#🇺🇸US | 🔴 | vless | @fnet00 | 3
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:3306
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.68:3306#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.68:3306
+vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4yNi4xNS4xNDgiLCJwb3J0IjoiODAiLCJpZCI6IjJjNGQ2ZjY2LTI5NjYtNDljMS05M2FhLWE3MTkyYmE4ZjhmYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiI3MzAxMjc5MjEwMzUzMDYxNjE4MzA1Mjg0MjcxNzk0OS5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsInBhdGgiOiJcL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJcdWQ4M2RcdWRlYTlDRiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQHYyTGluZSB8IDMifQ==
+vless://222d4f01-cce8-45c8-bdbe-c6a81488ce12@zula.ir:80?path=/TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM?ed=2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 9
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@139.64.165.144:8090#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.144:8090
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.64.165.101:7306#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.101:7306
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZUN0YUs4dng0TTVVZllPWHpDWHQ1@167.71.77.212:62062#🇳🇱NL | 🟢 | ss | @OutlineVpnOfficial | 25
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.120:6679#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:6679
+vless://c0a5453e-fcb3-47bb-a00f-ebd3e1d08f80@104.248.33.161:2566?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.sovrn.com&fp=chrome&security=reality&pbk=4FrUU-xUEW07hK15lua0w7WML-czQ-N-xBLVM3Du8BU&sid=c5dce9b439679390#🇩🇪DE | 🔴 | vless | @Capital_NET | 36
+vless://76d62252-82ba-4267-9768-3d8aa87f17b0@www.speedtest.net:80?path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&type=ws#🇺🇸US | 🔴 | vless | @flyv2ray | 0
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.21:6697#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:6697
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5003
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5000#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:5000
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NUE4bVVKbVhFOWU0OGxORjVNQzJ4@147.45.114.160:20810#🔒 SS-TCP-NA 🇳🇱 NL-147.45.114.160:20810
+ss://YWY5ZDkxYjctNzMyNS00NDgxLTk3ZWYtOGUwMzMyOGI3ZTNiOg==@104.18.26.94:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.26.94:80
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.9:9101#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:9101
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#🔒 SS-TCP-NA 🇲🇽 MX-190.103.179.23:989
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5601#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5601
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.21:8090#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:8090
+ss://YWVzLTI1Ni1nY206MmQzYTI3ZjAtNmM3Yy00YTZiLThlOTYtMDRiYTdkMDY1OGNj@107.172.191.208:39405#🔒 SS-TCP-NA 🇺🇸 US-107.172.191.208:39405
+ss://YmFhZGZlYzMtNzViZC00ZGYwLWFkNmItMmVjZGZkZmU5ZDUyOg==@104.21.42.56:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.42.56:80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMM0lDaTBBZFUjWUItSFo0YU9rRU1mdXY=@45.77.85.219:8101#🔒 SS-TCP-NA 🇺🇸 US-45.77.85.219:8101
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.150.152.112:5498#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.112:5498
+ss://MGZiNTNhNjAtMjM3Mi00MTJhLWE2OTMtNTE1N2I1OGVjYzk0Og==@172.67.2.238:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.2.238:80
+ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@80.92.204.106:9046#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9046
+vless://67a4bed6-5528-49a2-a0ae-54332babb956@se2.hosting-ip.com:80?type=ws&host=www.speedtest.net.ftp.debian.org.自己不去看啥事情基本事事.srtongston.ir&path=/#❔XX | 🔴 | vless | @V2FETCH | 3
+vless://222d4f01-cce8-45c8-bdbe-c6a81488ce12@188.114.97.141:80?path=/TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM?ed=2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#🚩CF | 🔴 | vless | @v2rayng_vpnrog | 10
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5601#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:5601
+vless://98314183-548a-4606-a177-bdb2f67ac272@159.223.241.60:31175?type=tcp&security=reality&pbk=kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE&fp=firefox&sni=greenpepper.ir&sid=f2e78b8b&spx=/#🇳🇱NL | 🔴 | vless | @Capital_NET | 21
+vless://45962ff2-ba4b-4dfc-b77a-67d561b0d183@www.speedtest.net:80?path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&type=ws#🇺🇸US | 🔴 | vless | @nofiltering2 | 7
+ss://OTk2NzgwNzQtMTIyYy00NmRiLTk3ZmMtODBiNjA0YzIwMTU4Og==@104.18.28.181:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.28.181:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.251:8080
+vless://f467b6a4-70e0-4f3d-b6ad-093c3b600576@join.kiava.cloud.ohbah.com:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws87.cloudfront.net.kiava.fun&path=/?ed=2560#🇺🇸US | 🔴 | vless | @kiava | 1
+vless://a0562dec-26ac-43d4-ba1d-785c334e644f@37.27.21.47:443?mode=gun&security=reality&encryption=none&pbk=FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=fada4f5f#🇫🇮FI | 🔴 | vless | @Capital_NET | 22
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.5:5004#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.5:5004
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.154.136.132:8882#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.132:8882
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8000#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8000
+vless://9a015c95-aa54-449f-8604-ecd16d67a38c@join-to.kiava.fun:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws81.cloudfront.net.kiava.fun&path=/?ed=2560#❔XX | 🔴 | vless | @kiava | 7
+vless://551cec03-459b-44c4-b2f1-e2b00d64c7a0@138.68.137.73:17293?type=grpc&encryption=none&serviceName=telegram:@proxyforopeta&sni=discord.com&fp=firefox&security=reality&pbk=Vh49zRfE7BzeIquhoEOC6RdvTPz5IkmE1J2imSSZoHg&sid=5d694d7d#🇬🇧GB | 🔴 | vless | @Capital_NET | 34
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@52.56.201.59:443#🔒 SS-TCP-NA 🇬🇧 GB-52.56.201.59:443
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.49.68:7307#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.68:7307
+vless://89222c0d-d263-4b77-c696-8dcce4190fce@public.alpanel.top:1380?mode=gun&security=reality&encryption=none&pbk=u2Xf8Og6H4iPcoYIZC8Cm8ziH2LA4ifvpHxEpp8bfUw&fp=chrome&spx=/&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&sni=www.iranserver.com&sid=4c5aaad0#❔XX | 🔴 | vless | @vpn_go67 | 10
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.204:8009#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.204:8009
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5001#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5001
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.222:3306#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:3306
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.180:5498#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.180:5498
+ss://YjkxYjMwNTMtOTYwMi00YTYwLWI4NDgtZWMwZWFmZWE4NDQzOg==@104.21.69.44:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.69.44:8443
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:2376
+vless://a70e4c16-319a-49e4-bbe1-aa8c34d1380b@66.235.200.51:2053?encryption=none&security=tls&sni=figr1.blackflag.blog&alpn=h2&fp=chrome&type=grpc&serviceName=jkrv2ry&mode=gun#🇺🇸US | 🔴 | vless | @Capital_NET | 7
+vless://b19fb147-8ff7-465f-8525-312fd889fd73@public.alpanel.top:1403?mode=gun&security=reality&encryption=none&pbk=rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA&fp=chrome&spx=/&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&sni=tuyacn.com&sid=99#❔XX | 🔴 | vless | @vpn_go67 | 13
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:7002
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.10:9090#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.10:9090
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.95:6679#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:6679
+vless://98314183-548a-4606-a177-bdb2f67ac272@64.225.81.175:31175?security=reality&encryption=none&pbk=kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE&headerType=none&fp=firefox&spx=/&type=tcp&sni=greenpepper.ir&sid=f2e78b8b#🇳🇱NL | 🟢 | vless | @Capital_NET | 20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRc0pLQm1zV3pQOE5PYVM0R0pCTkZF@64.226.98.217:40678#🔒 SS-TCP-NA 🇩🇪 DE-64.226.98.217:40678
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRDN4aGNBQ1NCUDNUNVo3RGE0TFA2@5.42.75.106:30125#🔒 SS-TCP-NA 🇸🇪 SE-5.42.75.106:30125
+vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4yNi4xNS4xNDgiLCJwb3J0IjoiODAiLCJpZCI6IjJmMTg4YzYxLTY2MjItNDA1Ni04MTBlLWExYTVmMWM5YjAyMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiI1ODg5Mjg3NzcwNjY0ODM1Nzc2MTk4MDQwNTA0NTM2NC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsInBhdGgiOiJcL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJcdWQ4M2RcdWRlYTlDRiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQHYyTGluZSB8IDQifQ==
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.132:6697#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.132:6697
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.70:9044
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.162:443
+vless://Mahanvpn-Team-4@185.146.173.95:2052?path=/?ed=2052&security=none&encryption=none&host=dEbngCbC.kouRdspEed.ir.&type=httpupgrade#🇸🇪SE | 🔴 | vless | @kingofilter | 0
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.66:8091#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.66:8091
+vless://922e96cd-7ed5-4836-a2f3-11c441716e53@www.bandmusic.ir:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws80.cloudfront.net.kiava.fun&path=/?ed=2560#🇺🇸US | 🔴 | vless | @kiava | 9
+vless://bd4fa3f0-ec55-4d60-8781-4ebdd3e0b8ad@footlo.argha-v2pedia.monster:443?mode=gun&security=reality&encryption=none&pbk=muEtUEPnEMopCqdrhYWMzzwBsAfjZ_NV1m-AnO1byxk&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=tuyacn.com&sid=da#❔XX | 🔴 | vless | @vpn_go67 | 14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzV25ZNEdZM2p1VnhreWZlN3VBMENN@185.247.141.87:58454#🔒 SS-TCP-NA 🇫🇮 FI-185.247.141.87:58454
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3389#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:3389
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:4444#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:4444
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.150.152.41:8881#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.41:8881
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8881#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8881
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8008
+vless://87571e5d-b38e-4007-cf53-cfe3100912b6@join-to.kiava.fun:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws82.cloudfront.net.kiava.fun&path=/?ed=2560#❔XX | 🔴 | vless | @kiava | 6
+vless://eefcf749-fcfc-4321-b974-2828d4acb15c@142.132.183.55:2096?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=spiegel.de&fp=chrome&security=reality&pbk=GWLTRxw3B1iy29ZW4SqQH113-Gjup6-4vkOMksfEHB0&sid=0d8de1aa#🇩🇪DE | 🔴 | vless | @Capital_NET | 31
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5601#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.132:5601
+ss://YWVzLTI1Ni1nY206Qm9pWDEwMjkyNA==@107.174.133.203:9875#🔒 SS-TCP-NA 🇺🇸 US-107.174.133.203:9875
+vless://2898cc62-348c-497c-aee1-0a0c3d3a0508@www.speedtest.net:80?type=httpupgrade&path=/Telegram-ConfigMs?ed=2048&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&security=none#🇺🇸US | 🔴 | vless | @fnet00 | 7
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@139.64.165.154:8881#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.154:8881
+vless://cc5b5139-3863-4ce0-ad8d-b4693cbe0c08@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=footlo.argha-v2pedia.monster#🇸🇪SE | 🔴 | vless | @vpn_go67 | 3
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.150.152.16:8118#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:8118
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.222:8080#🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 19
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqbmpHeDh0QlNEQWsxRXJiam9SWkZn@66.151.34.98:57261#🔒 SS-TCP-NA 🇫🇮 FI-66.151.34.98:57261
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko=@159.65.149.72:51348#🇮🇳IN | 🟢 | ss | @OutlineVpnOfficial | 11
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.5:6679#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.5:6679
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUemJZY2FLSWNpVXZpeXFXYmxnb1Np@92.118.112.101:9483#🔒 SS-TCP-NA 🇺🇸 US-92.118.112.101:9483
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8881#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8881
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.112:9102#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.112:9102
+vless://GozargahVPN@speedtest.net:443?path=/ws/?ed=2048&security=tls&encryption=none&host=GozargahVPN.ir&type=ws&sni=speedtest.net#🇺🇸US | 🔴 | vless | @GozargahVPN | 7
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.150.152.24:8881#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.24:8881
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#🔒 SS-TCP-NA 🇸🇪 SE-121.127.46.147:989
+vless://e48bd3bf-b241-4d18-8b10-743154b05882@194.5.97.158:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=drive.google.com&alpn=http/1.1&fp=chrome&security=reality&pbk=aVwOKq0nDf_ridh7KG-TlQUsTlbktQ262wN1Bli1PwI&sid=89#🇳🇱NL | 🔴 | vless | @Capital_NET | 41
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZVF4QjdzTUdwdGZGY3QycWsyRVNMZUNOTExoUlJ3WHJrTlpYQ2RMRll2WXdQUUQ=@5.188.36.54:51348#🇹🇷TR | 🟢 | ss | @OutlineVpnOfficial | 21
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:810#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:810
+ss://NjhhNzk5MDktNjVmMi00MzQxLTk0MmUtYWQ3NWE2YmQzM2Y4Og==@104.21.69.44:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.69.44:443
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.143:4444
+vless://TELEGRAM-NUFiLTER@speedtest.net:443?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Bs.net&fp=chrome&type=ws&sni=speedtest.net#🇺🇸US | 🔴 | vless | @nofiltering2 | 11
+vless://TELEGRAM-NUFiLTER@Www.speedtest.net:2052?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=none&encryption=none&host=002.V2.h.www.speedtest.net.ddigicyber.clicK.&type=httpupgrade#🇺🇸US | 🔴 | vless | @nofiltering2 | 5
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8118#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8118
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@80.92.204.106:9094#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9094
+vless://12959e76-3f23-40a3-b94b-848b64c6a234@178.62.76.106:20248?type=grpc&encryption=none&serviceName=@proxyforopeta&sni=www.google.com&fp=firefox&security=reality&pbk=2Lxke5-99aKfEtI4_UiNhAB0CJYs4CA_8r-376g2ZWQ&sid=0b03c417#🇬🇧GB | 🔴 | vless | @Capital_NET | 32
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SE9ZdjlkYUN4b1RNQWg5WU1YN1Zn@178.20.40.126:443#🔒 SS-TCP-NA 🇷🇺 RU-178.20.40.126:443
+vless://4b05c4ff-6715-4bdf-9906-a9441cc59484@Sky1.bbv2ry.pics:443?type=ws&path=/&security=tls&fp=chrome&alpn=http/1.1,h2&sni=web.bbv2ry.pics#❔XX | 🔴 | vless | @VpnSkyy | 5
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@80.92.204.106:9011#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9011
+vless://GozargahVPN-3@speedtest.net:443?path=/ws/?ed=2048&security=tls&encryption=none&host=GozargahVPN.ir&type=ws&sni=speedtest.net#🇺🇸US | 🔴 | vless | @GozargahVPN | 3
+vmess://eyJhZGQiOiIxMDQuMjYuOC4yMTAiLCJ2IjoyLCJwb3J0IjoiNDQzIiwiaWQiOiIyMDYyNTlmZC0wOWFmLTQ2ZWUtZWM2ZC01YWM4YTgyOTFkNmQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ1eWhnaXV5ZmV3ZHJnZi10bzEyMzQ1LnhpYW9oaGgueHl6IiwidGxzIjoidGxzIiwicGF0aCI6IlwvNjYiLCJwcyI6Ilx1ZDgzZFx1ZGVhOUNGIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAeWFuZXlfMDEgfCA1In0=
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.5:6379#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.5:6379
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.120:445#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:445
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.113:7001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:7001
+vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.jokerv2ray.store&fp=firefox&type=ws&sni=joincha5nnel.jokerv2ray.store#🇺🇸US | 🔴 | vless | @Capital_NET | 17
+vmess://eyJhZGQiOiIxMDcuMTQ5LjExOS40MyIsInYiOjIsInBvcnQiOiIzNzAwMCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6IlwvcGF0aFwvMDQwMzE4MTQyNTA3IiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVUyB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQHlhbmV5XzAxIHwgMiJ9
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.113:8119#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:8119
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.56:7307
+vless://6d026e23-542e-45df-ac03-25cc2f135c46@www.speedtest.net:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=8880&security=none&encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&type=ws#🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 8
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:6379
+vless://f2fb47de-797f-49c9-b5ad-7fddc06e5f8e@www.speedtest.net:80?type=httpupgrade&path=/Telegram-ConfigMs?ed=2048&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&security=none#🇺🇸US | 🔴 | vless | @fnet00 | 5
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#🔒 SS-TCP-NA 🇳🇱 NL-109.201.152.181:443
+vless://TELEGRAM-NUFiLTER@Www.speedtest.net:2052?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=none=/--@mehrosaboran,--@mehrosaboran&encryption=none&host=001.V2.h.www.speedtest.net.asve.iR.&type=httpupgrade#🇺🇸US | 🔴 | vless | @mehrosaboran | 6
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.100:8090#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.100:8090
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQnVkbE11M1pieXQ4enRZdGNMbVMz@195.2.76.71:60422#🇷🇺RU | 🟢 | ss | @OutlineVpnOfficial | 29
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.91.102.72:8882#🔒 SS-TCP-NA 🇺🇸 US-38.91.102.72:8882
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1TFhLcXc5aDNGZjBMaUZPU2hCM2xR@83.217.9.104:443#🔒 SS-TCP-NA 🇹🇷 TR-83.217.9.104:443
+vless://a34b1f61-56ee-4876-8484-722013f9b475@www.parspack.com:8880?path=/SHHPROXY?ed=2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#🇺🇸US | 🔴 | vless | @flyv2ray | 12
+vless://6ad624f4-c1e0-4911-e3fd-f0e9d797991b@footlo.argha-v2pedia.monster:443?mode=gun&security=reality&encryption=none&pbk=muEtUEPnEMopCqdrhYWMzzwBsAfjZ_NV1m-AnO1byxk&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=tuyacn.com&sid=da#❔XX | 🔴 | vless | @vpn_go67 | 17
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsVFY0ZlEySmtUblhEOEdvWXp3T1Nn@147.45.50.104:22195#🔒 SS-TCP-NA 🇳🇱 NL-147.45.50.104:22195
+vless://721e2b1c-ff6a-4009-b19e-2c4598b95da6@5.255.99.199:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=firefox&security=reality&pbk=KWWS5VFHEDy5ySr5oD3UFiopReFkr6rykVRXWEhwQA4&sid=c2041adb#🇳🇱NL | 🔴 | vless | @Capital_NET | 30
+vless://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?type=ws&path=/&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Skyy.bbv2ry.pics#❔XX | 🔴 | vless | @VpnSkyy | 3
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.24:9090#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.24:9090
+ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#🔒 SS-TCP-NA 🇺🇸 US-154.3.8.151:30067
+ss://MzJmMDliNzAtZDJmNy0xMWVlLWFiZGEtMDA1MDU2MDNlNzBkOg==@104.21.49.18:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.49.18:443
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.120:6697#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:6697
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.9:5003#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:5003
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.33:5001#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:5001
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.147:443
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.202:5004#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.202:5004
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.113:7307#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:7307
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMFZtallhMDB3Tk5FREJvRHVXS2ZJZFdLSXh5Y0pRdXExZUl3WE1DUmkyVDY1MFI=@167.235.139.105:51348#🇩🇪DE | 🟢 | ss | @OutlineVpnOfficial | 36
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.47.129:443
+vless://e9fe302e-dbc2-4d6f-a6b2-10d718c5d47b@public.alpanel.top:1403?mode=gun&security=reality&encryption=none&pbk=rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA&fp=chrome&spx=/&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&sni=tuyacn.com&sid=99#❔XX | 🔴 | vless | @vpn_go67 | 11
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.111.208:989#🔒 SS-TCP-NA 🇫🇷 FR-51.159.111.208:989
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.53:9101#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.53:9101
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSHBZUmtYVTlGZ0VoSlI3WWxHdndy@193.222.97.89:51226#🔒 SS-TCP-NA 🇧🇬 BG-193.222.97.89:51226
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.19:8091#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.19:8091
+vless://ab7e8891-97de-4807-be40-43dd41d577ee@www.parspack.com:8880?path=/SHHPROXY?ed=2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#🇺🇸US | 🔴 | vless | @flyv2ray | 7
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?path=/Telegram-XV2ry2?ed=512&security=tls&encryption=none&host=Telegram---XV2ray---XV2ray---XV2ray---XV2ray---XV2ray.Pages.dev&type=ws&sni=Pages.dev#🚩CF | 🔴 | vless | @v2rayng_vpnrog | 7
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.225:8888#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8888
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.133:989#🔒 SS-TCP-NA 🇮🇪 IE-23.92.127.133:989
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.21:6379#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:6379
+vless://Mahanvpn-Team-3@185.146.173.16:2052?path=/?ed=2052&security=none&encryption=none&host=dEbngCbC.kouRdspEed.ir.&type=httpupgrade#🇸🇪SE | 🔴 | vless | @kingofilter | 1
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.154.136.132:7307#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.132:7307
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.49.119:7307#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.119:7307
+vmess://eyJhZGQiOiI0NS4xOTkuMTM4LjIxNyIsInYiOjIsInBvcnQiOiI0MTAwMCIsImlkIjoiZjlmYTNhOWMtZjdkNS00MTRmLTg4ZTYtNjk3MDU4NWQ5OTQ5IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6IlwvcGF0aFwvMjgyMDE4MjUyNTI2IiwicHMiOiJcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjFOTCB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQHlhbmV5XzAxIHwgMSJ9
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.5:8090#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.5:8090
+vless://58c15a7e-8111-4abb-afd2-47590085c3f4@public.alpanel.top:1380?mode=gun&security=reality&encryption=none&pbk=u2Xf8Og6H4iPcoYIZC8Cm8ziH2LA4ifvpHxEpp8bfUw&fp=chrome&spx=/&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&sni=www.iranserver.com&sid=4c5aaad0#❔XX | 🔴 | vless | @vpn_go67 | 18
+vless://0448c6ea-34ce-487a-93be-8e57bd2f2fa8@116.202.99.47:49124?type=tcp&security=reality&pbk=rBdocIQXi2MdXwQYubRsn4fTG1_3XMZiNgtn9u3yzwI&fp=firefox&sni=dalan-group.de&sid=0bf98883&spx=/#🇩🇪DE | 🔴 | vless | @Capital_NET | 11
+vless://108718b8-eacd-478f-d701-6d9c8a91bfa1@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=footlo.argha-v2pedia.monster#🇸🇪SE | 🔴 | vless | @vpn_go67 | 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNGZDaFdHb2pJY214dU1ST3VWUUlRS0dLUmRnMDl2S2ZHcDJTVHpTcmR6clVTd1o=@45.87.219.110:51348#🇧🇾BY | 🟢 | ss | @OutlineVpnOfficial | 17
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.19:6697#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.19:6697
+vless://7318c852-ab9e-4c95-8d4d-1728945e55bc@www.parspack.com:8880?path=/SHHPROXY?ed=2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#🇺🇸US | 🔴 | vless | @flyv2ray | 10
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.66:5004#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.66:5004
+vless://42b53885-3675-4a8c-cb15-103505d2c78b@cpanel.com:443?path=/Telegram:,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,?ed=2048?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=www.GozargahVPN.top&fp=chrome&type=ws&sni=www.GozargahVPN.top#🇺🇸US | 🔴 | vless | @GozargahVPN | 14
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.154.136.132:8008#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.132:8008
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5600#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5600
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjd1BaYjBPNjN0TTdPSnNNS2xmbHNo@147.45.60.33:16356#🔒 SS-TCP-NA 🇪🇪 EE-147.45.60.33:16356
+vless://cf052982-23bb-4404-8817-05302c50fcd3@168.119.110.229:56372?type=tcp&security=reality&pbk=YdveG9_ciK2YgrnXMN6Ncid3h5dK44rI1Rhb29RTDWE&fp=firefox&sni=sourceforge.net&sid=e7f19002&spx=/#🇩🇪DE | 🔴 | vless | @Capital_NET | 9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.196:443
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.19:8090#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.19:8090
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.218:8090#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.218:8090
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.110.1.105:8119#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.105:8119
+vless://3708c271-cec3-44f8-a866-9f9d4679929c@www.parspack.com:8880?path=/SHHPROXY?ed=2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#🇺🇸US | 🔴 | vless | @flyv2ray | 1
+vless://0bc05508-b6ca-4225-cf10-26133f5600ec@cpanel.com:8080?path=/GozaegahVPN/ws/?ed=2048&security=none&encryption=none&host=GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN.你好世界.tech&type=ws#🇺🇸US | 🔴 | vless | @GozargahVPN | 13
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:8080#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:8080
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.158.56.196:8882#🇩🇪DE | 🟢 | ss | @OutlineVpnOfficial | 15
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.178:989#🔒 SS-TCP-NA 🇦🇱 AL-31.171.153.178:989
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5000#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.132:5000
+vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?mode=gun&security=reality&encryption=none&pbk=wxzZx9_9R0QXG4Hjc8e3_ckaUIbn9oKc5yKsBqh8ulc&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=a18472f7#🇩🇪DE | 🔴 | vless | @Capital_NET | 23
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8009
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.87.225:8118#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:8118
+vless://5a84001d-87f0-4972-98bf-e836e3599b9c@web.bbv2ry.pics:443?type=ws&path=/&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Skyy.bbv2ry.pics#❔XX | 🔴 | vless | @VpnSkyy | 0
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5601#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:5601
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.143:7002#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.143:7002
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.132:5498#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.132:5498
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.71:8090#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.71:8090
+vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4yNi4xNS4xNDgiLCJwb3J0IjoiODAiLCJpZCI6ImYxZmIyOGU1LWU1YjYtNDUwYy05NzJjLTEzMjM1Yzk0Mjg1YyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiI1MDkwNzA4MjY4NTk0MjA1OTg3NjM4Nzc5OTgyNDc3OS5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsInBhdGgiOiJcL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJcdWQ4M2RcdWRlYTlDRiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQHYyTGluZSB8IDIifQ==
+vless://4c6451ba-6594-4d67-a8ae-4df79815a4e3@public.alpanel.top:1403?mode=gun&security=reality&encryption=none&pbk=rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA&fp=chrome&spx=/&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&sni=tuyacn.com&sid=99#❔XX | 🔴 | vless | @vpn_go67 | 21
+vless://373e6d58-210f-4433-b623-e34b47cca8de@178.62.240.53:15177?security=reality&encryption=none&pbk=QPIfuN2b5h3qV-dLKEEPzE7WneDIIan5jgPNDR9NDBo&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.cloudflare.com&sid=457aa090#🇳🇱NL | 🟢 | vless | @Capital_NET | 18
+vless://2301d419-fc86-44e0-84e5-d5aa81557c38@footlo.argha-v2pedia.monster:443?mode=gun&security=reality&encryption=none&pbk=muEtUEPnEMopCqdrhYWMzzwBsAfjZ_NV1m-AnO1byxk&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=tuyacn.com&sid=da#❔XX | 🔴 | vless | @vpn_go67 | 7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#🔒 SS-TCP-NA 🇺🇸 US-74.50.98.185:8080
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@139.64.165.115:7001#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.115:7001
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.120:8888#🔒 SS-TCP-NA 🇺🇸 US-169.197.142.120:8888
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.47.130:443
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.93.100:9101#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.100:9101
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.51:2376#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.51:2376
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2376#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:2376
+ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@80.92.204.106:9097#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9097
+vless://047002bf-b578-44d6-8bfb-a09900a3fb53@cpanel.com:443?path=/Telegram:,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=www.GozargahVPN.top&fp=chrome&type=ws&sni=www.GozargahVPN.top#🇺🇸US | 🔴 | vless | @GozargahVPN | 12
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.15:989#🔒 SS-TCP-NA 🇲🇰 MK-46.183.185.15:989
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@15.204.87.222:6697#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:6697
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:800#🇯🇵JP | 🟢 | ss | @OutlineVpnOfficial | 27
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.19:7306#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.19:7306
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:4444
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.87.225:7307#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:7307
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZFdaOVF2RmxiT09HcmVNb0UzQnE4@159.65.129.128:18814#🇸🇬SG | 🟢 | ss | @OutlineVpnOfficial | 22
+vless://a642fe4b-3326-40af-8929-71616eb9052f@lion.lionforpeople.site:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ns.cloudflare.com&fp=chrome&security=reality&pbk=H2GPj9jI13FyXVB0NLOhSAUimkI5pQmln9gEA3ynWgo&sid=4aeebc87#❔XX | 🔴 | vless | @Capital_NET | 39
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#🔒 SS-TCP-NA 🇷🇴 RO-194.14.217.115:989
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.87:3389
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:3389#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:3389
+ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@218.250.217.111:81#🇭🇰HK | 🟢 | ss | @OutlineVpnOfficial | 31
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7001#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:7001
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.68:8119#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.68:8119
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:8888#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:8888
+vmess://eyJhZGQiOiJhZG1pbi5hcnpvbmhvc3QuaXIiLCJ2IjoyLCJwb3J0IjoiMjA4NiIsImlkIjoiN2Q5M2U5OTItNDhjZi00MmQ0LTg0ZjgtNzU3NjhlODE1YTRjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiYWRtaW4uYXJ6b25ob3N0LmlyIiwidGxzIjoiIiwicGF0aCI6IlwvIiwicHMiOiJcdTI3NTRYWCB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQHlhbmV5XzAxIHwgMyJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.161:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphWHVWOGs1YTRORm1rcGhncjVOVGxM@89.185.84.185:52338#🔒 SS-TCP-NA 🇬🇧 GB-89.185.84.185:52338
+vless://5b79794a-96b6-4051-f703-710d310ec46e@cpanel.com:8080?path=/GozaegahVPN/ws/?ed=2048&security=none&encryption=none&host=GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN.你好世界.tech&type=ws#🇺🇸US | 🔴 | vless | @GozargahVPN | 11
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.204:8119#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.204:8119
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.24:5003#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.24:5003
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@188.212.132.20:52952#🔒 SS-TCP-NA 🇳🇱 NL-188.212.132.20:52952
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.143.66.244:7307#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.244:7307
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.69:6679#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:6679
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.9:9102#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:9102
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#🇬🇧GB | 🟢 | ss | @OutlineVpnOfficial | 32
+vless://b5978e88-a12a-43ed-be28-1b6b12febffb@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=footlo.argha-v2pedia.monster#🇸🇪SE | 🔴 | vless | @vpn_go67 | 5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsMnpFb0xWN1hid1U0WnZHTjQ2Z3ly@165.22.208.240:4917#🇮🇳IN | 🟢 | ss | @OutlineVpnOfficial | 28
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8009#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8009
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.137.66:8882#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.66:8882
+vmess://eyJ2IjoiMiIsImFkZCI6ImhvbGFuZG9zdGVzZi5hcmFtaXNsZWdlbmQuY29tIiwicG9ydCI6IjgwODEiLCJpZCI6ImNjZWE2ZDU1LTIzMDktNDA1OS05M2RjLWE2MmNlN2NkM2Y3YyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiZGl2YXJjZG4uY29tIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWFTRSB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQGtpbmdvZmlsdGVyIHwgNyJ9
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.113:8882#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:8882
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.177.119.220:443#🔒 SS-TCP-NA 🇬🇧 GB-35.177.119.220:443
+vless://ee5d8777-7c15-4204-b2b4-de5e0fd33de1@www.speedtest.net:80?path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&type=ws#🇺🇸US | 🔴 | vless | @flyv2ray | 3
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.113:6679#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:6679
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@15.204.87.225:7002#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:7002
+vless://9488c287-bbfc-4281-a1ef-d70797d00c29@join.2.kiava.cloud.nevao.ir:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws85.cloudfront.net.kiava.fun&path=/?ed=2560#🇺🇸US | 🔴 | vless | @kiava | 3
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.113:5004#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:5004
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#🔒 SS-TCP-NA 🇷🇸 RS-194.71.126.31:989
+vless://TELEGRAM-NUFiLTER@Www.speedtest.net:8880?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8880&security=none&encryption=none&host=01.V2.h.www.speedtest.net.asve.iR.&type=httpupgrade#🇺🇸US | 🔴 | vless | @nofiltering2 | 1
+vless://f93405f5-b64f-40ba-a4da-140b994d511f@143.110.169.55:40987?type=tcp&security=reality&pbk=sO6z1TtkOVNB1lhlsqoBj6lsR_0IyEsfWTXj-YXlCHQ&fp=firefox&sni=*.sourceforge.net&sid=d3043362&spx=/#🇬🇧GB | 🔴 | vless | @Capital_NET | 6
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.111.114.133:8080#🇨🇦CA | 🟢 | ss | @OutlineVpnOfficial | 16
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.95:9102#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:9102
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMFZtallhMDB3Tk5FREJvRHVXS2ZJZFdLSXh5Y0pRdXExZUl3WE1DUmkyVDY1MFI=@167.235.139.105:51348#🔒 SS-TCP-NA 🇩🇪 DE-167.235.139.105:51348
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZmEyMmJiMTA1MDEzNGI4@104.167.197.23:57456#🔒 SS-TCP-NA 🇺🇸 US-104.167.197.23:57456
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3cnlhbTZDd0pHY3NQdFV1Sk9Ibkw2@195.200.26.173:35333#🔒 SS-TCP-NA 🇳🇱 NL-195.200.26.173:35333
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.69:8090#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8090
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.222:5001#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:5001
+vless://0d4dff41-1db6-43f2-ba31-7a273a664039@www.parspack.com:8880?path=/SHHPROXY?ed=2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#🇺🇸US | 🔴 | vless | @flyv2ray | 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWk1ibUt5TURCUDNrU3h5bnptY3VI@89.110.70.175:13402#🔒 SS-TCP-NA 🇳🇱 NL-89.110.70.175:13402
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHTTN0YWtPcW1VM3Z4eTBOZHN2Q2hE@147.45.136.147:41095#🔒 SS-TCP-NA 🇳🇱 NL-147.45.136.147:41095
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.143:2376#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.143:2376
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🔒 SS-TCP-NA 🇺🇸 US-37.19.198.236:443
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@80.92.204.106:9010#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9010
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.134.55.64:443#🔒 SS-TCP-NA 🇬🇧 GB-18.134.55.64:443
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@163.172.64.22:989#🔒 SS-TCP-NA 🇫🇷 FR-163.172.64.22:989
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8882#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8882
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.215:5001#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.215:5001
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#🔒 SS-TCP-NA 🇺🇸 US-37.19.198.160:443
+vless://283f9137-566f-4ed3-c91c-ce2752a47e3a@footlo.argha-v2pedia.monster:443?mode=gun&security=reality&encryption=none&pbk=muEtUEPnEMopCqdrhYWMzzwBsAfjZ_NV1m-AnO1byxk&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=tuyacn.com&sid=da#❔XX | 🔴 | vless | @vpn_go67 | 8
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.69:8091#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8091
+vless://ee797f86-e248-40be-b8fc-200b977f4bfb@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=footlo.argha-v2pedia.monster#🇸🇪SE | 🔴 | vless | @vpn_go67 | 6
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#🔒 SS-TCP-NA 🇫🇷 FR-195.154.185.174:989
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.218:7002#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.218:7002
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.202:2376#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.202:2376
+vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?type=ws&path=/&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2,http/1.1&sni=joinchannel.sameasyou.sbs#🇺🇸US | 🔴 | vless | @Capital_NET | 12
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.24:5600#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.24:5600
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.9:5500#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:5500
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:3389#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:3389
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozR05oT0R4UGFTSzl6MkU4MnB6STFi@80.242.58.174:14249#🇳🇱NL | 🟢 | ss | @OutlineVpnOfficial | 8
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.86:6679#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.86:6679
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.18.1.125:2086?path=/&security=none&encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&host=TdWwPlBs61.kOmAtSo.oRg&type=httpupgrade#🚩CF | 🔴 | vless | @mehrosaboran | 3
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.95:5498#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:5498
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.5:7307#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.5:7307
+vless://d7b33e23-42be-4fdd-c3f9-50582d0c4236@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=footlo.argha-v2pedia.monster#🇸🇪SE | 🔴 | vless | @vpn_go67 | 1
+vless://1b5648b6-da73-4ffb-b964-46c6d3d52136@159.69.23.6:22531?type=grpc&encryption=none&sni=zula.ir&fp=chrome&security=reality&pbk=jb36M2GejuMVpv36Tx0zEAq5qPgF7Ux1pHoWre7moHE&sid=4638b111#🇩🇪DE | 🔴 | vless | @Capital_NET | 43
+vless://a687b7f8-53c7-486f-836f-8b10cc5e4d22@germany7---join.outline-vpn.fun:8443?type=grpc&encryption=none&sni=expat.com&fp=chrome&security=reality&pbk=DbDzIsSo-6GqjfoqsG6lC-XnvIIXR2ALc78tT0wjt0o&sid=231d6598#🇱🇹LT | 🔴 | vless | @Capital_NET | 26
+ss://YWVzLTI1Ni1nY206MDZnWktrZUMySg==@23.94.76.55:51981#🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 20
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.179:5498#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.179:5498
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.16:5004#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:5004
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.113:8080#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPNlB6cEV2V0FEMG5CaEhjbFh3ME93ak9mRmF0WWpLTHhVN3d0MWhtaVkyZjhaaXQ=@176.103.61.162:51348#🔒 SS-TCP-NA 🇺🇦 UA-176.103.61.162:51348
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTksxYW9RdUVaYUM5UVRpdzk0Z1Z6TlhyQWRkNm04UVhIM0RSTlhZdkhDNXB2a0V1VmJyR2M1UURhNkZXb1lremQ1Unhlc0h0c2lGZHF3VVVEWVVyQkQ2YTd2cGk1TVM=@107.182.129.101:52249#🔒 SS-TCP-NA 🇺🇸 US-107.182.129.101:52249
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNTN1SnNaYzZkelRCWURFcWcxYTMwQmgxaEFkNEhRemdwd0NWZHB6S3dmRjJaVWg=@168.119.57.171:51348#🔒 SS-TCP-NA 🇩🇪 DE-168.119.57.171:51348
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.95:5001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:5001
+vless://d8043ab3-c9fd-4ea5-84ef-03a98bd5111c@www.speedtest.net:80?path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&type=ws#🇺🇸US | 🔴 | vless | @flyv2ray | 5
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.222:5500#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:5500
+vless://83c4cb63-c8af-4234-9e9d-6d9ac7361b17@join.kiava.cloud.ohbah.com:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws88.awscloudfront.net.kiava.fun&path=/?ed=2560#🇺🇸US | 🔴 | vless | @kiava | 0
+vless://Mahanvpn-Team-2@185.146.173.16:2052?path=/?ed=2052&security=none&encryption=none&host=dEbngCbC.kouRdspEed.ir.&type=httpupgrade#🇸🇪SE | 🔴 | vless | @kingofilter | 2
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.195:443
+vless://5fea461d-9dd5-4c30-9dfa-63b966b6d411@128.140.49.29:443?type=tcp&encryption=none&sni=cdnjs.com&fp=firefox&security=reality&pbk=ssfcbUE7g67nECKXytt9CbDMZzu-X9ECtfgkIqIsWhk&sid=7a8275aa7bd14661#🇩🇪DE | 🔴 | vless | @Capital_NET | 35
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZ2hmYk0zbkJRQStPdUQ3@108.61.162.23:1666#🇯🇵JP | 🟢 | ss | @OutlineVpnOfficial | 10
+vmess://eyJhZGQiOiIxMDQuMjYuMTUuMTQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1ODg5Mjg3NzcwNjY0ODM1Nzc2MTk4MDQwNTA0NTM2NC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsImlkIjoiMmYxODhjNjEtNjYyMi00MDU2LTgxMGUtYTFhNWYxYzliMDIzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9WMkxJTkUtVEVMRUdSQU0tQ0hBTk5FTC1WTUVTUy1XUyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOUNGIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAcHJveHlzdG9yZTExIHwgMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.162:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.162:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxMW5DcWVLdnJLRGxSRE44N3phenZX@92.118.112.111:18622#🔒 SS-TCP-NA 🇺🇸 US-92.118.112.111:18622
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWWp0bkMyQmpZM1FZZVVsTk9lbWUx@80.66.64.39:21076#🇷🇺RU | 🟢 | ss | @OutlineVpnOfficial | 7
+vless://9498a976-9dc2-441b-bab3-610a694b175d@www.speedtest.net:80?path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&type=ws#🇺🇸US | 🔴 | vless | @flyv2ray | 11
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.59.70:2053?path=/9wUhFMKgsGMqAUO6?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mAHdIserveR-asL.paGES.dEv&fp=randomized&type=ws&sni=MaHdisErVEr-asl.pAGEs.DEv#🚩CF | 🔴 | vless | @v2rayng_vpnrog | 6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMXN1cWhBNnNyeE9kSWkzSU1MZFcz@54.169.59.139:47500#🔒 SS-TCP-NA 🇸🇬 SG-54.169.59.139:47500
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#🔒 SS-TCP-NA 🇬🇷 GR-192.71.166.102:989
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:3306#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:3306
+vless://12e9debb-5f13-4981-b600-073f5e9307c9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky1.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky1.bbv2ry.pics#❔XX | 🔴 | vless | @VpnSkyy | 4
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5004#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:5004
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9042
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8882#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8882
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@2.58.87.221:16899#🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 26
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.66:2376#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.66:2376
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.139:443
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@169.197.141.84:8091#🔒 SS-TCP-NA 🇺🇸 US-169.197.141.84:8091
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.120:7001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:7001
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.222:8080#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:8080
+vless://24f6cf45-67ef-493c-8db8-5cad032bf123@159.223.4.137:38915?security=reality&encryption=none&pbk=V7PuAOITOyH7RZ-PRJndYVA5udmu-DqAp7LdjpNYwUQ&headerType=none&fp=firefox&spx=/&type=tcp&sni=sourceforge.net&sid=33c38f16#🇳🇱NL | 🟢 | vless | @Capital_NET | 8
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:3389#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:3389
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.193:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?path=/TELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI/?ed=2048&security=tls&encryption=none&host=cXrolvpn.pagEs.DEv&type=ws&sni=cXrOLvPn.PAgEs.dev#🚩CF | 🔴 | vless | @v2rayng_vpnrog | 0
+vless://8344a8b4-a190-45da-b2f5-a05d11ea9211@87.248.152.16:30132?type=tcp&security=none&path=/&host=host:nasa.gov&headerType=http#🇮🇷IR | 🔴 | vless | @kingofilter | 8
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.95:7306#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:7306
+vmess://eyJ2IjoiMiIsImFkZCI6ImpwMi5lbGtjbG91ZC5jZiIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI5YjY0MWJkNS02YjgwLTM1OWUtYTIzYS1lYjdiNmYyMWZjMWEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9xYXRqcGppIiwiaG9zdCI6IiU3QiUyMkhvc3QlMjI6JTIyZGF0YS52aWRlby5xaXlpLmNvbSUyMiU3RCIsInRscyI6IiIsInBzIjoiXHUyNzU0WFggfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDAifQ==
+vless://Mahanvpn-Team-1@185.146.173.16:2052?path=/?ed=2052&security=none&encryption=none&host=dEbngCbC.kouRdspEed.ir.&type=httpupgrade#🇸🇪SE | 🔴 | vless | @kingofilter | 4
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:5004
+vless://GozargahVPN-001@speedtest.net:443?path=/ws/?ed=2048&security=tls&encryption=none&host=GozargahVPN.ir&type=ws&sni=speedtest.net#🇺🇸US | 🔴 | vless | @GozargahVPN | 1
+vless://ad0876aa-c9dc-4368-8090-3397abd98f4a@79.175.146.94:21194?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @mehrosaboran | 0
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.21:2376#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:2376
+ss://YjQxZTE2MzEtY2ViMy00N2M5LWJhODctYzY1YTQ2ZjJmNWE4Og==@104.17.148.22:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.148.22:2096
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.27.48:989#🔒 SS-TCP-NA 🇫🇷 FR-51.15.27.48:989
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8881
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.222:5003#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:5003
+vless://9488c287-bbfc-4281-a1ef-d70797d00c29@join.2.kiava.cloud.nevao.ir:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws84.cloudfront.net.kiava.fun&path=/?ed=2560#🇺🇸US | 🔴 | vless | @kiava | 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5TkdNbzNJQkd3ZjBSeEQwckVJWDVO@212.113.106.76:61992#🔒 SS-TCP-NA 🇦🇹 AT-212.113.106.76:61992
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@speedtest.org:80?encryption=none&security=none&type=ws&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V15.SiMansaNaT.Ir.&path=/#🇺🇸US | 🔴 | vless | @iP_CF | 8
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.154.136.132:443#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.132:443
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#🔒 SS-TCP-NA 🇺🇸 US-67.220.86.72:8882
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:4444#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:4444
+vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4yNi4xNS4xNDgiLCJwb3J0IjoiODAiLCJpZCI6Ijk0N2NiMzg1LTU0YjQtNDQ1My1hYzkyLTYzYzk1ZWYzMmE2YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIzOTIzODMxOTMxMDk2NDU0MzkyMDUxOTQ4OTcwMTkwMC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsInBhdGgiOiJcL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJcdWQ4M2RcdWRlYTlDRiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQHYyTGluZSB8IDUifQ==
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.110.1.202:9102#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.202:9102
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprZ0V6U2d1eXhZSFJGSEM4c3N1Tjdl@194.87.45.189:40076#🔒 SS-TCP-NA 🇪🇸 ES-194.87.45.189:40076
+vless://GozargahVPN-1@speedtest.net:443?path=/ws/?ed=2048&security=tls&encryption=none&host=GozargahVPN.ir&type=ws&sni=speedtest.net#🇺🇸US | 🔴 | vless | @GozargahVPN | 6
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#🇺🇸US | 🔴 | vless | @polproxy | 0
+vless://DIGIV2rAY@172.67.193.36:2095?path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#🚩CF | 🔴 | vless | @v2rayng_vpnrog | 2
+vless://477d2cef-56a3-44ec-a6a1-85050dda1cf6@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=footlo.argha-v2pedia.monster#🇸🇪SE | 🔴 | vless | @vpn_go67 | 0
+vless://16f72e96-e183-4e3d-c5f2-3a2ca8f1073b@public.alpanel.top:1380?mode=gun&security=reality&encryption=none&pbk=u2Xf8Og6H4iPcoYIZC8Cm8ziH2LA4ifvpHxEpp8bfUw&fp=chrome&spx=/&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&sni=www.iranserver.com&sid=4c5aaad0#❔XX | 🔴 | vless | @vpn_go67 | 12
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:5001#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:5001
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.151:443
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9102#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:9102
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:443#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:443
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9041
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.103:3389#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.103:3389
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.137.66:5001#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.66:5001
+vless://64ef12b4-1849-41f5-bf2b-46d3b4ead5d4@www.parspack.com:8880?path=/SHHPROXY?ed=2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozczc4WHp5LXhiNEFVeWJ0b3hpcE53@45.14.224.160:1080#🔒 SS-TCP-NA 🇳🇱 NL-45.14.224.160:1080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAwNjdiOS02M2EzLTRmOGQtOWMxNi1lZTI3MzdhODdjMTQ=@46.232.123.37:50255#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50255
+vmess://eyJhZGQiOiIxMDQuMjEuNzQuMjM5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCJpZCI6ImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOUNGIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAcHJveHlzdG9yZTExIHwgMCJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2cEV0RXV0YzM3d1d5NTViVXF0SERY@165.22.238.239:44386#🔒 SS-TCP-NA 🇨🇦 CA-165.22.238.239:44386
+vless://02fc10dc-6ba8-4c52-b063-785703934775@www.speedtest.net:80?path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&type=ws#🇺🇸US | 🔴 | vless | @flyv2ray | 9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.47.131:443
+vless://0e8c32f7-a465-4ac7-b9a4-b6bf38a43e7f@104.22.13.192:2053?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.blacksugar.cfd&fp=chrome&type=ws&sni=joinchannel.blacksugar.cfd#🚩CF | 🔴 | vless | @Capital_NET | 14
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.190.186:8090#🇬🇧GB | 🟢 | ss | @OutlineVpnOfficial | 12
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.101:8008
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8888
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.203:5499#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.203:5499
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7306#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:7306
+vless://783164cb-6410-4a96-e432-832489e4848c@ec76.kiava.fun:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=coinmarketcap.com&fp=chrome&security=reality&pbk=wQGZ3Ppa4ajV1HrQUYdpZF9D6yejNt84iWv2fV3kVHc&sid=5e#❔XX | 🔴 | vless | @Capital_NET | 44
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.203:5601#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.203:5601
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7001#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.112:7001
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8008#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8008
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.95:8090#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:8090
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.21:6679#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:6679
+vless://9488c287-bbfc-4281-a1ef-d70797d00c29@join.kiava.cloud.ohbah.com:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws86.cloudfront.net.kiava.fun&path=/?ed=2560#🇺🇸US | 🔴 | vless | @kiava | 2
+ss://bm9uZTphYWJjY2JhLWNiYWEtYmFhYy1kYmFjLWJiYmNjYWNhYmFhYw==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 SUN-25-SHAHRIVAR-1403 🕑 12:23
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.9:6697#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:6697
+vless://cf052982-23bb-4404-8817-05302c50fcd3@116.202.99.47:56372?type=tcp&security=reality&pbk=YdveG9_ciK2YgrnXMN6Ncid3h5dK44rI1Rhb29RTDWE&fp=firefox&sni=sourceforge.net&sid=e7f19002&spx=/#🇩🇪DE | 🔴 | vless | @Capital_NET | 10
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:5001#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:5001
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#🇫🇷FR | 🟢 | ss | @OutlineVpnOfficial | 34
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8881#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:8881
+vless://GozargahVPN-2@speedtest.net:443?path=/ws/?ed=2048&security=tls&encryption=none&host=GozargahVPN.ir&type=ws&sni=speedtest.net#🇺🇸US | 🔴 | vless | @GozargahVPN | 4
+vless://5a01d769-24dc-4df8-83cd-b0c732c24877@ne.cpcod079.info:23695?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @fnet00 | 14
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🔒 SS-TCP-NA 🇯🇵 JP-149.22.87.241:443
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9041
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqTzZ4RWl5VUcwc2tJUThGYjdPWk1V@45.33.30.8:18789#🔒 SS-TCP-NA 🇺🇸 US-45.33.30.8:18789
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.19:7307#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.19:7307
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.154.136.132:6379#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.132:6379
+vless://09f16c89-bd12-49d0-8a42-68f5a8d59b07@germany3---join.outline-vpn.fun:8443?type=grpc&encryption=none&sni=expat.com&fp=chrome&security=reality&pbk=RtvB1dn0j--CA8FrYf2uAht4z8_rGOkQvTbmt9neYms&sid=abdc0763#🇱🇹LT | 🔴 | vless | @Capital_NET | 27
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#🇸🇪SE | 🟢 | ss | @OutlineVpnOfficial | 23
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:805
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSHpWYzdJakg4ZjNpdnhsUzl3U1RD@43.207.212.16:58775#🔒 SS-TCP-NA 🇯🇵 JP-43.207.212.16:58775
+vless://2db8a6f7-3b11-4122-c9d3-70fa67914ea2@cpanel.com:8080?path=/GozaegahVPN/ws/?ed=2048&security=none&encryption=none&host=GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN.你好世界.tech&type=ws#🇺🇸US | 🔴 | vless | @GozargahVPN | 9
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.75.136.21:8009#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:8009
+vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&path=/&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2,http/1.1&sni=joinchannel.sameasyou.sbs#🇨🇦CA | 🔴 | vless | @Capital_NET | 16
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.103:8119#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.103:8119
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.179:5600#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.179:5600
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@45.89.52.66:9031#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9031
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.59.125:443#🔒 SS-TCP-NA 🇦🇪 AE-40.172.59.125:443
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.68.134.9:6379#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:6379
+vless://d692eac3-ed8d-4454-b07e-35075785f316@ver1.tcod008.info:51535?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @fnet00 | 15
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:9090#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.132:9090
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5003#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:5003
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4UHJLVUJRUHdDRmVYRVE1dVhsUk5Y@13.94.117.31:10238#🇮🇪IE | 🟢 | ss | @OutlineVpnOfficial | 30
+vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4yNi4xNS4xNDgiLCJwb3J0IjoiODAiLCJpZCI6IjBjYjdiM2MzLTNjMDgtNDM5MS1hZjRkLTNmYzQxMGM5YzE0NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiI2ODY5MDkwNzc4MzQ2MTE2MzUwODIzOTEwNTI1Mzc1OC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsInBhdGgiOiJcL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJcdWQ4M2RcdWRlYTlDRiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQHYyTGluZSB8IDEifQ==
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.75:8000#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.75:8000
+vless://ca544ad7-181d-408f-8f95-8ce7c51cd399@web.bbv2ry.pics:443?type=ws&path=/&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Skyy.bbv2ry.pics#❔XX | 🔴 | vless | @VpnSkyy | 2
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.5:7001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.5:7001
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:2375
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9102#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.122:9102
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsMnpFb0xWN1hid1U0WnZHTjQ2Z3ly@165.22.208.240:4917#🔒 SS-TCP-NA 🇮🇳 IN-165.22.208.240:4917
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9101#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:9101
+vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xNy4xNDguMjIiLCJwb3J0IjoiODAiLCJpZCI6IjYxNDliODY1LTBkM2MtNDQ3Mi1iZjljLTNjNjFiZmFmYTYxYSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiI5OTgwNjM4ODE5Mjk4MDE0MjMwMDMwOTQ3NTc2NzU3OC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsInBhdGgiOiJcL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJcdWQ4M2RcdWRlYTlDRiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQHYyTGluZSB8IDAifQ==
+vless://bc8ba982-e039-4ca7-b0af-6c053077d904@www.speedtest.net:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#🇺🇸US | 🔴 | vless | @mehrosaboran | 5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#🔒 SS-TCP-NA 🇳🇱 NL-5.35.47.122:45635
+vless://9a015c95-aa54-449f-8604-ecd16d67a38c@metrix.ir:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws81.cloudfront.net.kiava.fun&path=/?ed=2560#🇮🇷IR | 🔴 | vless | @kiava | 8
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.92.99:6379#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.99:6379
+vless://02e16ef3-1d96-42cc-ab27-44c798b1a67e@www.speedtest.net:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#🇺🇸US | 🔴 | vless | @mehrosaboran | 2
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7002#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.112:7002
+vless://783164cb-6410-4a96-e432-832489e4848c@ec18.kiava.fun:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=coinmarketcap.com&fp=chrome&security=reality&pbk=5ek-pf6OKRVq8oRuLF1ApIfZd2eeA1RY2J7YTH5EsXc&sid=5e#❔XX | 🔴 | vless | @Capital_NET | 37
+ss://YWVzLTI1Ni1nY206Qm9pWDEwMjkyNA==@107.173.192.238:9875#🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 33
+vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.jokerv2ray.store&fp=firefox&type=ws&sni=joinchannel.jokerv2ray.store#🇨🇦CA | 🔴 | vless | @Capital_NET | 19
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.9:2375#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:2375
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.100.211:2375#🔒 SS-TCP-NA 🇺🇸 US-38.91.100.211:2375
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.47:5000#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.47:5000
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfWTBQXzJoSDA3NG1UcEMxbWlVa1hB@51.38.224.25:1080#🔒 SS-TCP-NA 🇬🇧 GB-51.38.224.25:1080
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.231.45:989#🔒 SS-TCP-NA 🇨🇴 CO-190.120.231.45:989
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.46:8080#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.46:8080
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.21:7307#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:7307
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.95:9101#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:9101
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:8091
+vless://6aeba177-ee11-41c0-9d51-5136a3032deb@66.235.200.51:2053?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.buffalochest.cfd&fp=chrome&type=ws&sni=joinchannel.buffalochest.cfd#🇺🇸US | 🔴 | vless | @Capital_NET | 13
+vless://7572881e-9877-4886-9270-60cd7fa321bb@public.alpanel.top:1403?mode=gun&security=reality&encryption=none&pbk=rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA&fp=chrome&spx=/&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&sni=tuyacn.com&sid=99#❔XX | 🔴 | vless | @vpn_go67 | 16
+vless://9fcb42fa-136e-4b62-bf56-92c687e689fa@185.146.173.58:2082?path=/telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy?ed=2048&security=none&encryption=none&host=Kanal-polproxy.Vipnufilter.Online.&type=ws#🇸🇪SE | 🔴 | vless | @polproxy | 1
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.65:2375#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.65:2375
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.156.137.67:989#🔒 SS-TCP-NA 🇰🇿 KZ-213.156.137.67:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#🔒 SS-TCP-NA 🇺🇸 US-38.107.226.146:1230
+ss://MmI0YmVkMjUtYTVlZi00MzlkLTkzYjEtMzk1YjdiY2VjNThiOg==@104.16.60.79:2082#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.60.79:2082
+vless://79775e49-c3d7-4535-97e5-6980dbf760d1@92.243.74.137:8443?path=/?ed=2048&security=tls&encryption=none&host=vip4-romax-tiktok.golabyazd.ir&fp=random&type=ws&sni=vip4-romax-tiktok.golabyazd.ir#🇰🇭KH | 🔴 | vless | @ROMAX_VPN | 1
+vless://GozargahVPN-002@speedtest.net:443?path=/ws/?ed=2048&security=tls&encryption=none&host=GozargahVPN.ir&type=ws&sni=speedtest.net#🇺🇸US | 🔴 | vless | @GozargahVPN | 0
+vless://5c096904-d1ce-486c-9e1f-757e27b4244a@5.75.214.174:443?type=grpc&encryption=none&sni=www.iranserver.com&fp=chrome&security=reality&pbk=NUXzekpnYOisWQrl5Hidhxmzto5eF-pzZCqhRRrsuVg&sid=ce356e2c#🇩🇪DE | 🔴 | vless | @Capital_NET | 40
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAwNjdiOS02M2EzLTRmOGQtOWMxNi1lZTI3MzdhODdjMTQ=@46.232.123.37:50206#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50206
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.69:6697#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:6697
+vless://4e3b8bd3-0342-44cd-ad87-cfe4ee426634@newochean.teslasolhtjet.ir:8888?type=grpc&mode=gun&serviceName=Telegram:(#❔XX | 🔴 | vless | @V2FETCH | 1
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5600
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8080#🇵🇱PL | 🟢 | ss | @OutlineVpnOfficial | 24
+ss://YWVzLTI1Ni1nY206M2I5a3RaR3p0Qw==@162.19.25.207:34232#🇫🇷FR | 🟢 | ss | @OutlineVpnOfficial | 13
+vless://9a0a7112-14db-48ab-815d-8b90a5ac18ae@104.21.19.124:8880?path=/nazan/pedar/sag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#🚩CF | 🔴 | vless | @iP_CF | 0
+vless://d02114e3-ee14-409b-80e1-9068fa02863e@www.speedtest.net:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#🇺🇸US | 🔴 | vless | @mehrosaboran | 4
+vless://cc876e84-66c4-4bd8-ac67-7d2efc9daac8@sky1.bbv2ry.pics:443?type=tcp&path=/&host=ghbi.ir&headerType=http&security=none#❔XX | 🔴 | vless | @VpnSkyy | 6
+vless://SVNTEAM21@speedtest.net:443?path=/SVNTEAM,Channel,Telegram,SVNTEAM?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=Speed.Site&fp=firefox&type=ws&sni=speedtest.net#🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNGZDaFdHb2pJY214dU1ST3VWUUlRS0dLUmRnMDl2S2ZHcDJTVHpTcmR6clVTd1o=@45.87.219.110:51348#🔒 SS-TCP-NA 🇧🇾 BY-45.87.219.110:51348
+vless://698a1505-b335-4ce2-97bc-8a4ffd67da4b@195.201.130.7:57706?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=F6wV-NlEVPipP6-0IXq4gM9UEbXB2XAUCrGyFS0_1wU&sid=fdc11189#🇩🇪DE | 🔴 | vless | @Capital_NET | 42
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:811#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:811
+ss://YWVzLTI1Ni1nY206N2dhVFRsVzczRw==@51.222.157.179:49602#🔒 SS-TCP-NA 🇨🇦 CA-51.222.157.179:49602
+ss://YWVzLTI1Ni1nY206S2tEelkxMDFPZQ==@51.195.149.115:45816#🔒 SS-TCP-NA 🇬🇧 GB-51.195.149.115:45816
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZVNmYUtscUJmdkR6bktreUVLeHZy@95.164.114.76:31013#🇰🇿KZ | 🟢 | ss | @OutlineVpnOfficial | 9
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.158:443#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.158:443
+ss://YzQ5YWQxOTctMzdiNi00MGE3LTk3MWQtMDVlNmU4YTBiZGFjOg==@172.67.167.116:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.167.116:443
+vless://fcfabe6c-1558-4e5f-8184-8b3639a502b3@www.speedtest.net:80?type=httpupgrade&path=/Telegram-ConfigMs?ed=2048&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&security=none#🇺🇸US | 🔴 | vless | @fnet00 | 13
+vless://0fb7a7c5-b82a-49ba-89a8-fc2e3f213a35@94.228.169.211:10565?type=grpc&encryption=none&sni=aws.amazon.com&fp=chrome&security=reality&pbk=NLmLDtMcz9aKs3JXtuM0O3hw_4d7r4eEULHlezwLRG0&sid=ea05036f#🇦🇹AT | 🔴 | vless | @Capital_NET | 38
+vless://bdd00939-26be-4c99-9f4f-2a94df83a9c6@dlf.ornam.tech:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.discordapp.com&alpn=http/1.1&fp=chrome&security=reality&pbk=hNVOQ6YXqVOT71Fe-dptYmqMBDHsGE_LYu6mipfgExU&sid=cb69dab2#❔XX | 🔴 | vless | @Capital_NET | 33
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.154.136.162:7002#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.162:7002
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:812#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:812
+vless://22dae673-91fd-49be-899d-75876715ee02@secmec2ec.aslanmaslan.com:2053?path=/&security=tls&encryption=none&host=tyfyjtr76r76t78t687t676r56d45e45drt.behazinpokht.ir&fp=chrome&type=ws&sni=tyfyjtr76r76t78t687t676r56d45e45drt.behazinpokht.ir#🇺🇸US | 🔴 | vless | @kingofilter | 6
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9040
+vless://85b8a7d1-0964-4060-c3b5-213b65a8a423@footlo.argha-v2pedia.monster:443?mode=gun&security=reality&encryption=none&pbk=muEtUEPnEMopCqdrhYWMzzwBsAfjZ_NV1m-AnO1byxk&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=tuyacn.com&sid=da#❔XX | 🔴 | vless | @vpn_go67 | 9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WnI4TWxVWFVpaE5FbmRxSXBqRHhRZFNlcWkzN0ZiZ29IQm1RMXN5eTZaamtiQm4=@103.174.86.113:51348#🔒 SS-TCP-NA 🇮🇳 IN-103.174.86.113:51348
+vless://9f127d3d-1300-4319-bd35-7b217e69155f@www.speedtest.net:80?type=httpupgrade&path=/Telegram-ConfigMs?ed=2048&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&security=none#🇺🇸US | 🔴 | vless | @fnet00 | 1
+vless://945a6635-9884-46e4-b7e8-78fb7c79359b@tele.jokerv2ray.store:15557?security=reality&encryption=none&pbk=7XKXjQ8Y3TxGnBhqERCzRqVeWI2Mf7BpZ6cJulAI7yA&headerType=none&fp=firefox&spx=/&type=tcp&sni=telegram-id.jokerv2ray.store&sid=7dd63855#❔XX | 🟢 | vless | @Capital_NET | 24
+vless://90209abc-fe5e-4689-f2eb-a3d509e79413@cpanel.com:443?path=/Telegram:,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=www.GozargahVPN.top&fp=chrome&type=ws&sni=www.GozargahVPN.top#🇺🇸US | 🔴 | vless | @GozargahVPN | 10
+vless://da890efd-bb54-4264-d59b-257822039ac1@public.alpanel.top:1380?mode=gun&security=reality&encryption=none&pbk=u2Xf8Og6H4iPcoYIZC8Cm8ziH2LA4ifvpHxEpp8bfUw&fp=chrome&spx=/&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&sni=www.iranserver.com&sid=4c5aaad0#❔XX | 🔴 | vless | @vpn_go67 | 20
+vless://Telegram-ipV2Ray-hum@www.speedtest.net:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#🇺🇸US | 🔴 | vless | @flyv2ray | 2
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5004#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5004
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:6697
+vless://671b9a72-7c75-46b9-be82-db2734bae2fc@public.alpanel.top:1403?mode=gun&security=reality&encryption=none&pbk=rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA&fp=chrome&spx=/&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&sni=tuyacn.com&sid=99#❔XX | 🔴 | vless | @vpn_go67 | 19
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNHlHMHNPV1NSVlNsaWQ5bWZLVW1tajhVNFhnVmxvZHU0b1NSVTkwZXkyZTBDUTI=@89.44.193.112:51348#🇰🇿KZ | 🟢 | ss | @OutlineVpnOfficial | 35
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.222:8000#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:8000
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:800#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:800
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7001#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:7001
+vless://87571e5d-b38e-4007-cf53-cfe3100912b6@join.2.kiava.cloud.nevao.ir:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws83.cloudfront.net.kiava.fun&path=/?ed=2560#🇺🇸US | 🔴 | vless | @kiava | 5
+vless://cd9bf18f-e7f1-457d-aa48-59f8ae9a2309@l-mi.mrmax2.sbs:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=booking.com&fp=chrome&security=reality&pbk=keFsya_-stbGVSvWfpNjwB5SM2iFfwoQT0eToV88shM&sid=2a87bdca#🇳🇱NL | 🔴 | vless | @Capital_NET | 25
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpENGM0OGRzU1lpRXhNeTNVUkM0Q3Vz@138.68.182.23:2248#🔒 SS-TCP-NA 🇬🇧 GB-138.68.182.23:2248
+vmess://eyJhZGQiOiJkZGQ0NzQ4MS0wZDZmLTA4YjktNzIwOS1iMGRkYzBjNWZhNDUub25lcGx1cy5wdWIiLCJ2IjoyLCJwb3J0IjoiODAiLCJpZCI6IjQ2Y2ZjZmUxLWU0NTAtNDU5ZC1hM2FiLTk0MDYwMTFhYjNlYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20iLCJ0bHMiOiIiLCJwYXRoIjoiXC8iLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NOIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAeWFuZXlfMDEgfCA0In0=
+vless://18c680fc-f921-484c-85d3-ec191f7cc983@sky1.bbv2ry.pics:443?type=tcp&path=/&host=ghbi.ir&headerType=http&security=none#❔XX | 🔴 | vless | @VpnSkyy | 7
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.113:8888#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.113:8888
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.24:8888#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.24:8888
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.113:8008#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:8008
+vless://251e61e3-f4db-4508-9e9d-2a80af4362b8@www.parspack.com:8880?path=/SHHPROXY?ed=2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#🇺🇸US | 🔴 | vless | @flyv2ray | 6
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8119#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8119
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7002#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:7002
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2375#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:2375
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:443
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#🔒 SS-TCP-NA 🇸🇮 SI-192.71.244.150:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRGczTmpsbA==@91.194.161.7:8388#🔒 SS-TCP-NA 🇲🇩 MD-91.194.161.7:8388
+vless://8b53a7ba-acac-4765-96af-c2b92d141281@web.bbv2ry.pics:443?type=ws&path=/&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Skyy.bbv2ry.pics#❔XX | 🔴 | vless | @VpnSkyy | 1
+vless://fbe02c0b-775f-4431-8615-a9497255c876@four.felinetest.site:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=none.felinetest.site&fp=chrome&security=reality&pbk=fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs&sid=6f9deca7#🇩🇪DE | 🔴 | vless | @Capital_NET | 45
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#🇦🇹AT | 🟢 | ss | @OutlineVpnOfficial | 18
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.85:6697#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.85:6697
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreXdOS0xPbEFha21nUnhhOXhxdkhV@141.98.169.248:25757#🇫🇮FI | 🟢 | ss | @OutlineVpnOfficial | 14
+vless://eee42454-c782-440e-9feb-4822bb2dfc9c@172.66.44.254:8880?path=/TELEGRAM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM?ed=2048&security=none&encryption=none&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#🚩CF | 🔴 | vless | @proxy_mtm | 0
+vmess://eyJ2IjoiMiIsImFkZCI6Inp1bGEuaXIiLCJwb3J0IjoyMDk2LCJpZCI6IjMwY2FiNzQ2LTVjYTUtNDZlZi1hYTliLTUzN2YyMGY2YTQwYyIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiXC8iLCJob3N0Ijoia2luZ28uaGlnaHRlY2hzZXJ2aWNlLmlyIiwic25pIjoia2luZ28uaGlnaHRlY2hzZXJ2aWNlLmlyIiwiZnAiOiJjaHJvbWUiLCJhbHBuIjoiaDIsaHR0cFwvMS4xIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVUyB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQEhvcGVfTmV0IHwgMSJ9
