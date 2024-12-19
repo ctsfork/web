@@ -1,0 +1,7 @@
+ws://tracker.nighthawk.pw:4201/announce # duplicate of ws://tracker.nighthawk.pw:2052/announce
+wss://peertube.cpy.re:443/tracker/socket # registered torrents
+wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.openwebtorrent.com:443/announcehttp://0123456789nonexistent.com:80/announce
+wss://tracker.openwebtorrent.com:443/announcehttp://bt.okmp3.ru:2710/announce
+wss://tracker.webtorrent.dev:443/announce
+wss://ws.peer.ooo:443/announce # deprecated by owner
