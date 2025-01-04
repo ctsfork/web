@@ -1,0 +1,26 @@
+trojan://ypDt8RkT7J@89.187.181.172:43118?allowInsecure=1&sni=egcmi.phooeyunfold.com#0|--56
+trojan://vzhXXZVw@36.150.215.222:48544?allowInsecure=1#13,14|香港|@ripaojiedian
+trojan://2add6241-8fe8-3922-8347-da25e8ced601@120.233.26.140:12345?allowInsecure=0&sni=bestbgp.doubledou.icu#13,14|香港6|@ripaojiedian
+trojan://3723507166611775488@fleet-weevil.boa152.lol:443?allowInsecure=0&sni=fleet-weevil.boa152.lol#13,14|日本|@ripaojiedian
+trojan://ouo@18.183.158.211:443?allowInsecure=0&sni=tr.koxok.us.kg&type=ws&host=tr.koxok.us.kg&path=/?ed=2560#13|🇯🇵 日本|@ripaojiedian
+trojan://vzhXXZVw@36.150.215.196:18681?allowInsecure=1#13,14|香港2|@ripaojiedian
+trojan://3555@link.5557.run:443?allowInsecure=0&sni=link.5557.run#13|🇭🇰 香港6|@ripaojiedian
+trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#16|d*********g.com_3
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?allowInsecure=1&sni=connectwithemployers.online#15|SG_speednode_0084
+trojan://QwwHvrnN@223.113.54.145:36442?allowInsecure=1#13,14|香港2|@ripaojiedian
+trojan://2add6241-8fe8-3922-8347-da25e8ced601@120.233.26.140:50015?allowInsecure=0&sni=my.doubledou.icu#13,14|马来西亚|@ripaojiedian
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443?allowInsecure=0#15|SG_speednode_0085
+trojan://vzhXXZVw@36.150.215.196:18681?allowInsecure=1#13,14,15|CN_speednode_0002
+trojan://vzhXXZVw@223.111.144.12:4252?allowInsecure=1#13,14|香港2|@ripaojiedian
+trojan://2add6241-8fe8-3922-8347-da25e8ced601@120.233.26.140:50001?allowInsecure=0&sni=jpcn2.doubledou.icu#13,14|日本4|@ripaojiedian
+trojan://3723507166611775488@super-goblin.treefrog761.one:443?allowInsecure=0&sni=super-goblin.treefrog761.one#13,14|韩国|@ripaojiedian
+trojan://13e7f6f8-4ec2-4060-a1b2-e78eba835ab2@xj.cokecloud.top:12187?allowInsecure=0&sni=xj.cokecloud.top#13,14,15|JP_speednode_0037
+trojan://5586eb05-1e5c-4b27-a276-86311547b95e@waphk.mjt000.com:443?allowInsecure=0&sni=waphk.mjt000.com#13,14|香港9|@ripaojiedian
+trojan://3723507166611775488@major-reindeer.boa152.lol:443?allowInsecure=0&sni=major-reindeer.boa152.lol#13,14|新加坡2|@ripaojiedian
+trojan://telegram-id-privatevpns@51.44.134.174:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#15|FR_speednode_0031
+trojan://lidnBTGb@36.150.215.196:42395?allowInsecure=1#13,14|香港|@ripaojiedian
+trojan://3723507166611775488@whole-foxhound.boa152.lol:443?allowInsecure=0&sni=whole-foxhound.boa152.lol#13,14|新加坡2|@ripaojiedian
+trojan://3555@link.5557.run:443?allowInsecure=1#14|香港6|@ripaojiedian
+trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@vn.mjt000.com:443?allowInsecure=0&sni=vn.mjt000.com#13,14|越南|@ripaojiedian
+trojan://vzhXXZVw@223.113.54.149:14505?allowInsecure=1#13,14|香港|@ripaojiedian
+trojan://ouo@18.183.158.211:443?sni=tr.koxok.us.kg&type=ws&host=tr.koxok.us.kg&path=/?ed=2560#14|日本|@ripaojiedian
