@@ -1,0 +1,8 @@
+trojan://SSorg@108.165.152.80:2083?allowInsecure=1&sni=sstjj.esslh.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://fuck@42.236.73.72:443?allowInsecure=1&sni=www.zitian.cn#_%E4%B8%AD%E5%9B%BD
+trojan://SSorg@206.238.236.134:443?allowInsecure=1&sni=sstjj.esslh.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://SSorg@108.165.152.29:2096?allowInsecure=1&sni=sstjj.esslh.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://SSorg@154.197.64.67:443?allowInsecure=1&sni=sstjj.esslh.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
+vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6IjQyLjIzNi43My43MiIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiMDQ0ZjAxNzctMDY3NS00ZGNmLTg5ZDQtODA0YjY3ODhlNTE4IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6InRscyJ9
+trojan://SSorg@185.204.109.190:8443?allowInsecure=1&sni=sstjj.esslh.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BA%20_%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://SSorg@154.197.64.248:8443?allowInsecure=1&sni=sstjj.esslh.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
