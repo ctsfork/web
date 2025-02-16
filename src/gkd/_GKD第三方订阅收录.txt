@@ -1,0 +1,87 @@
+GKD第三方订阅收录名单:
+https://github.com/Adpro-Team/GKD_THS_List
+
+
+镜像站：
+
+https://mirror.ghproxy.com/
+https://ghp.ci/
+
+
+
+
+gkd-subscription 订阅下载地址：
+
+
+
+
+
+1. Adpro-Team
+https://raw.githubusercontent.com/Adpro-Team/GKD_subscription/refs/heads/main/dist/Adpro_gkd.json5
+https://ghp.ci/https://raw.githubusercontent.com/Adpro-Team/GKD_subscription/refs/heads/main/dist/Adpro_gkd.json5
+
+https://raw.githubusercontent.com/Adpro-Team/GKD_subscription/refs/heads/main/dist/Adpro_gkd.version.json5
+
+
+
+2. AIsouler
+https://raw.githubusercontent.com/AIsouler/GKD_subscription/main/dist/AIsouler_gkd.json5
+https://ghp.ci/https://raw.githubusercontent.com/AIsouler/GKD_subscription/main/dist/AIsouler_gkd.json5
+
+https://raw.githubusercontent.com/AIsouler/GKD_subscription/main/dist/AIsouler_gkd.version.json5
+
+
+
+3. aoguai
+https://raw.githubusercontent.com/aoguai/subscription/custom/dist/aoguai_gkd.json5
+https://ghp.ci/https://raw.githubusercontent.com/aoguai/subscription/custom/dist/aoguai_gkd.json5
+
+https://raw.githubusercontent.com/aoguai/subscription/custom/dist/aoguai_gkd.version.json5
+
+
+
+
+4. ganlinte
+https://raw.githubusercontent.com/ganlinte/GKD-subscription/main/dist/ganlin_gkd.json5
+https://ghp.ci/https://raw.githubusercontent.com/ganlinte/GKD-subscription/main/dist/ganlin_gkd.json5
+
+https://raw.githubusercontent.com/ganlinte/GKD-subscription/main/dist/ganlin_gkd.version.json5
+
+
+
+
+
+5.gkd-sub-repo
+https://raw.githubusercontent.com/gkd-sub-repo/114514_subscription/main/dist/114514_gkd.json5
+https://ghp.ci/https://raw.githubusercontent.com/gkd-sub-repo/114514_subscription/main/dist/114514_gkd.json5
+
+https://raw.githubusercontent.com/gkd-sub-repo/114514_subscription/main/dist/114514_gkd.version.json5
+
+
+
+
+6. MengNianxiaoyao
+https://raw.githubusercontent.com/MengNianxiaoyao/gkd-subscription/main/dist/gkd.json5
+https://ghp.ci/https://raw.githubusercontent.com/MengNianxiaoyao/gkd-subscription/main/dist/gkd.json5
+
+https://raw.githubusercontent.com/MengNianxiaoyao/gkd-subscription/main/dist/gkd.version.json5
+
+
+
+
+
+7. YaChengMu
+https://raw.githubusercontent.com/YaChengMu/subscription/main/dist/gkd.json5
+https://ghp.ci/https://raw.githubusercontent.com/YaChengMu/subscription/main/dist/gkd.json5
+
+https://raw.githubusercontent.com/YaChengMu/subscription/main/dist/gkd.version.json5
+
+
+
+
+
+8. gkd-kit  停止更新
+https://registry.npmmirror.com/@gkd-kit/subscription/latest/files
+
+
+
