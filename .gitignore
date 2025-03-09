@@ -1,0 +1,17 @@
+Packages
+.build
+xcuserdata
+*.xcodeproj
+DerivedData/
+.DS_Store
+db.sqlite
+.swiftpm
+VPNParserApp/.build
+VPNParser/.build
+VPNParser/list
+VPNParser/list-yaml
+VPNParser/Release
+VPNParser/.build
+ClashX-ignore-list/.build
+iptv/_解析代码/build/
+./vpn/subconverter/cache
