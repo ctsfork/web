@@ -1,0 +1,17 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxNTYuMTQ2LjQwLjE5NDo5ODk#3-SK%20%7C%20%205.0MB/s%7C0%25%7CYoutube%7COp...
+vmess://eyJwcyI6IjEgfCAgMS4wTUJcL3N8MCV8TmV0ZmxpeHxEaXNuLi4uIiwiYWRkIjoiMTgzLjIzNi41MS4zOCIsImFpZCI6IjY0IiwidWRwIjoidHJ1ZSIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJwb3J0IjoiNDkyOTEiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOiJmYWxzZSJ9
+trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229#45 |  2.5MB/s|46%|Openai|Gem...
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAxMjUuMTQxLjMxLjcyOjE1MDk4#2%20%7C%20%201.5MB/s%7C44%25%7COpenai
+vmess://eyJ0bHMiOiJ0bHMiLCJuZXQiOiJncnBjIiwicHMiOiI1IHwgIDEuNE1CXC9zfDAlfFlvdXR1YmV8T3Blbi4uLiIsInBvcnQiOiI0NDMiLCJhaWQiOiIwIiwidWRwIjoidHJ1ZSIsInR5cGUiOiJub25lIiwiaWQiOiJjZWFhZjY1My05ODc0LTU4YzYtYjEwMC0wOTJjMDFhMWY3M2QiLCJhZGQiOiJkZS52bWVzcy5jb21ucG1qcy5jb20iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOiJmYWxzZSJ9
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?peer=13c2c931-swin40-swy6li-tni2.cu.plebai.net#63 |  2.1MB/s|46%|Openai|Gem...
+trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?peer=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#64 |  1.3MB/s|46%|Openai|Gem...
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.10:9141?peer=www.baidu.com#🇭🇰 香港4|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.24:50723?peer=www.baidu.com#🇭🇰 香港5|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.58:21829?peer=www.baidu.com#🇯🇵 日本3|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.29:53067?peer=www.baidu.com#🇯🇵 日本4|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.61:45203?peer=www.baidu.com#🇰🇷 韩国4|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.61:38482?peer=www.baidu.com#🇸🇬 新加坡|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.61:7041?peer=www.baidu.com#🇸🇬 新加坡2|@ripaojiedian
+trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@13.215.50.90:6668?peer=baidu.com#🇸🇬 新加坡4|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.36:30534?peer=www.baidu.com#🇺🇸 美国3|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.60:30495?peer=www.baidu.com#🇺🇸 美国4|@ripaojiedian
