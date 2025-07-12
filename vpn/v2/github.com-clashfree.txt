@@ -1,0 +1,19 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxNTYuMTQ2LjQwLjE5NDo5ODk#3-SK%20%7C%20%205.0MB/s%7C0%25%7CYoutube%7COp...
+vmess://eyJ1ZHAiOiJ0cnVlIiwicHMiOiIxIHwgIDEuME1CXC9zfDAlfE5ldGZsaXh8RGlzbi4uLiIsImFkZCI6IjE4My4yMzYuNTEuMzgiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsInNraXAtY2VydC12ZXJpZnkiOiJmYWxzZSIsImFpZCI6IjY0IiwicG9ydCI6IjQ5MjkxIiwidiI6IjIiLCJ0eXBlIjoibm9uZSJ9
+trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229#45 |  2.5MB/s|46%|Openai|Gem...
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAxMjUuMTQxLjMxLjcyOjE1MDk4#2%20%7C%20%201.5MB/s%7C44%25%7COpenai
+vmess://eyJ0bHMiOiJ0bHMiLCJ1ZHAiOiJ0cnVlIiwicHMiOiI1IHwgIDEuNE1CXC9zfDAlfFlvdXR1YmV8T3Blbi4uLiIsImFkZCI6ImRlLnZtZXNzLmNvbW5wbWpzLmNvbSIsImlkIjoiY2VhYWY2NTMtOTg3NC01OGM2LWIxMDAtMDkyYzAxYTFmNzNkIiwic2tpcC1jZXJ0LXZlcmlmeSI6ImZhbHNlIiwiYWlkIjoiMCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwibmV0IjoiZ3JwYyJ9
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?peer=13c2c931-swin40-swy6li-tni2.cu.plebai.net#63 |  2.1MB/s|46%|Openai|Gem...
+trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?peer=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#64 |  1.3MB/s|46%|Openai|Gem...
+vmess://eyJ1ZHAiOiJ0cnVlIiwicHMiOiLwn4et8J-HsCDpppnmuK8zfEByaXBhb2ppZWRpYW4iLCJhZGQiOiIzOC4xNDcuMTg5LjIzMyIsImlkIjoiNWMyMjI4ZjItNzU3Yi00NDQ2LTg2ODItNjhiNjUyYjA1OTkzIiwic2tpcC1jZXJ0LXZlcmlmeSI6ImZhbHNlIiwiYWlkIjoiMCIsInBvcnQiOiIzMTA3NiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.59:9141?peer=www.baidu.com#🇭🇰 香港4|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.59:24903?peer=www.baidu.com#🇭🇰 香港5|@ripaojiedian
+trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193#🇭🇰 香港6|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:41225?peer=www.baidu.com#🇯🇵 日本3|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:4445?peer=www.baidu.com#🇯🇵 日本4|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.59:16158?peer=www.baidu.com#🇰🇷 韩国|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:7571?peer=www.baidu.com#🇸🇬 新加坡|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:32765?peer=www.baidu.com#🇸🇬 新加坡2|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:4447?peer=www.baidu.com#🇺🇸 美国3|@ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:34719?peer=www.baidu.com#🇺🇸 美国4|@ripaojiedian
+vmess://eyJhZGQiOiIzOC4xNDcuMTg5LjIzMyIsImlkIjoiNWMyMjI4ZjItNzU3Yi00NDQ2LTg2ODItNjhiNjUyYjA1OTkzIiwiYWlkIjoiMCIsInR5cGUiOiJub25lIiwic2tpcC1jZXJ0LXZlcmlmeSI6ImZhbHNlIiwicHMiOiLwn4et8J-HsCDpppnmuK8zfEByaXBhb2ppZWRpYW4gMiIsInVkcCI6InRydWUiLCJ2IjoiMiIsInBvcnQiOiIzMTA3NiJ9
