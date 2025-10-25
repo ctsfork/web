@@ -1,0 +1,254 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="未分类",CCTV-01咪咕
+http://go.bkpcp.top/mg/cctv1
+#EXTINF:-1 group-title="未分类",CCTV-02咪咕
+http://go.bkpcp.top/mg/cctv2
+#EXTINF:-1 group-title="未分类",CCTV-03咪咕
+http://go.bkpcp.top/mg/cctv3
+#EXTINF:-1 group-title="未分类",CCTV-04咪咕
+http://go.bkpcp.top/mg/cctv4
+#EXTINF:-1 group-title="未分类",CCTV-05咪咕
+http://go.bkpcp.top/mg/cctv5
+#EXTINF:-1 group-title="未分类",CCTV-5+咪咕
+http://go.bkpcp.top/mg/cctv5p
+#EXTINF:-1 group-title="未分类",CCTV-06咪咕
+http://go.bkpcp.top/mg/cctv6
+#EXTINF:-1 group-title="未分类",CCTV-07咪咕
+http://go.bkpcp.top/mg/cctv7
+#EXTINF:-1 group-title="未分类",CCTV-08咪咕
+http://go.bkpcp.top/mg/cctv8
+#EXTINF:-1 group-title="未分类",CCTV-09咪咕
+http://go.bkpcp.top/mg/cctv9
+#EXTINF:-1 group-title="未分类",CCTV-10咪咕
+http://go.bkpcp.top/mg/cctv10
+#EXTINF:-1 group-title="未分类",CCTV-11咪咕
+http://go.bkpcp.top/mg/cctv11
+#EXTINF:-1 group-title="未分类",CCTV-12咪咕
+http://go.bkpcp.top/mg/cctv12
+#EXTINF:-1 group-title="未分类",CCTV-13咪咕
+http://go.bkpcp.top/mg/cctv13
+#EXTINF:-1 group-title="未分类",CCTV-14咪咕
+http://go.bkpcp.top/mg/cctv14
+#EXTINF:-1 group-title="未分类",CCTV-15咪咕
+http://go.bkpcp.top/mg/cctv15
+#EXTINF:-1 group-title="未分类",CCTV-16咪咕
+http://go.bkpcp.top/mg/cctv16
+#EXTINF:-1 group-title="未分类",CCTV-17咪咕
+http://go.bkpcp.top/mg/cctv17
+#EXTINF:-1 group-title="未分类",cct4欧洲咪咕
+http://go.bkpcp.top/mg/cctv4o
+#EXTINF:-1 group-title="未分类",cct4美洲咪咕
+http://go.bkpcp.top/mg/cctv4m
+#EXTINF:-1 group-title="未分类",CGTN-西咪咕
+http://go.bkpcp.top/mg/cgtne
+#EXTINF:-1 group-title="未分类",CGTN-阿咪咕
+http://go.bkpcp.top/mg/cgtna
+#EXTINF:-1 group-title="未分类",CGTN-法咪咕
+http://go.bkpcp.top/mg/cgtnf
+#EXTINF:-1 group-title="未分类",北京卫视咪咕
+http://go.bkpcp.top/mg/bjws
+#EXTINF:-1 group-title="未分类",东方卫视咪咕
+http://go.bkpcp.top/mg/dfws
+#EXTINF:-1 group-title="未分类",浙江卫视咪咕
+http://go.bkpcp.top/mg/zjws
+#EXTINF:-1 group-title="未分类",江苏卫视咪咕
+http://go.bkpcp.top/mg/jsws
+#EXTINF:-1 group-title="未分类",湖南卫视咪咕
+http://go.bkpcp.top/mg/hunws
+#EXTINF:-1 group-title="未分类",广东卫视咪咕
+http://go.bkpcp.top/mg/gdws
+#EXTINF:-1 group-title="未分类",深圳卫视咪4k
+http://go.bkpcp.top/mg/szws
+#EXTINF:-1 group-title="未分类",山东卫视咪咕
+http://go.bkpcp.top/mg/sdws
+#EXTINF:-1 group-title="未分类",河南卫视咪咕
+http://go.bkpcp.top/mg/hnws
+#EXTINF:-1 group-title="未分类",江西卫视咪咕
+http://go.bkpcp.top/mg/jxws
+#EXTINF:-1 group-title="未分类",湖北卫视咪咕
+http://go.bkpcp.top/mg/hubws
+#EXTINF:-1 group-title="未分类",海南卫视咪咕
+http://go.bkpcp.top/mg/hinws
+#EXTINF:-1 group-title="未分类",陕西卫视咪咕
+http://go.bkpcp.top/mg/sxws
+#EXTINF:-1 group-title="未分类",兵团卫视咪咕
+http://go.bkpcp.top/mg/btws
+#EXTINF:-1 group-title="未分类",黑龙江视咪咕
+http://go.bkpcp.top/mg/hljws
+#EXTINF:-1 group-title="未分类",CCTV-01咪咕
+http://j.s.bkpcp.top/jj/cctv1
+#EXTINF:-1 group-title="未分类",CCTV-02咪咕
+http://j.s.bkpcp.top/jj/cctv2
+#EXTINF:-1 group-title="未分类",CCTV-03咪咕
+http://j.s.bkpcp.top/jj/cctv3
+#EXTINF:-1 group-title="未分类",CCTV-04咪咕
+http://j.s.bkpcp.top/jj/cctv4
+#EXTINF:-1 group-title="未分类",CCTV-05咪咕
+http://j.s.bkpcp.top/jj/cctv5
+#EXTINF:-1 group-title="未分类",CCTV-5+咪咕
+http://j.s.bkpcp.top/jj/cctv5p
+#EXTINF:-1 group-title="未分类",CCTV-06咪咕
+http://j.s.bkpcp.top/jj/cctv6
+#EXTINF:-1 group-title="未分类",CCTV-07咪咕
+http://j.s.bkpcp.top/jj/cctv7
+#EXTINF:-1 group-title="未分类",CCTV-08咪咕
+http://j.s.bkpcp.top/jj/cctv8
+#EXTINF:-1 group-title="未分类",CCTV-09咪咕
+http://j.s.bkpcp.top/jj/cctv9
+#EXTINF:-1 group-title="未分类",CCTV-10咪咕
+http://j.s.bkpcp.top/jj/cctv10
+#EXTINF:-1 group-title="未分类",CCTV-11咪咕
+http://j.s.bkpcp.top/jj/cctv11
+#EXTINF:-1 group-title="未分类",CCTV-12咪咕
+http://j.s.bkpcp.top/jj/cctv12
+#EXTINF:-1 group-title="未分类",CCTV-13咪咕
+http://j.s.bkpcp.top/jj/cctv13
+#EXTINF:-1 group-title="未分类",CCTV-14咪咕
+http://j.s.bkpcp.top/jj/cctv14
+#EXTINF:-1 group-title="未分类",CCTV-15咪咕
+http://j.s.bkpcp.top/jj/cctv15
+#EXTINF:-1 group-title="未分类",CCTV-16咪咕
+http://j.s.bkpcp.top/jj/cctv16
+#EXTINF:-1 group-title="未分类",CCTV-17咪咕
+http://j.s.bkpcp.top/jj/cctv17
+#EXTINF:-1 group-title="未分类",cct4欧洲咪咕
+http://j.s.bkpcp.top/jj/cctv4o
+#EXTINF:-1 group-title="未分类",cct4美洲咪咕
+http://j.s.bkpcp.top/jj/cctv4m
+#EXTINF:-1 group-title="未分类",CGTN-西咪咕
+http://j.s.bkpcp.top/jj/cgtne
+#EXTINF:-1 group-title="未分类",CGTN-阿咪咕
+http://j.s.bkpcp.top/jj/cgtna
+#EXTINF:-1 group-title="未分类",CGTN-法咪咕
+http://j.s.bkpcp.top/jj/cgtnf
+#EXTINF:-1 group-title="未分类",北京卫视咪咕
+http://j.s.bkpcp.top/jj/bjws
+#EXTINF:-1 group-title="未分类",东方卫视咪咕
+http://j.s.bkpcp.top/jj/dfws
+#EXTINF:-1 group-title="未分类",浙江卫视咪咕
+http://j.s.bkpcp.top/jj/zjws
+#EXTINF:-1 group-title="未分类",江苏卫视咪咕
+http://j.s.bkpcp.top/jj/jsws
+#EXTINF:-1 group-title="未分类",湖南卫视咪咕
+http://j.s.bkpcp.top/jj/hunws
+#EXTINF:-1 group-title="未分类",广东卫视咪咕
+http://j.s.bkpcp.top/jj/gdws
+#EXTINF:-1 group-title="未分类",深圳卫视咪4k
+http://j.s.bkpcp.top/jj/szws
+#EXTINF:-1 group-title="未分类",山东卫视咪咕
+http://j.s.bkpcp.top/jj/sdws
+#EXTINF:-1 group-title="未分类",河南卫视咪咕
+http://j.s.bkpcp.top/jj/hnws
+#EXTINF:-1 group-title="未分类",江西卫视咪咕
+http://j.s.bkpcp.top/jj/jxws
+#EXTINF:-1 group-title="未分类",湖北卫视咪咕
+http://j.s.bkpcp.top/jj/hubws
+#EXTINF:-1 group-title="未分类",海南卫视咪咕
+http://j.s.bkpcp.top/jj/hinws
+#EXTINF:-1 group-title="未分类",陕西卫视咪咕
+http://j.s.bkpcp.top/jj/sxws
+#EXTINF:-1 group-title="未分类",兵团卫视咪咕
+http://j.s.bkpcp.top/jj/btws
+#EXTINF:-1 group-title="未分类",黑龙江视咪咕
+http://j.s.bkpcp.top/jj/hljws
+#EXTINF:-1 group-title="未分类",CCTV-01咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv1
+#EXTINF:-1 group-title="未分类",CCTV-02咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv2
+#EXTINF:-1 group-title="未分类",CCTV-03咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv3
+#EXTINF:-1 group-title="未分类",CCTV-04咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv4
+#EXTINF:-1 group-title="未分类",CCTV-05咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv5
+#EXTINF:-1 group-title="未分类",CCTV-5+咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv5p
+#EXTINF:-1 group-title="未分类",CCTV-06咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv6
+#EXTINF:-1 group-title="未分类",CCTV-07咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv7
+#EXTINF:-1 group-title="未分类",CCTV-08咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv8
+#EXTINF:-1 group-title="未分类",CCTV-09咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv9
+#EXTINF:-1 group-title="未分类",CCTV-10咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv10
+#EXTINF:-1 group-title="未分类",CCTV-11咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv11
+#EXTINF:-1 group-title="未分类",CCTV-12咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv12
+#EXTINF:-1 group-title="未分类",CCTV-13咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv13
+#EXTINF:-1 group-title="未分类",CCTV-14咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv14
+#EXTINF:-1 group-title="未分类",CCTV-15咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv15
+#EXTINF:-1 group-title="未分类",CCTV-16咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv16
+#EXTINF:-1 group-title="未分类",CCTV-17咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv17
+#EXTINF:-1 group-title="未分类",北京卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=bjws
+#EXTINF:-1 group-title="未分类",东方卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=dfws
+#EXTINF:-1 group-title="未分类",浙江卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=zjws
+#EXTINF:-1 group-title="未分类",江苏卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=jsws
+#EXTINF:-1 group-title="未分类",湖南卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=hunws
+#EXTINF:-1 group-title="未分类",广东卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=gdws
+#EXTINF:-1 group-title="未分类",深圳卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=szws
+#EXTINF:-1 group-title="未分类",天津卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=tjws
+#EXTINF:-1 group-title="未分类",安徽卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=ahws
+#EXTINF:-1 group-title="未分类",山东卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=sdws
+#EXTINF:-1 group-title="未分类",山西卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=sxiws
+#EXTINF:-1 group-title="未分类",辽宁卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=lnws
+#EXTINF:-1 group-title="未分类",河北卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=hbws
+#EXTINF:-1 group-title="未分类",河南卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=hnws
+#EXTINF:-1 group-title="未分类",江西卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=jxws
+#EXTINF:-1 group-title="未分类",四川卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=scws
+#EXTINF:-1 group-title="未分类",重庆卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=cqws
+#EXTINF:-1 group-title="未分类",贵州卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=gzws
+#EXTINF:-1 group-title="未分类",湖北卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=hubws
+#EXTINF:-1 group-title="未分类",广西卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=gxws
+#EXTINF:-1 group-title="未分类",东南卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=dnws
+#EXTINF:-1 group-title="未分类",海南卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=hinws
+#EXTINF:-1 group-title="未分类",青海卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=qhws
+#EXTINF:-1 group-title="未分类",宁夏卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=nxws
+#EXTINF:-1 group-title="未分类",陕西卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=sxws
+#EXTINF:-1 group-title="未分类",甘肃卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=gsws
+#EXTINF:-1 group-title="未分类",新疆卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=xjws
+#EXTINF:-1 group-title="未分类",吉林卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=jlws
+#EXTINF:-1 group-title="未分类",西藏卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=xzws
+#EXTINF:-1 group-title="未分类",内蒙古视咪咕
+http://t.061899.xyz/tl/tl.php?id=nmgws
+#EXTINF:-1 group-title="未分类",黑龙江视咪咕
+http://t.061899.xyz/tl/tl.php?id=hljws
