@@ -1,0 +1,17 @@
+vmess://eyJuZXQiOiJ3cyIsInBvcnQiOiIzMDgwOSIsImFkZCI6InY5LmhlZHVpYW4ubGluayIsImhvc3QiOiJiYWlkdS5jb20iLCJwYXRoIjoiXC9vb29vIiwicHMiOiJbVk1lc3NdIPCfh63wn4ewIOmmmea4r3xAcmlwYW9qaWVkaWFuIiwic2tpcC1jZXJ0LXZlcmlmeSI6ImZhbHNlIiwidHlwZSI6Im5vbmUiLCJhaWQiOiIyIiwidiI6IjIiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCJ9
+trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?peer=www.nintendogames.net#[Trojan] 🇭🇰 香港3|@ripaojiedian
+trojan://BxceQaOe@58.152.110.20:443?peer=t.me%2Fripaojiedian#[Trojan] 🇭🇰 香港4|@ripaojiedian
+trojan://BxceQaOe@112.120.34.55:443?peer=t.me%2Fripaojiedian#[Trojan] 🇭🇰 香港5|@ripaojiedian
+trojan://BxceQaOe@160.16.227.93:1924?peer=t.me%2Fripaojiedian#[Trojan] 🇯🇵 日本|@ripaojiedian
+trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:1334?peer=www.nintendogames.net#[Trojan] 🇯🇵 日本2|@ripaojiedian
+trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?peer=www.nintendogames.net#[Trojan] 🇯🇵 日本3|@ripaojiedian
+trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552?peer=www.nintendogames.net#[Trojan] 🇸🇬 新加坡|@ripaojiedian
+trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?peer=www.nintendogames.net#[Trojan] 🇸🇬 新加坡2|@ripaojiedian
+trojan://BxceQaOe@38.180.191.251:443?peer=t.me%2Fripaojiedian#[Trojan] 🇸🇬 新加坡3|@ripaojiedian
+trojan://2274c52572e721086f8bd8f88984643c@160.16.229.223:2890?peer=www.nintendogames.net#[Trojan] 🇺🇸 美国|@ripaojiedian
+trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:4211?peer=www.nintendogames.net#[Trojan] 🇺🇸 美国2|@ripaojiedian
+trojan://BxceQaOe@us.wyau.cn:4569?peer=t.me%2Fripaojiedian#[Trojan] 🇺🇸 美国3|@ripaojiedian
+trojan://telegram-id-directvpn@13.36.161.224:22223?peer=trojan.burgerip.co.uk#[Trojan] FR_speednode_0007
+trojan://-4146XJHYAzJ4K8Ov6_LBQ@194.35.116.62:11000?peer=f4e23c6c168f0e91.noproblemvpn.ru#[Trojan] RU_speednode_0016
+trojan://telegram-id-directvpn@51.45.34.73:22223?peer=trojan.burgerip.co.uk#[Trojan] US_speednode_0020
+vless://f8f19bc7-54c1-4612-9cff-4ce3852d2bba@www.speedtest.net:80?type=ws&sni=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&encryption=none#[Vless] US_speednode_0030
