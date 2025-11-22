@@ -1,0 +1,32 @@
+vmess://eyJza2lwLWNlcnQtdmVyaWZ5IjoiZmFsc2UiLCJob3N0IjoiYmFpZHUuY29tIiwicG9ydCI6IjMwODA5IiwidHlwZSI6Im5vbmUiLCJuZXQiOiJ3cyIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsInYiOiIyIiwicGF0aCI6Ilwvb29vbyIsImFkZCI6InY5LmhlZHVpYW4ubGluayIsInBzIjoiW1ZNZXNzXSDwn4et8J-HsCDpppnmuK98QHJpcGFvamllZGlhbiJ9
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.18.98:443?peer=www.nintendogames.net#[Trojan] 🇭🇰 香港3|@ripaojiedian
+trojan://BxceQaOe@58.152.18.95:443?peer=t.me%2Fripaojiedian#[Trojan] 🇭🇰 香港4|@ripaojiedian
+trojan://BxceQaOe@58.152.53.22:443?peer=t.me%2Fripaojiedian#[Trojan] 🇭🇰 香港5|@ripaojiedian
+trojan://BxceQaOe@160.16.233.76:4012?peer=t.me%2Fripaojiedian#[Trojan] 🇯🇵 日本|@ripaojiedian
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.124.55:3169?peer=www.nintendogames.net#[Trojan] 🇯🇵 日本2|@ripaojiedian
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.136.130:1331?peer=www.nintendogames.net#[Trojan] 🇯🇵 日本3|@ripaojiedian
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.223.205:2760?peer=www.nintendogames.net#[Trojan] 🇸🇬 新加坡|@ripaojiedian
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.136.130:5552?peer=www.nintendogames.net#[Trojan] 🇸🇬 新加坡2|@ripaojiedian
+trojan://BxceQaOe@116.49.237.130:1691?peer=t.me%2Fripaojiedian#[Trojan] 🇸🇬 新加坡3|@ripaojiedian
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.196.59:2890?peer=www.nintendogames.net#[Trojan] 🇺🇸 美国|@ripaojiedian
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.124.55:702?peer=www.nintendogames.net#[Trojan] 🇺🇸 美国2|@ripaojiedian
+trojan://BxceQaOe@95.40.7.3:2773?peer=t.me%2Fripaojiedian#[Trojan] 🇺🇸 美国3|@ripaojiedian
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicHMiOiJbVk1lc3NdIPCfh7rwn4e4IOe-juWbvTR8QHJpcGFvamllZGlhbiIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwic2tpcC1jZXJ0LXZlcmlmeSI6ImZhbHNlIiwidiI6IjIiLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJhaWQiOiIwIn0
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicHMiOiJbVk1lc3NdIPCfh7rwn4e4IOe-juWbvTR8QHJpcGFvamllZGlhbiAyIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJza2lwLWNlcnQtdmVyaWZ5IjoiZmFsc2UiLCJ2IjoiMiIsInBvcnQiOiIxODAiLCJ0eXBlIjoibm9uZSIsImFpZCI6IjAifQ
+trojan://fea8b7a7-cc83-4a78-a3fc-bbce9cc89ddb@34.22.190.30:443?peer=joss.gpj1.web.id#[Trojan] BE_speednode_0002
+trojan://0a477acf-1f95-47cb-b4a5-a627b4c57de3@34.22.190.30:443?peer=joss.gpj1.web.id#[Trojan] BE_speednode_0003
+trojan://5c8c8b61-9b24-4c5a-b6ad-f6560df2e9d3@89.28.236.243:443?peer=joss.gpj1.web.id#[Trojan] DK_speednode_0009
+trojan://e9249478-ea4e-432f-a918-e84c1ce143c6@89.28.236.243:443?peer=joss.gpj1.web.id#[Trojan] DK_speednode_0010
+trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?peer=joss.gpj1.web.id#[Trojan] EE_speednode_0011
+trojan://telegram-id-directvpn@13.39.169.16:22223?peer=trojan.burgerip.co.uk#[Trojan] FR_speednode_0013
+trojan://telegram-id-privatevpns@13.39.169.16:22222?peer=trojan.burgerip.co.uk#[Trojan] FR_speednode_0014
+trojan://e6f0e8b0-3dc5-4d53-a23a-86c02d5ba098@51.15.210.1:443?peer=joss.gpj1.web.id#[Trojan] FR_speednode_0017
+trojan://c2de1269-17cb-41f6-ab97-f8c11a6f0f4f@158.178.206.197:8443?peer=joss.gpj1.web.id#[Trojan] FR_speednode_0018
+trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443?peer=joss.gpj1.web.id#[Trojan] GB_speednode_0020
+trojan://BxceQaOe@58.152.25.241:443?peer=t.me/ripaojiedian#[Trojan] HK_speednode_0024
+vless://34155f4a-b42f-4961-9268-df5069fca1ff@185.97.119.25:80?type=ws&sni=&path=/&encryption=none#[Vless] IR_speednode_0030
+trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443?peer=joss.gpj1.web.id#[Trojan] NL_speednode_0038
+trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443?peer=joss.gpj1.web.id#[Trojan] NL_speednode_0039
+vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443?type=ws&sni=cdn.filterai.ru&path=/websocketplsecurity=tls&encryption=none#[Vless] RU_speednode_0040
+trojan://d78d48df-b788-4a95-9e9f-77c9b2f69822@193.233.114.58:8443?peer=joss.gpj1.web.id#[Trojan] RU_speednode_0044
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.16.53.11:8443?type=ws&sni=hetzner-9.cfuk.name.ng&path=/?ed=2048security=tls&encryption=none#[Vless] US_speednode_0052
