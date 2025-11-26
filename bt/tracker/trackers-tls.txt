@@ -1,0 +1,65 @@
+https://1337.abcvg.info:443/announce
+https://1337.abcvg.info:443/announce # duplicate of http://1337.abcvg.info:80/announce
+https://academic-p2p.appspot.com/announce # malfunction
+https://bt.beatrice-raws.org:443/announce # registered torrents
+https://bt.bontal.net:443/announce
+https://carbon-bonsai-621.appspot.com/announce # malfunction
+https://ipv6.tracker.m-team.cc:443/announce.php
+https://opentracker.acgnx.se:443/announce # registered torrents
+https://shahidrazi.online:443/announce
+https://t.213891.xyz:443/announce
+https://t.btcland.xyz:443/announce # detected as suspicious
+https://t1.leech.ie:443/announce
+https://t1.leech.ie:443/announce # deprecated by owner
+https://t2.leech.ie:443/announce
+https://t2.leech.ie:443/announce # deprecated by owner
+https://t3.leech.ie:443/announce
+https://t3.leech.ie:443/announce # deprecated by owner
+https://threads.canofsocks.com:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
+https://torrent.ubuntu.com/announce # registered torrents
+https://torrent.ubuntu.com:443/announce # registered torrents
+https://torrents.linuxmint.com:443/announce.php # registered torrents
+https://tp.m-team.cc:443/announce.php
+https://tr-rh-zhuqiy.dgj055.icu:443/announce
+https://tr-zhuqiy-1.dgj055.icu:443/announce
+https://tr-zhuqiy-2.dgj055.icu:443/announce
+https://tr.abiir.top:443/announce
+https://tr.abir.ga:443/announce
+https://tr.bangumi.moe:9696/announce # registered torrents
+https://tr.fuckbitcoin.xyz:443/announce # detected by antivirus software
+https://tr.highstar.shop:443/announce # detected by antivirus software
+https://tr.nyacat.pw:443/announce
+https://tr.zukizuki.org:443/announce
+https://tracker.acgnx.se:443/announce # registered torrents
+https://tracker.alaskantf.com:443/announce
+https://tracker.belmult.online:443/announce
+https://tracker.bt4g.com:443/announce
+https://tracker.cutie.dating:443/announce
+https://tracker.enitin.xyz/announce
+https://tracker.fansub.id:443/announce
+https://tracker.foreverpirates.co:443/announce
+https://tracker.gcrenwp.top:443/announce
+https://tracker.ghostchu-services.top:443/announce
+https://tracker.jdx3.org:443/announce # malfunction
+https://tracker.jiesen.life:8443/announce # detected by antivirus software
+https://tracker.kuroy.me:443/announce
+https://tracker.leechshield.link:443/announce
+https://tracker.lilithraws.cf:443/announce # duplicate of https://tracker.lilithraws.org:443/announce
+https://tracker.m-team.cc:443/announce.php
+https://tracker.moeblog.cn:443/announce
+https://tracker.moeking.me:443/announce
+https://tracker.monikadesign.uk:443/announce # registered torrents
+https://tracker.pmman.tech:443/announce
+https://tracker.qingwa.pro:443/announce
+https://tracker.shittyurl.org:443/announce # registered torrents
+https://tracker.torrentsnows.com:443/announce # registered torrents
+https://tracker.uraniumhexafluori.de:443/announce
+https://tracker.yemekyedim.com:443/announce
+https://tracker.zhuqiy.com:443/announce
+https://tracker1.520.jp:443/announce
+https://tracker1.520.jp:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+https://tracker1.520.jp:443/announcehttp://0123456789nonexistent.com:80/announce
+https://tracker1.ctix.cn:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+https://tracker2.ctix.cn:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+https://trackers.mlsub.net:443/announce # duplicate of https://tracker.mlsub.net:443/announce
