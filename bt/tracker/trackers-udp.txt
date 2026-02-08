@@ -1,0 +1,231 @@
+udp://101.99.94.187:6969/announce
+udp://103.251.166.126:6969/announce
+udp://107.189.4.235:1337/announce
+udp://107.189.7.165:6969/announce
+udp://109.201.134.183:80/announce
+udp://132.226.6.145:6969/announce
+udp://135.125.236.64:6969/announce
+udp://144.126.245.19:6969/announce
+udp://147.45.77.75:6969/announce
+udp://173.201.36.219:6969/announce
+udp://176.99.7.59:6969/announce
+udp://185.121.168.96:1337/announce
+udp://185.121.168.96:6969/announce
+udp://185.216.179.62:25/announce
+udp://185.243.218.213:80/announce
+udp://193.42.111.57:9337/announce
+udp://200.111.152.53:1337/announce
+udp://200.168.117.124:6969/announce
+udp://209.141.59.25:6969/announce
+udp://209.50.255.93:3218/announce
+udp://211.75.210.221:6969/announce
+udp://212.42.38.197:6969/announce
+udp://23.175.184.30:23333/announce
+udp://34.66.57.33:1337/announce
+udp://34.66.57.33:80/announce
+udp://37.120.182.83:15480/announce
+udp://37.120.182.83:1984/announce
+udp://37.235.176.37:2710/announce
+udp://43.250.54.137:6969/announce
+udp://44.30.4.4:6969/announce
+udp://45.134.88.121:6969/announce
+udp://5.255.124.190:6969/announce
+udp://51.222.82.36:6969/announce
+udp://52.58.128.163:6969/announce
+udp://54.36.179.216:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://74.119.150.221:6969/announce
+udp://78.71.168.156:6969/announce
+udp://8.rarbg.com:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://8.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://80.71.224.126:1337/announce
+udp://81.230.84.201:6969/announce
+udp://84.54.51.78:6969/announce
+udp://88.80.22.67:2710/announce
+udp://9.rarbg.com:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2720/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2730/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2740/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2750/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2770/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2780/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2790/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2800/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2820/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2850/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2860/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2880/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2940/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2950/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2720/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2730/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2740/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2750/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2770/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2780/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2790/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2800/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2820/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2910/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2720/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2730/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2740/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2750/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2770/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2780/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2790/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2800/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2830/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2920/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2990/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://91.216.110.53:451/announce
+udp://93.158.213.92:1337/announce
+udp://94.136.190.183:6969/announce
+udp://94.23.207.177:6969/announce
+udp://[2a03:7220:8083:cd00::1]:451/announce
+udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
+udp://admin.52ywp.com:6969/announce
+udp://anidex.moe:6969/announce # malfunction
+udp://bandito.byterunner.io:6969/announce
+udp://bt.rer.lol:2710/announce # duplicate of udp://bt.rer.lol:6969/announce
+udp://bt.rer.lol:6969/announce
+udp://caramelo.ddns.net:8000/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
+udp://denis.stalker.upeer.me:1337/announce # duplicate of udp://denis.stalker.upeer.me:6969/announce
+udp://evan.im:6969/announce
+udp://exodus.desync.com:6969/announce
+udp://explodie.org:6969
+udp://explodie.org:6969/announce
+udp://extracker.dahrkael.net:6969/announce
+udp://extracker.dahrkael.net:6969/announce # malfunction
+udp://git.vulnix.sh:6969/announce # registered torrents
+udp://ibksturm.synology.me:6969/announce
+udp://ipv4.rer.lol:2710/announce # duplicate of udp://bt.rer.lol:6969/announce
+udp://ipv4announce.sktorrent.eu:6969/announce
+udp://leet-tracker.moe:1337/announce
+udp://martin-gebhardt.eu:25/announce
+udp://node02.torrentonline.cc:42069/announce
+udp://ns575949.ip-51-222-82.net:6969/announce
+udp://open-tracker.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
+udp://open.demonii.com:1337/announce
+udp://open.demonoid.ch:6969/announce
+udp://open.dstud.io:6969/announce
+udp://open.stealth.si:80/announce
+udp://open.tracker.cl:1337/announce
+udp://openbittorrent.com:80/announce # duplicate of udp://tracker.openbittorrent.com:80/announce
+udp://opentor.org:2710/announce
+udp://opentracker.io:6969/announce
+udp://opentrackr.org:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+udp://p4p.arenabg.com:1337/announce
+udp://pow7.com:80/announce # malfunction issue #374
+udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
+udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://rekcart.duckdns.org:15480/announce
+udp://retracker.hotplug.ru:2710/announce
+udp://retracker.lanta.me:2710/announce
+udp://run.publictracker.xyz:6969/announce
+udp://sugoi.pomf.se:80/announce # duplicate of udp://tracker.pomf.se:80/announce
+udp://t.overflow.biz:6969/announce
+udp://t.zerg.pw:1337/announce # duplicate of udp://t.zerg.pw:6969
+udp://t1.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
+udp://t2.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
+udp://t3.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
+udp://torrentclub.online:54123/announce
+udp://torrents.artixlinux.org:6969/announce # registered torrents
+udp://tr4ck3r.duckdns.org:6969/announce
+udp://tracker-de.ololosh.space:6969/announce # duplicate of udp://tracker.ololosh.space:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.1h.is:1337/announce
+udp://tracker.alaskantf.com:6969/announce
+udp://tracker.bitcoinindia.space:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker.bittor.pw:1337/announce
+udp://tracker.bluefrog.pw:2710/announce
+udp://tracker.breizh.pm:6969/announce
+udp://tracker.breizh.pm:6969/announce # requested by sysadmin
+udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.coppersurfer.tk:80/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.corpscorp.online:80/announce
+udp://tracker.dler.com:6969/announce
+udp://tracker.dler.com:6969/announce # duplicate of udp://tracker.dler.org:6969/announce
+udp://tracker.dler.org:6969/announce
+udp://tracker.ducks.party:1984/announce
+udp://tracker.fatkhoala.org:13720/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.filemail.com:6969/announce
+udp://tracker.flatuslifir.is:6969/announce
+udp://tracker.fnix.net:6969/announce
+udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.gmi.gd:6969/announce
+udp://tracker.healthcareindia.store:1337/announce # duplicate of udp://tracker.startwork.cv:1337/announce
+udp://tracker.hifitechindia.com:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker.internetwarriors.net:1337/announce # duplicate of udp://open.tracker.cl:1337/announce
+udp://tracker.iperson.xyz:6969/announce
+udp://tracker.ixuexi.click:6969/announce
+udp://tracker.nighthawk.pw:4201/announce # duplicate of udp://tracker.nighthawk.pw:2052/announce
+udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leechers-paradise.org:6969/announce
+udp://tracker.opentorrent.top:6969/announce
+udp://tracker.opentrackr.org:1337/announce
+udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.playground.ru:6969/announce
+udp://tracker.plx.im:6969/announce
+udp://tracker.qu.ax:6969/announce
+udp://tracker.rescuecrew7.com:1337/announce # duplicate of udp://tracker.startwork.cv:1337/announce
+udp://tracker.sbsub.com:2710/announce # duplicate of udp://retracker.lanta-net.ru:2710/announce
+udp://tracker.sharebro.in:6969/announce
+udp://tracker.sharebro.in:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker.skillindia.site:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker.skyts.net:6969/announce
+udp://tracker.srv00.com:6969/announce
+udp://tracker.t-1.org:6969/announce
+udp://tracker.tallpenguin.org:15710/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.tallpenguin.org:15730/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.tallpenguin.org:15750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.tallpenguin.org:15770/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.tallpenguin.org:15800/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.theoks.net:6969/announce
+udp://tracker.therarbg.to:6969/announce
+udp://tracker.tntvillage.scambioetico.org:2710/announce # registered torrents
+udp://tracker.torrent.eu.org:451/announce
+udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.tricitytorrents.com:2710/announce # registered torrents
+udp://tracker.tryhackx.org:6969/announce
+udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.umunu.ru:6969/announce
+udp://tracker.vulnix.sh:6969/announce # registered torrents
+udp://tracker.wepzone.net:6969/announce
+udp://tracker.yume-hatsuyuki.moe:6969/announce
+udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker.zupix.online:6969/announce
+udp://tracker1.myporn.club:9337/announce
+udp://tracker1.t-1.org:6969/announce # duplicate of udp://tracker.t-1.org:6969/announce
+udp://tracker2.dler.com:80/announce # duplicate of udp://tracker2.dler.org:80/announce
+udp://tracker2.itzmx.com:6961/announce
+udp://tracker2.itzmx.com:6961/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+udp://tracker3.itzmx.com:6961/announce
+udp://tracker3.itzmx.com:6961/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+udp://tracker3.t-1.org:6969/announce # duplicate of udp://tracker.t-1.org:6969/announce
+udp://tracker4.itzmx.com:2710/announce
+udp://tracker4.itzmx.com:2710/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+udp://tracker7.dler.org:6969/announce # duplicate of udp://tracker6.dler.org:2710/announce
+udp://udp.tracker.projectk.org:23333/announce
+udp://ulfbrueggemann.no-ip.org:6969/announce
+udp://utracker.ghostchu-services.top:6969/announce
+udp://wepzone.net:6969/announce
+udp://www.mvgroup.org:2710/announce # registered torrents
+udp://www.torrent.eu.org:451/announce
+udp://www.torrent.eu.org:451/announce # duplicate of udp://tracker.torrent.eu.org:451/announce
+udp://y.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
+udp://y.t-1.org:6969/announce # duplicate of udp://x.t-1.org:6969/announce
+udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
+udp://zer0day.ch:1337/announce
+udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce

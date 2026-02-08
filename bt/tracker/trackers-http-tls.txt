@@ -1,0 +1,336 @@
+http://1337.abcvg.info:80/announce
+http://140.235.237.23:6969/announce
+http://193.31.26.113:6969/announce
+http://200.168.117.124:6969/announce
+http://207.211.184.229:6969/announce
+http://207.241.226.111:6969/announce
+http://207.241.231.226:6969/announce
+http://209.50.255.93:3218/announce
+http://211.75.205.187:80/announce
+http://211.75.205.189:6969/announce
+http://211.75.210.221:6969/announce
+http://213.159.215.198:6970/announce
+http://216.144.239.90:6969/announce
+http://37.120.182.83:80/announce
+http://43.250.54.137:6969/announce
+http://44.30.4.4:6969/announce
+http://44.30.4.70:6969/announce
+http://5.75.253.124:6969/announce
+http://60-fps.org:80/bt/announce.php # registered torrents
+http://93.158.213.92:1337/announce
+http://95.217.167.10:6969/announce
+http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
+http://a.leopard-raws.org:6969/announce # registered torrents
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+http://all4nothin.net/announce.php # registered torrents
+http://alltorrents.net:80/bt/announce.php # registered torrents
+http://anidex.moe:6969/announce # registered torrents
+http://announce.partis.si:80/announce # registered torrents
+http://atrack.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
+http://baibako.tv/announce # registered torrents
+http://beertracker.ml:80/announce # registered torrents
+http://big-boss-tracker.net/announce.php # registered torrents
+http://bithq.org/announce.php # registered torrents
+http://blackz.ro/announce.php # registered torrents
+http://bluebird-hd.org/announce.php # registered torrents
+http://bluebird-hd.org:80/announce.php # registered torrents
+http://bt-club.ws/announce # error
+http://bt-tracker.gamexp.ru:2710/announce # registered torrents
+http://bt.3dmgame.com:2710/announce # registered torrents
+http://bt.ali213.net:8000/announce # registered torrents
+http://bt.ali213.net:8080/announce # registered torrents
+http://bt.beatrice-raws.org:80/announce # registered torrents
+http://bt.edwardk.info:12891/announce # duplicate of http://bt.edwardk.info:6767/announce
+http://bt.edwardk.info:2710/announce # registered torrents
+http://bt.edwardk.info:4040/announce # registered torrents
+http://bt.edwardk.info:63124/announce # duplicate of http://bt.edwardk.info:6767/announce
+http://bt.edwardk.info:676/announce # duplicate of http://bt.edwardk.info:6767/announce
+http://bt.edwardk.info:6767/announce # registered torrents
+http://bt.edwardk.info:6969/announce # registered torrents
+http://bt.firebit.org:2710/announce # registered torrents
+http://bt.hliang.com:2710/announce # registered torrents
+http://bt.nnm-club.info:2710/announce # registered torrents
+http://bt.okmp3.ru:2710/announce
+http://bt.okmp3.ru:2710/announce # fake seeds
+http://bt.unionpeer.org:777/announce # registered torrents
+http://bt.zlofenix.org:81/announce # registered torrents
+http://bt02.nnm-club.cc:2710/announce # registered torrents
+http://bt02.nnm-club.info:2710/announce # registered torrents
+http://bt1.archive.org:6969/announce # registered torrents
+http://bt2.54new.com:8080/announce # registered torrents
+http://bt2.archive.org:6969/announce # registered torrents
+http://bt2.edwardk.info:2710/announce # registered torrents
+http://bt2.edwardk.info:4040/announce # registered torrents
+http://bt2.edwardk.info:6969/announce # registered torrents
+http://btracker.top:11451/announce # detected by antivirus software
+http://bttracker.debian.org:6969/announce # registered torrents
+http://btx.anifilm.tv:80/announce.php # registered torrents
+http://bvarf.tracker.sh:2086/announce
+http://bz.tracker.bz:80/announce # duplicate of http://tracker.bz:80/announce
+http://carbon-bonsai-621.appspot.com/announce # malfunction
+http://ch3oh.ru:6969/announce # registered torrents
+http://concen.org:6969/announce # registered torrents
+http://data-bg.net/announce.php # registered torrents
+http://data-bg.net:80/announce.php # malfunction
+http://datascene.net/announce.php # registered torrents
+http://datascene.net:80/announce.php # registered torrents
+http://deviloid.net:6969/announce # registered torrents
+http://ed2k.vip:7070/announce # registered torrents
+http://ehtracker.org:80/1/announce # registered torrents
+http://elitezones.ro/announce.php # registered torrents
+http://extracker.dahrkael.net:6969/announce
+http://finbytes.org/announce.php # registered torrents
+http://freerainbowtables.com:6969/announce # registered torrents
+http://funfile.org:2710/announce # registered torrents
+http://hdreactor.org:2710/announce # registered torrents
+http://ipv4.rer.lol:2710/announce
+http://ipv4.rer.lol:2710/announce # duplicate of http://bt.rer.lol:2710/announce
+http://ipv4announce.sktorrent.eu:6969/announce
+http://ipv6.rer.lol:6969/announce
+http://ipv6.tracker.m-team.cc:80/announce.php
+http://irrenhaus.dyndns.dk:80/announce.php # malfunction
+http://kaztorka.org:80/announce.php # registered torrents
+http://kinorun.com/announce.php # registered torrents
+http://lucke.fenesisu.moe:6969/announce
+http://masters-tb.com/announce.php # registered torrents
+http://masters-tb.com:80/announce.php # registered torrents
+http://mediaclub.tv/announce # registered torrents
+http://mediaclub.tv/announce.php # registered torrents
+http://metal.iplay.ro/announce.php # registered torrents
+http://milliontorrent.pl/announce.php # registered torrents
+http://mixfiend.com/announce.php # registered torrents
+http://mixfiend.com:6969/announce # registered torrents
+http://mixfiend.com:80/announce.php # registered torrents
+http://music-torrent.net:2710/announce # registered torrents
+http://mvgforumtracker.mvgroup.org:80/tracker.php/announce # registered torrents
+http://mvgroup.org:2710/announce # registered torrents
+http://nyaa.tracker.wf:7777/announce
+http://nyaa.tracker.wf:7777/announce # registered torrents
+http://open.acgtracker.com:1096/announce
+http://open.lolicon.eu:7777/announce # registered torrents
+http://open.nyaatorrents.info:6544/announce # registered torrents
+http://open.touki.ru/announce # malfunction
+http://open.touki.ru/announce.php # malfunction
+http://open.touki.ru:80/announce.php # registered torrents
+http://open.tracker.cl:1337/announce
+http://openbittorrent.com:80/announce # duplicate of http://tracker.openbittorrent.com:80/announce
+http://opentracker.acgnx.com:6869/announce # duplicate of http://tracker.acgnx.se:80/announce
+http://opentracker.acgnx.se/scrape
+http://opentracker.acgnx.se:80/announce # registered torrents
+http://opentrackr.org:1337/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+http://p2p.0g.cx:6969/announce # detected by antivirus software
+http://potuk.com:2710/announce # registered torrents
+http://pow7.com:80/announce
+http://pow7.com:80/announce # malfunction issue #374
+http://proaudiotorrents.org/announce.php # registered torrents
+http://proaudiotorrents.org:80/announce.php # registered torrents
+http://secure.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
+http://share.camoe.cn:8080/announce # duplicate of http://t.acg.rip:6699/announce
+http://siambit.com/announce.php # registered torrents
+http://sukebei.tracker.wf:8888/announce # registered torrents
+http://t.acg.rip:6699/announce # registered torrents
+http://t.overflow.biz:6969/announce
+http://t1.leech.ie:80/announce
+http://t1.leech.ie:80/announce # deprecated by owner
+http://t1.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
+http://t2.leech.ie:80/announce
+http://t2.leech.ie:80/announce # deprecated by owner
+http://t2.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
+http://t3.leech.ie:80/announce
+http://t3.leech.ie:80/announce # deprecated by owner
+http://tc-boxing.com/announce.php # registered torrents
+http://tehconnection.eu:2790/announce # registered torrents
+http://torrent-team.net/announce.php # registered torrents
+http://torrent.arjlover.net:2710/announce # registered torrents
+http://torrent.fedoraproject.org:6969/announce # registered torrents
+http://torrent.mp3quran.net:80/announce.php # registered torrents
+http://torrent.resonatingmedia.com:6969/announce # registered torrents
+http://torrent.rus.ec:2710/announce # registered torrents
+http://torrent.ubuntu.com:6969/announce # registered torrents
+http://torrent.unix-ag.uni-kl.de:80/announce # registered torrents
+http://torrents-nn.cn:2710/announce # registered torrents
+http://torrents.hikarinokiseki.com:6969/announce # registered torrents
+http://torrents.linuxmint.com:80/announce.php # registered torrents
+http://torrentsmd.com:8080/announce
+http://torrentsmd.com:8080/announce # malfunction
+http://torrentzilla.org/announce # registered torrents
+http://torrentzilla.org/announce.php # registered torrents
+http://tr.bangumi.moe:6969/announce # registered torrents
+http://tr.cili001.com:8070/announce
+http://tr.highstar.shop:80/announce
+http://tr.kxmp.cf:80/announce
+http://tr.nyacat.pw:80/announce
+http://tracker.23794.top:6969/announce
+http://tracker.36dm.com:2710/announce # registered torrents
+http://tracker.acgnx.se:80/announce # registered torrents
+http://tracker.alaskantf.com:6969/announce
+http://tracker.ali213.net:8000/announce # registered torrents
+http://tracker.ali213.net:8080/announce # registered torrents
+http://tracker.anirena.com:80/announce
+http://tracker.anirena.com:80/announce # registered torrents
+http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
+http://tracker.baltracker.net:3390/announce # registered torrents
+http://tracker.bittorrent.am:80/announceName
+http://tracker.breizh.pm:6969/announce # requested by sysadmin
+http://tracker.bt4g.com:2095/announce
+http://tracker.darkness.services:6969/announce
+http://tracker.ddunlimited.net:6969/announce # registered torrents
+http://tracker.dhitechnical.com:6969/announce
+http://tracker.dler.com:6969/announce
+http://tracker.dler.org:6969/announce
+http://tracker.dm258.cn:7070/announce # registered torrents
+http://tracker.electro-torrent.pl:80/announce # duplicate of http://tracker.torrentyorg.pl:80/announce
+http://tracker.enitin.xyz:80/announce # redirects to https://tracker.enitin.xyz/announce
+http://tracker.etree.org:6969/announce # registered torrents
+http://tracker.fansub.id:80/announce # duplicate of https://tracker.fansub.id:443/announce
+http://tracker.fdn.fr:6969/announce # registered torrents
+http://tracker.frozen-layer.com:6969/announce # registered torrents
+http://tracker.frozen-layer.net:6969/announce # registered torrents
+http://tracker.frozen-layer.net:6969/announce.php # registered torrents
+http://tracker.funfile.org:2710/announce # registered torrents
+http://tracker.gcvchp.com:2710/announce # registered torrents
+http://tracker.ghostchu-services.top:80/announce
+http://tracker.gigatorrents.ws:2710/announce # registered torrents
+http://tracker.internetwarriors.net:1337/announce # duplicate of http://open.tracker.cl:1337/announce
+http://tracker.ipv6tracker.ru:80/announce
+http://tracker.kali.org:6969/announce # registered torrents
+http://tracker.linkomanija.org:2710/announce # registered torrents
+http://tracker.m-team.cc:80/announce.php
+http://tracker.minglong.org:8080/announce # registered torrents
+http://tracker.mininova.org/announce # registered torrents
+http://tracker.mywaifu.best:6969/announce
+http://tracker.nighthawk.pw:4201/announce # duplicate of http://tracker.nighthawk.pw:2052/announce
+http://tracker.opentrackr.org:1337/announce
+http://tracker.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
+http://tracker.pussytorrents.org:3000/announce # registered torrents
+http://tracker.qu.ax:6969/announce
+http://tracker.renfei.net:8080/announce
+http://tracker.shittyurl.org:80/announce # registered torrents
+http://tracker.skyts.cn:6969/announce # duplicate of http://open.tracker.ink:6969/announce & http://tracker.skyts.net:6969/announce
+http://tracker.skyts.net:6969/announce
+http://tracker.tambovnet.org/announce.php # registered torrents
+http://tracker.tambovnet.org:80/announce.php # registered torrents
+http://tracker.tasvideos.org:6969/announce # registered torrents
+http://tracker.theempire.bz:3110/announce # registered torrents
+http://tracker.tntvillage.scambioetico.org:2710/announce # registered torrents
+http://tracker.torrentbytes.net/announce.php # registered torrents
+http://tracker.torrentbytes.net:80/announce.php # registered torrents
+http://tracker.torrentleech.org:2710/announce # registered torrents
+http://tracker.torrenty.org:6969/announce # registered torrents
+http://tracker.trancetraffic.com:80/announce.php # registered torrents
+http://tracker.tricitytorrents.com:2710/announce # registered torrents
+http://tracker.tritan.gg:8080/announce
+http://tracker.tvunderground.org.ru:3218/announce
+http://tracker.umunu.ru:6969/announce
+http://tracker.vraphim.com:6969/announce # registered torrents
+http://tracker.waaa.moe:6969/announce
+http://tracker.wepzone.net:6969/announce
+http://tracker.xdvdz.com:2710/announce # registered torrents
+http://tracker.xfapi.top:7070/announce # registered torrents
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
+http://tracker.zhuqiy.com:80/announce
+http://tracker1.itzmx.com:8080/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+http://tracker2.dler.org:80/announce
+http://tracker2.itzmx.com:6961/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+http://tracker2.postman.i2p/announce.php # registered torrents
+http://tracker3.dler.org:2710/announce # duplicate of http://tracker.dler.org:6969/announce
+http://tracker3.itzmx.com:6961/announce
+http://tracker3.itzmx.com:6961/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+http://tracker3.itzmx.com:8080/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+http://tracker4.dler.org:6969/announce # duplicate of http://tracker.dler.org:6969/announce
+http://tracker4.itzmx.com:2710/announce
+http://tracker4.itzmx.com:2710/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+http://tracker4.itzmx.com:6961/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+http://uatracker.net/announce.php # registered torrents
+http://wepzone.net:6969/announce
+http://www.all4nothin.net/announce.php # registered torrents
+http://www.all4nothin.net:80/announce.php
+http://www.bit-hdtv.com:2710/announce # registered torrents
+http://www.bitseduce.com/announce.php # registered torrents
+http://www.biztorrents.com/announce.php # registered torrents
+http://www.blackcats-games.net:2228/announce # registered torrents
+http://www.elitezones.ro/announce.php # registered torrents
+http://www.freerainbowtables.com:6969/announce # registered torrents
+http://www.learnbits.me/announce.php # registered torrents
+http://www.legittorrents.info:80/announce.php # registered torrents
+http://www.megatorrents.kg:80/announce.php # registered torrents
+http://www.mvgroup.org:2710/announce # registered torrents
+http://www.mvgroup.org:80/tracker.php/announce # registered torrents
+http://www.peckservers.com:9000/announce # duplicate of http://tracker.peckservers.com:9000/announce
+http://www.shnflac.net/announce.php # registered torrents
+http://www.shnflac.net:80/announce.php # registered torrents
+http://www.siambt.com/announce.php # registered torrents
+http://www.thegeeks.bz:3210/announce # registered torrents
+http://www.theoccult.bz:3010/announce # registered torrents
+http://www.theplace.bz:2910/announce # registered torrents
+http://www.thetradersden.org/forums/tracker/announce.php # registered torrents
+http://www.thevault.bz:2810/announce # registered torrents
+http://www.tribalmixes.com/announce.php # registered torrents
+http://www.tribalmixes.com:80/announce.php # registered torrents
+http://www.tvnihon.com:6969/announce # registered torrents
+http://www.wareztorrent.com:80/announce
+http://www.worldboxingvideoarchive.com/announce.php # registered torrents
+http://www.worldboxingvideoarchive.com:80/announce.php # registered torrents
+http://www.xwt-classics.net/announce.php # registered torrents
+http://www.xwt-classics.net:80/announce.php # registered torrents
+http://www.yuwabits.net/announce.php # registered torrents
+http://www.zone-torrent.net:80/announce.php # registered torrents
+http://xbtrutor.com:2710/announce # registered torrents
+http://xtremewrestlingtorrents.net:80/announce.php # registered torrents
+http://y.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6969/announce
+http://z.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6969/announcehttps://1337.abcvg.info:443/announce
+https://1337.abcvg.info:443/announce # duplicate of http://1337.abcvg.info:80/announce
+https://academic-p2p.appspot.com/announce # malfunction
+https://bt.beatrice-raws.org:443/announce # registered torrents
+https://carbon-bonsai-621.appspot.com/announce # malfunction
+https://ipv6.tracker.m-team.cc:443/announce.php
+https://opentracker.acgnx.se:443/announce # registered torrents
+https://shahidrazi.online:443/announce
+https://t.213891.xyz:443/announce
+https://t.btcland.xyz:443/announce # detected as suspicious
+https://t1.leech.ie:443/announce
+https://t1.leech.ie:443/announce # deprecated by owner
+https://t2.leech.ie:443/announce
+https://t2.leech.ie:443/announce # deprecated by owner
+https://t3.leech.ie:443/announce
+https://t3.leech.ie:443/announce # deprecated by owner
+https://torrent.tracker.durukanbal.com:443/announce
+https://torrent.ubuntu.com/announce # registered torrents
+https://torrent.ubuntu.com:443/announce # registered torrents
+https://torrents.linuxmint.com:443/announce.php # registered torrents
+https://tp.m-team.cc:443/announce.php
+https://tr.abiir.top:443/announce
+https://tr.bangumi.moe:9696/announce # registered torrents
+https://tr.fuckbitcoin.xyz:443/announce # detected by antivirus software
+https://tr.highstar.shop:443/announce # detected by antivirus software
+https://tr.nyacat.pw:443/announce
+https://tr.zukizuki.org:443/announce
+https://tracker.acgnx.se:443/announce # registered torrents
+https://tracker.bt4g.com:443/announce
+https://tracker.cangku.moe:443/announce
+https://tracker.enitin.xyz/announce
+https://tracker.fansub.id:443/announce
+https://tracker.foreverpirates.co:443/announce
+https://tracker.gcrenwp.top:443/announce
+https://tracker.ghostchu-services.top:443/announce
+https://tracker.iochimari.moe:443/announce
+https://tracker.iperson.xyz:443/announce
+https://tracker.jdx3.org:443/announce # malfunction
+https://tracker.jiesen.life:8443/announce # detected by antivirus software
+https://tracker.kuroy.me:443/announce
+https://tracker.lilithraws.cf:443/announce # duplicate of https://tracker.lilithraws.org:443/announce
+https://tracker.m-team.cc:443/announce.php
+https://tracker.moeblog.cn:443/announce
+https://tracker.moeking.me:443/announce
+https://tracker.monikadesign.uk:443/announce # registered torrents
+https://tracker.pmman.tech:443/announce
+https://tracker.shittyurl.org:443/announce # registered torrents
+https://tracker.torrentsnows.com:443/announce # registered torrents
+https://tracker.uraniumhexafluori.de:443/announce
+https://tracker.zhuqiy.com:443/announce
+https://tracker1.520.jp:443/announce
+https://tracker1.520.jp:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+https://tracker1.520.jp:443/announcehttp://1337.abcvg.info:80/announce
+https://tracker1.ctix.cn:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+https://tracker2.ctix.cn:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+https://trackers.mlsub.net:443/announce # duplicate of https://tracker.mlsub.net:443/announce
