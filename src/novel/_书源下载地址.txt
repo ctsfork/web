@@ -1,0 +1,63 @@
+音源下载地址整理：
+下面的音源的优先级依次降低
+
+
+# 代理地址
+1. https://ghproxy.net
+2. https://gh-proxy.com
+3. https://mirror.ghproxy.com
+4. https://wget.la
+5. https://fastly.jsdelivr.net
+
+
+
+
+
+#### ----------优质源推荐----------
+源仓库 - 合集在线版  -->  优先使用合集版
+1. https://www.yckceo.com/yuedu/shuyuans/json/id/1062.json
+2. https://www.yckceo.com/yuedu/shuyuans/json/id/1061.json
+3. https://www.yckceo.com/yuedu/shuyuans/json/id/1058.json
+4. https://www.yckceo.com/yuedu/shuyuans/json/id/1054.json
+5. https://www.yckceo.com/yuedu/shuyuans/json/id/1053.json
+6. https://www.yckceo.com/yuedu/shuyuans/json/id/1052.json
+7. https://www.yckceo.com/yuedu/shuyuans/json/id/1050.json
+
+yckceo.com站点直接下载失败时，可以使用下面的备份链接地址：
+1. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/合集/1062.json
+2. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/合集/1061.json
+3. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/合集/1058.json
+4. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/合集/1054.json
+5. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/合集/1053.json
+6. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/合集/1052.json
+7. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/合集/1050.json
+
+
+
+
+
+
+
+
+
+源仓库 - 手动生成下载版  -->  一般使用最上面的5个即可
+1. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/yuedu-1.json
+2. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/yuedu-2.json
+3. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/yuedu-3.json
+4. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/yuedu-4.json
+5. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/yuedu-5.json
+6. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/yuedu-6.json
+7. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/yuedu-7.json
+8. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/yuedu-8.json
+9. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/yuedu-9.json
+10. https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/源仓库/yuedu-10.json
+
+
+
+
+
+千阅
+https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/novel/千阅/千阅书源_100+.json
+
+
+
