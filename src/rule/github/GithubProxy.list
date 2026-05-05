@@ -1,0 +1,26 @@
+##
+## GithubProxy.list
+## GitHub加速站点-路由规则一般选“🌐 代理加速”，“🌐Github加速”
+##
+
+
+
+DOMAIN-SUFFIX,gh-proxy.net
+DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-SUFFIX,wget.la
+DOMAIN-SUFFIX,hk.gh-proxy.org
+DOMAIN-SUFFIX,cdn.gh-proxy.org
+DOMAIN-SUFFIX,raw.kkgithub.com
+DOMAIN-SUFFIX,fastly.jsdelivr.net
+DOMAIN-SUFFIX,hub.glowp.xyz
+DOMAIN-SUFFIX,ghfast.top
+DOMAIN-SUFFIX,gh.catmak.name
+DOMAIN-SUFFIX,g.blfrp.cn
+DOMAIN-SUFFIX,github.3x25.com
+DOMAIN-SUFFIX,ghproxy.it
+DOMAIN-SUFFIX,gh.fhjhy.top
+DOMAIN-SUFFIX,gh.idayer.com
+DOMAIN-SUFFIX,firewall.lxstd.org
+DOMAIN-SUFFIX,github.limoruirui.com
+DOMAIN-SUFFIX,ghpxy.hwinzniej.top
+DOMAIN-SUFFIX,edgeone.gh-proxy.org
