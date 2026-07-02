@@ -1,0 +1,62 @@
+## 
+## KimiURLRule.list
+## Shadowrocket中需要通过URL-REGEX或者[URL Rewrite]来正则匹配URL的链接配置列表
+## 直接添加到[Rule]区域的URL-REGEX策略
+## 提示：该规则可以直接通过RULE-SET的方式，设置到[Rule]区域中
+## 注意：
+##    1. 只有Shadowrocket才支持[URL Rewrite]和[URL Rewrite]来添加正则匹配URL来实现拦截指定URL
+##    2. 与KimiURLRewrite.list文件列表实现相同的广告过滤效果，使用时只需要二选一即可。
+##    3. URL-REGEX不被Clash支持，所以该规则列表不被Clash支持
+##
+
+
+
+##
+## [Rule]
+##
+
+# sanyewu.com站点的广告JS屏蔽匹配正则表达式
+# URL-REGEX,^https?:\/\/m\.sanyewu\.com\/static\/\d+\.js(\?.*)?$,⛔️ 广告拦截
+# URL-REGEX,^https?:\/\/m\.sanyewu\.com\/public\/\d+\.js(\?.*)?$,⛔️ 广告拦截
+
+## * 表示可以有多个子域名层级
+## 支持匹配：
+## sanyewu.com
+## m.sanyewu.com
+## cdn.m.sanyewu.com
+## a.b.c.sanyewu.com
+##
+# URL-REGEX,^https?:\/\/([a-z0-9-]+\.)?sanyewu\.com\/static\/\d+\.js(\?.*)?$,⛔️ 广告拦截
+# URL-REGEX,^https?:\/\/([a-z0-9-]+\.)*sanyewu\.com\/static\/\d+\.js(\?.*)?$,⛔️ 广告拦截
+# URL-REGEX,^https?:\/\/([a-z0-9-]+\.)*sanyewu\.com\/public\/\d+\.js(\?.*)?$,⛔️ 广告拦截
+URL-REGEX,^https?:\/\/([a-z0-9-]+\.)*sanyewu\.com\/static\/\d+\.js(\?.*)?$
+URL-REGEX,^https?:\/\/([a-z0-9-]+\.)*sanyewu\.com\/public\/\d+\.js(\?.*)?$
+
+
+
+
+## jpfz.com
+# URL-REGEX,^https?:\/\/www\.jpfz\.com\/static\/\d+\.js(\?.*)?$,⛔️ 广告拦截
+# URL-REGEX,^https?:\/\/www\.jpfz\.com\/public\/\d+\.js(\?.*)?$,⛔️ 广告拦截
+# URL-REGEX,^https?:\/\/([a-z0-9-]+\.)*jpfz\.com\/static\/\d+\.js(\?.*)?$,⛔️ 广告拦截
+# URL-REGEX,^https?:\/\/([a-z0-9-]+\.)*jpfz\.com\/public\/\d+\.js(\?.*)?$,⛔️ 广告拦截
+URL-REGEX,^https?:\/\/([a-z0-9-]+\.)*jpfz\.com\/static\/\d+\.js(\?.*)?$
+URL-REGEX,^https?:\/\/([a-z0-9-]+\.)*jpfz\.com\/public\/\d+\.js(\?.*)?$
+
+
+## 8doing.com
+# URL-REGEX,^https:\/\/m\.8doing\.com\/WordPress\/ShuQiTeam\/TongJi\.js(\?.*)?$,⛔️ 广告拦截
+URL-REGEX,^https:\/\/m\.8doing\.com\/WordPress\/ShuQiTeam\/TongJi\.js(\?.*)?$
+
+
+## 四色AV
+
+
+
+
+
+
+
+
+
+

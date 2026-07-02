@@ -1,0 +1,4 @@
+1. 按行去重.swift：用来自动生成不同格式的规则文件。
+2. ads_kimi_domains.list：用户自定义需要拦截广告的域名列表。
+3. build-DomainSuffix-REJECT.sh：最早的规则生成脚本，现在已经不使用了。
+4. _conf:该目录存放的几个配置文件（可能不是最新的）
