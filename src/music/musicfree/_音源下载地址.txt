@@ -1,0 +1,24 @@
+音源下载地址整理：
+下面的音源的优先级依次降低
+
+
+
+
+
+
+
+## MusicFreePluginsHub
+1. musicfree.js
+https://ghp.ci/https://raw.githubusercontent.com/xxnuo/MusicFreePluginsHub/main/plugins.json
+国内用户：
+https://musicfreepluginshub.2020818.xyz/plugins.json
+国际用户：
+https://musicfreepluginshub.pages.dev/plugins.json
+备份:
+https://ghp.ci/https://raw.githubusercontent.com/ctsfork/web/main/src/music/musicfree/musicfree/plugins.json
+
+
+
+
+
+
