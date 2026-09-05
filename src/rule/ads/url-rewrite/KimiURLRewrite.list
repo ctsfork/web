@@ -1,0 +1,45 @@
+## 
+## KimiURLRewrite.list
+## Shadowrocket中需要通过URL-REGEX或者[URL Rewrite]来正则匹配URL的链接配置列表
+## 直接添加到[URL Rewrite]区域的正则匹配URL
+## 提示：该规则需要手动添加到[URL Rewrite]区域中
+## 注意：
+##    1. 只有Shadowrocket才支持[URL Rewrite]和[URL Rewrite]来添加正则匹配URL来实现拦截指定URL
+##    2. KimiURLRule.list文件列表实现相同的广告过滤效果，使用时只需要二选一即可。
+##
+
+
+
+[URL Rewrite]
+#^https?:\/\/m\.sanyewu\.com\/static\/\d+\.js(\?.*)?$ - reject
+#^https?:\/\/m\.sanyewu\.com\/public\/\d+\.js(\?.*)?$ - reject
+
+# sanyewu.com站点的广告JS屏蔽匹配正则表达式
+# ^https?:\/\/m\.sanyewu\.com\/static\/\d+\.js(\?.*)?$ - "⛔️ 广告拦截"
+# ^https?:\/\/m\.sanyewu\.com\/public\/\d+\.js(\?.*)?$ - "⛔️ 广告拦截"
+
+## * 表示可以有多个子域名层级
+## 支持匹配：
+## sanyewu.com
+## m.sanyewu.com
+## cdn.m.sanyewu.com
+## a.b.c.sanyewu.com
+##
+# ^https?:\/\/([a-z0-9-]+\.)?sanyewu\.com\/static\/\d+\.js(\?.*)?$ - "⛔️ 广告拦截"
+^https?:\/\/([a-z0-9-]+\.)*sanyewu\.com\/static\/\d+\.js(\?.*)?$ - "⛔️ 广告拦截"
+^https?:\/\/([a-z0-9-]+\.)*sanyewu\.com\/public\/\d+\.js(\?.*)?$ - "⛔️ 广告拦截"
+
+
+
+
+
+# 精品屋
+# ^https?:\/\/www\.jpfz\.com\/static\/\d+\.js(\?.*)?$ - "⛔️ 广告拦截"
+# ^https?:\/\/www\.jpfz\.com\/public\/\d+\.js(\?.*)?$ - "⛔️ 广告拦截"
+
+# ^https?:\/\/([a-z0-9-]+\.)?jpfz\.com\/static\/\d+\.js(\?.*)?$ - "⛔️ 广告拦截"
+^https?:\/\/([a-z0-9-]+\.)*jpfz\.com\/static\/\d+\.js(\?.*)?$ - "⛔️ 广告拦截"
+^https?:\/\/([a-z0-9-]+\.)*jpfz\.com\/public\/\d+\.js(\?.*)?$ - "⛔️ 广告拦截"
+
+
+
