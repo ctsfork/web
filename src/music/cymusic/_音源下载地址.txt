@@ -1,0 +1,17 @@
+音源下载地址整理：
+下面的音源的优先级依次降低
+
+
+
+
+
+
+
+## 野花
+1. flower-v1.js
+https://ghp.ci/https://raw.githubusercontent.com/ctsfork/web/main/src/music/cymusic/ikun/ikun-v107.js
+
+
+
+
+
