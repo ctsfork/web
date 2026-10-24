@@ -1,0 +1,22 @@
+##
+## KimiDirectDomains.list
+## 自定义的需要直连的域名，一般用于破解，直连不支持代理的域名
+##
+
+
+
+##
+## 需要直连，不支持代理的域名
+##
+DOMAIN-SUFFIX,macked.app
+
+
+
+
+##
+## 推荐直连的域名
+##
+DOMAIN-SUFFIX,jpfz.com
+
+
+
