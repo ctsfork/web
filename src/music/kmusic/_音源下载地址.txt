@@ -1,0 +1,54 @@
+音源下载地址整理：
+下面的音源的优先级依次降低
+
+
+# 代理地址
+1. https://ghproxy.net
+2. https://gh-proxy.com
+3. https://mirror.ghproxy.com
+4. https://wget.la
+5. https://fastly.jsdelivr.net
+
+
+
+
+
+#### ----------优质源推荐----------
+1. 长青 - 支持无损
+https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/kmusic/ok/长青/长青SVIP音_v1.1.1-支持无损.js
+
+
+
+2. 溯音
+https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/kmusic/ok/溯音/溯音音源_v1-优.js
+
+
+
+
+3. 念心
+https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/kmusic/ok/念心/念心音源_v1.0.0.js
+
+
+
+
+
+4. 全豆要 - 聚合源包括多个音源，并且可以自动切换
+https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/kmusic/ok/全豆要/全豆要[聚合音源]_v4.0.js
+
+
+
+
+
+5. 洛雪
+https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/music/kmusic/ok/洛雪/洛雪音乐源_v1.0.0_v2-fix.js
+
+
+
+
+
+
+
+
+
+
+
