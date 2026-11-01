@@ -7,7 +7,8 @@
  */
 
 const API_URL = 'http://110.42.38.239:1314';
-const API_KEY = ``
+// API_KEY 不得硬编码，必须通过环境变量注入，避免凭据被提交到版本库
+const API_KEY = typeof process !== 'undefined' && process.env && process.env.IKUN_API_KEY ? process.env.IKUN_API_KEY : '';
 //getMusicUrl 函数用于获取音乐 URL。必须接受以下四个参数：songname: 歌曲名称，artist: 艺术家名称，songid: 企鹅平台的歌曲songmid，quality: 音质 '128k'|'320k'|'flac'。
 async function getMusicUrl(songname,artist, songmid, quality) {
 
