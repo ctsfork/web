@@ -1,0 +1,22 @@
+注意：不同的App可能能使用相同的书源
+
+
+源仓库  
+1. 站点：https://www.yckceo.com/yuedu/shuyuan/index.html
+2. 该站点可动态生成最新书源，且书源可能被其APP使用。
+3. 毒一刀，App可以使用
+4. 每次生成时，将站点的最新一页(一次降低)生成一个书源文件
+
+
+
+
+
+
+
+千阅书源收集地址：
+1. Telegram
+2. https://www.yckceo.com/yuedu/shuyuan/index.html
+
+
+
+
