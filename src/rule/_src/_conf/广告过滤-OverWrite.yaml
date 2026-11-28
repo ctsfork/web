@@ -1,0 +1,691 @@
+## proxy-providers 覆写的订阅节点
+## 1. 如果将该文件作为订阅的复写文件，proxy-providers不实现,则会自动导入订阅文件中的节点  -> include-all: true
+## 2. 如果将该文件作为订阅文件，proxy-providers不实现，则订阅节点为空。如果不为空则需要实现proxy-providers来提供订阅节点
+# proxy-providers:
+#   provider1:
+#     url: "订阅链接"
+#     type: http
+#     interval: 86400
+#     health-check: {enable: true,url: "https://www.gstatic.com/generate_204",interval: 300}
+#     override:
+#       additional-prefix: "[iKuuuVPN-1337470736@qq.com]"
+
+
+
+
+mixed-port: 7890
+port: 0
+socks-port: 0
+ipv6: true
+unified-delay: false
+tcp-concurrent: true
+# external-controller: 127.0.0.1:9090
+# external-ui: ui
+# external-ui-url: "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip"
+
+find-process-mode: strict
+client-fingerprint: chrome
+
+
+
+
+profile:
+  store-selected: true
+  store-fake-ip: true
+
+sniffer:
+  enable: true
+  sniff:
+    HTTP:
+      ports: [80, 8080-8880]
+      override-destination: true
+    TLS:
+      ports: [443, 8443]
+    QUIC:
+      ports: [443, 8443]
+  skip-domain:
+    - "+.mi.com"
+    - "+.mijia.com"
+    - "+.push.apple.com"    
+
+# tun:
+#   enable: true
+#   stack: mixed
+#   dns-hijack:
+#     - "any:53"
+#     - "tcp://any:53"
+#   auto-route: true
+#   auto-redirect: true
+#   auto-detect-interface: true
+#   loopback-address:
+#     - 10.7.0.1
+
+dns:
+  enable: true
+  prefer-h3: true
+  ipv6: true
+  ipv6-timeout: 300
+  use-hosts: true
+  use-system-hosts: true
+  respect-rules: false
+  enhanced-mode: fake-ip
+  fake-ip-filter:
+    - '*.lan'
+    - '*.local'
+    - "+.market.xiaomi.com"
+    - time.*.com
+    - time.*.gov
+    - time.*.edu.cn
+    - time.*.apple.com
+    - time-ios.apple.com
+    - time1.*.com
+    - time2.*.com
+    - time3.*.com
+    - time4.*.com
+    - time5.*.com
+    - time6.*.com
+    - time7.*.com
+    - ntp.*.com
+    - ntp1.*.com
+    - ntp2.*.com
+    - ntp3.*.com
+    - ntp4.*.com
+    - ntp5.*.com
+    - ntp6.*.com
+    - ntp7.*.com
+    - '*.time.edu.cn'
+    - '*.ntp.org.cn'
+    - '*.pool.ntp.org'
+    - +.services.googleapis.cn
+    - +.push.apple.com
+    - time1.cloud.tencent.com
+    - localhost.ptlogin2.qq.com
+    - +.stun.*.*
+    - +.stun.*.*.*
+    - +.stun.*.*.*.*
+    - +.stun.*.*.*.*.*
+    - lens.l.google.com
+    - '*.n.n.srv.nintendo.net'
+    - +.stun.playstation.net
+    - xbox.*.*.microsoft.com
+    - '*.*.xboxlive.com'
+    - '*.msftncsi.com'
+    - '*.msftconnecttest.com'
+    - '*.mcdn.bilivideo.cn'
+    - +.bilibili.com
+    - +.bilicdn.com
+    - +.bilivideo.com
+    - +.market.xiaomi.com
+    - WORKGROUP
+  default-nameserver:
+    - tls://223.5.5.5
+    - tls://223.6.6.6
+    - 223.5.5.5
+    - 119.29.29.29
+    - 8.8.8.8
+    - 8.8.4.4
+    - 1.0.0.1
+    - 1.1.1.1
+    - system
+  nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+    - 8.8.8.8
+    - 8.8.4.4
+    - 1.0.0.1
+    - 1.1.1.1
+    - tls://223.5.5.5:853
+    - tls://8.8.8.8
+    - tls://8.8.4.4
+    - tls://1.0.0.1
+    - tls://1.1.1.1
+    - https://doh.pub/dns-query
+    - https://dns.alidns.com/dns-query#h3=true
+    - https://mozilla.cloudflare-dns.com/dns-query#DNS&h3=true
+    - quic://dns.adguard.com:784
+    - system
+
+
+
+
+
+
+##----------------------------------------覆写分组---------------------------------------
+##  https://clashmi.app/wiki/outbound#proxy-groups-%E7%AD%96%E7%95%A5%E7%BB%84
+##  include-all: true    ->   该属性自动包含：订阅导入的proxies或者proxy-providers中配置的所有节点
+##  type: 节点类型    ->  select,url-test,load-balance,fallback,relay
+proxy-groups:
+- name: "🔰 节点选择"
+  type: select
+  include-all: true     
+  exclude-type: direct
+  proxies:
+    - "♻️ 自动选择"
+    - "🎯 全球直连"
+
+- name: "♻️ 自动选择"
+  type: url-test
+  url: "http://www.gstatic.com/generate_204"
+  include-all: true
+  exclude-type: direct
+  interval: 300
+  tolerance: 10
+
+
+- name: "⛔️ 广告拦截"
+  type: select
+  proxies:
+    - "🛑 全球拦截"
+    - "🎯 全球直连"
+    - "🔰 节点选择"
+
+- name: "🚫 运营劫持"
+  type: select
+  proxies:
+    - "🛑 全球拦截"
+    - "🎯 全球直连"
+    - "🔰 节点选择"
+
+
+- name: "🇨🇳 国内直连"
+  type: select
+  proxies:
+    - "🎯 全球直连"
+    - "🔰 节点选择"
+
+- name: "🌍 国外直连"
+  type: select
+  proxies:
+    - "🎯 全球直连"
+    - "🔰 节点选择"
+
+- name: "🌍 国外代理"
+  type: select
+  proxies:
+    - "🔰 节点选择"
+    - "🎯 全球直连"
+
+
+## "🐱🔗🌐🛡️ Github代理"
+## 🌐Github加速
+## 🌐 代理加速
+- name: "🌐 代理加速"
+  type: select
+  proxies:
+    - "🎯 全球直连"
+    - "🔰 节点选择"
+
+
+- name: "🌩️ Cloudflare"
+  type: select
+  proxies:
+    - "🔰 节点选择"
+    - "🎯 全球直连"
+
+
+- name: "🍎 苹果服务"
+  type: select
+  proxies:
+    - "🎯 全球直连"
+    - "🔰 节点选择"
+
+- name: "🎯 全球直连"
+  type: select
+  proxies:
+    - DIRECT
+- name: "🛑 全球拦截"
+  type: select
+  proxies:
+    - REJECT
+
+- name: "🐟 漏网之鱼"
+  type: select
+  proxies:
+    - "🔰 节点选择"
+    - "♻️ 自动选择"
+    - "🎯 全球直连"
+
+
+
+
+##-----------------------------------------规则订阅提供者-----------------------------------------
+## 广告过滤规则站点:
+##     1. https://github.com/217heidai/adblockfilters
+##     2. https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+##     3. https://github.com/blackmatrix7/ios_rule_script
+##     4. https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
+##     5. https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever/blob/release/sr_ad_only.conf
+##
+##
+## behavior: 规则文件内容格式
+##          classical: 传统格式 -> 规则文件格式示例如下：
+##                    1. https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
+##                    2. https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclash.list
+##          domain: yaml中payload节点格式  -> 规则文件格式示例如下：
+##                 1. https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
+##
+rule-providers:
+##-----------------------------------------ACL4SSR-----------------------------------------
+  LocalAreaNetwork:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/ACL4SSR/LocalAreaNetwork.list"
+  GoogleCN:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/ACL4SSR/GoogleCN.list"
+  SteamCN:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/ACL4SSR/SteamCN.list"
+  Apple:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/ACL4SSR/Apple.list"
+  Microsoft:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/ACL4SSR/Microsoft.list"
+  Telegram:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/ACL4SSR/Telegram.list"
+  ProxyMedia:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/ACL4SSR/ProxyMedia.list"
+  ProxyLite:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/ACL4SSR/ProxyLite.list"
+  ChinaDomain:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/ACL4SSR/ChinaDomain.list"
+  ChinaCompanyIp:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/ACL4SSR/ChinaCompanyIp.list"
+##-----------------------------------------ACL4SSR-----------------------------------------
+
+
+
+##-----------------------------------------blackmatrix7-----------------------------------------
+  ChinaMax:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/ChinaMax/ChinaMax.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/blackmatrix7/ChinaMax.list"
+
+
+  Cloudflare:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloudflare/Cloudflare.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/blackmatrix7/Cloudflare.list"
+##-----------------------------------------blackmatrix7-----------------------------------------
+
+
+
+##-----------------------------------------MetaCubeX meta-rules-dat-----------------------------------------
+## https://github.com/MetaCubeX/meta-rules-dat/blob/meta/
+##
+  # GEO-CN:
+  #   type: "http"
+  #   behavior: "domain"
+  #   url: "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml"
+  #   format: "text"
+  #   interval: 86400
+  #   path: "./rules-kimi/MetaCubeX/CN.yaml"
+
+  GEO-Cloudflare:
+    type: "http"
+    behavior: "domain"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cloudflare.yaml"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/MetaCubeX/Cloudflare.yaml"
+
+  GEO-Tiktok:
+    type: "http"
+    behavior: "domain"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.yaml"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/MetaCubeX/Tiktok.yaml"
+
+  GEO-OpenAI:
+    type: "http"
+    behavior: "domain"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openai.yaml"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/MetaCubeX/Openai.yaml"
+  GEO-OpenAI-Lite:
+    type: "http"
+    behavior: "domain"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo-lite/geosite/openai.yaml"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/MetaCubeX/Openai-Lite.yaml"
+
+
+##-----------------------------------------MetaCubeX meta-rules-dat-----------------------------------------
+
+
+
+
+##-----------------------------------------Kimi Custom Rule-----------------------------------------
+  GithubProxyFast:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/rule/github/GithubProxy.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/kimi/github/GithubProxyFast.list"
+
+  ##
+  ## adblockloon.list文件过大，iPhone上的Clash Mi加载会失败！
+  ## 完整版： 238200多条
+  ## Lite版：4800多条
+  ## 注意：
+  ## 1. 手机上优先使用Lite版本，但是如果你的手机内存足够大也可以使用完整版
+  # AD-AdblockFilters:
+  #   type: "http"
+  #   behavior: "classical"
+  #   url: "https://gh-proxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockloon.list"
+  #   format: "text"
+  #   interval: 86400
+  #   path: "./rules-kimi/Ads/217heidai/adblockloon.list"
+
+  AD-AdblockFilters-Lite:
+    type: "http"
+    behavior: "classical"
+    # url: "https://gh-proxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclash.list"
+    # url: "https://gh-proxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list"
+    # url: "https://gh-proxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockloon.list"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockloonlite.list"
+    format: "text"
+    interval: 86400
+    # path: "./rules-kimi/Ads/217heidai/adblockclash.list"
+    # path: "./rules-kimi/Ads/217heidai/adblockclashlite.list"
+    # path: "./rules-kimi/Ads/217heidai/adblockloon.list"
+    path: "./rules-kimi/Ads/217heidai/adblockloonlite.list"
+
+  ## 900多条规则
+  AD-AWAvenue-Ads-Rule:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge-RULE-SET.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/Ads/TG-Twilight/AWAvenue-Ads-Rule-Surge-RULE-SET.list"
+
+  ## 38000多条规则 - 该规则中可能有很多误杀
+  AD-Advertising-Lite:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/Ads/blackmatrix7/AdvertisingLite.list"
+
+  ## 64000多条规则 - 该规则中可能有很多误杀
+  AD-Shadowrocket-Ads-Rule:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever/release/sr_ad_only.conf"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/Ads/Johnshall/sr_ad_only.conf"
+
+  AD-KimiCustom:
+    type: "http"
+    behavior: "classical"
+    # url: "http://192.168.1.8:8080/KimiCustomAD.list"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/rule/ads/KimiCustomAD.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/Ads/kimi/KimiCustomAD.list"
+
+  # 不被Clash支持
+  AD-KimiURLRule:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/rule/ads/url-rewrite/KimiURLRule.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/Ads/kimi/url-rewrite/KimiURLRule.list"
+
+
+  ## 自定义必须直连的域名-包含：软件破解重定向地址，不推荐代理的域名
+  KimiDirectDomains:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/rule/direct/KimiDirectDomains.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/kimi/direct/KimiDirectDomains.list"
+
+  KimiRejectDomains:
+    type: "http"
+    behavior: "classical"
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/ctsfork/web/main/src/rule/reject/KimiRejectDomains.list"
+    format: "text"
+    interval: 86400
+    path: "./rules-kimi/kimi/reject/KimiRejectDomains.list"
+
+##-----------------------------------------Kimi Custom Rule-----------------------------------------
+
+
+
+
+
+
+
+
+
+rules:
+# 123读书网
+# - DOMAIN-SUFFIX,itpgra.com,⛔️ 广告拦截
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##
+## 设置远程分组
+## 注意设置规则分组时，不要直接设置到“🎯 全球直连”，“🛑 全球拦截”这两个分组。防止规则错误时无法更改代理方式，因该设置到“🌍 国外直连”，“🇨🇳 国内直连”分组，这样可以更改路由规则。
+##
+## 可参考：https://github.com/MetaCubeX/meta-rules-dat
+## 注意：mrs 与yaml 类型文件，的下载路径只有最后的后缀名有区别，下面注释的规则导入就是基本的模版请求。
+##
+##
+- RULE-SET,LocalAreaNetwork,🎯 全球直连
+
+## 需要国内直连或者不推荐使用代理的域名列表
+- RULE-SET,KimiDirectDomains,🇨🇳 国内直连
+## 破解软件时需要拦截的域名列表
+- RULE-SET,KimiRejectDomains,🛑 全球拦截
+
+- RULE-SET,AD-KimiCustom,⛔️ 广告拦截
+## KimiURLRule.list - URL-REGEX不被Clash支持，所以该规则列表不被Clash支持
+- RULE-SET,AD-KimiURLRule,⛔️ 广告拦截
+
+
+# - RULE-SET,AD-AdblockFilters,⛔️ 广告拦截
+- RULE-SET,AD-AdblockFilters-Lite,⛔️ 广告拦截
+- RULE-SET,AD-AWAvenue-Ads-Rule,⛔️ 广告拦截
+- RULE-SET,AD-Advertising-Lite,⛔️ 广告拦截
+- RULE-SET,AD-Shadowrocket-Ads-Rule,⛔️ 广告拦截
+
+- RULE-SET,GithubProxyFast,🌐 代理加速
+
+- RULE-SET,GoogleCN,🌍 国外直连
+- RULE-SET,SteamCN,🌍 国外直连
+- RULE-SET,Apple,🍎 苹果服务
+- RULE-SET,Microsoft,🌍 国外直连
+
+- RULE-SET,Cloudflare,🌩️ Cloudflare
+- RULE-SET,GEO-Cloudflare,🌩️ Cloudflare
+
+
+- RULE-SET,GEO-OpenAI-Lite,🌍 国外代理
+- RULE-SET,GEO-OpenAI,🌍 国外代理
+- RULE-SET,GEO-Tiktok,🌍 国外代理
+- RULE-SET,Telegram,🌍 国外代理
+- RULE-SET,ProxyMedia,🌍 国外代理
+- RULE-SET,ProxyLite,🌍 国外代理
+
+- RULE-SET,ChinaDomain,🇨🇳 国内直连
+- RULE-SET,ChinaCompanyIp,🇨🇳 国内直连
+- RULE-SET,ChinaMax,🇨🇳 国内直连
+
+
+##
+## 注意：
+## 1. RULE-SET,GEO-CN 和 GEOSITE,CN 等效
+##
+# - RULE-SET,GEO-CN,🇨🇳 国内直连
+
+
+##
+## 注意：
+## 1. GEOSITE，GEOIP直接跟具体类型，只要类型被GEO支持即可。并且它不需要在rule-providers中显示引入。
+## 2. GEOSITE,CN 和 RULE-SET,GEO-CN 等效
+## 
+- GEOSITE,CN,🇨🇳 国内直连
+
+- GEOIP,CN,🇨🇳 国内直连
+
+- MATCH,🐟 漏网之鱼
+
+
+
+
+
+
+
+
+
+
+
+
+
+# rule-anchor:
+#   ip: &ip {type: http, interval: 86400, behavior: ipcidr, format: mrs}
+#   domain: &domain {type: http, interval: 86400, behavior: domain, format: mrs}
+# rule-providers:
+#   private_domain:
+#     <<: *domain
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.mrs"
+#   cn_domain:
+#     <<: *domain
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.mrs"
+#   biliintl_domain:
+#     <<: *domain
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/biliintl.mrs"
+#   ehentai_domain:
+#     <<: *domain
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ehentai.mrs"
+#   github_domain:
+#     <<: *domain
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.mrs"
+#   twitter_domain:
+#     <<: *domain
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/twitter.mrs"
+#   youtube_domain:
+#     <<: *domain
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.mrs"
+#   google_domain:
+#     <<: *domain
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.mrs"
+#   telegram_domain:
+#     <<: *domain
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.mrs"
+#   netflix_domain:
+#     <<: *domain
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.mrs"
+#   bilibili_domain:
+#     <<: *domain
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bilibili.mrs"
+#   bahamut_domain:
+#     <<: *domain
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bahamut.mrs"
+#   spotify_domain:
+#     <<: *domain
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/spotify.mrs"
+#   pixiv_domain:
+#     <<: *domain
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/pixiv.mrs"
+#   geolocation-!cn:
+#     <<: *domain
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.mrs"
+
+#   private_ip:
+#     <<: *ip
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/private.mrs"
+#   cn_ip:
+#     <<: *ip
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.mrs"
+#   google_ip:
+#     <<: *ip
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/google.mrs"
+#   netflix_ip:
+#     <<: *ip
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.mrs"
+#   twitter_ip:
+#     <<: *ip
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/twitter.mrs"
+#   telegram_ip:
+#     <<: *ip
+#     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/telegram.mrs"
+
+
+
+
